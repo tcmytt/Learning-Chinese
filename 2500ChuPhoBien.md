@@ -10777,3 +10777,4986 @@
     * **检举** (jiǎnjǔ) - (**Kiểm cử**) - Tố cáo, tố giác
     * **检验** (jiǎnyàn) - (**Kiểm nghiệm**) - Kiểm nghiệm
 
+## 901. 怀
+
+* **Pinyin:** huái
+* **Hán Việt:** Hoài
+* **Nghĩa chính:** Ngực (lòng), nhớ nhung, nghi ngờ, mang thai
+* **Từ ghép thông dụng:**
+    * **怀疑** (huáiyí) - (**Hoài nghi**) - Nghi ngờ
+    * **怀念** (huáiniàn) - (**Hoài niệm**) - Nhớ nhung, tưởng nhớ
+    * **怀孕** (huáiyùn) - (**Hoài dựng**) - Mang thai
+    * **关怀** (guānhuái) - (**Quan hoài**) - Quan tâm, chăm sóc
+    * **满怀** (mǎnhuái) - (**Mãn hoài**) - Tràn đầy (lòng), đầy ắp (tâm trạng)
+
+## 902. 顾
+
+* **Pinyin:** gù
+* **Hán Việt:** Cố
+* **Nghĩa chính:** Ngoảnh lại nhìn, chăm sóc, khách hàng
+* **Từ ghép thông dụng:**
+    * **照顾** (zhàogù) - (**Chiếu cố**) - Chăm sóc
+    * **顾客** (gùkè) - (**Cố khách**) - Khách hàng
+    * **顾问** (gùwèn) - (**Cố vấn**) - Cố vấn
+    * **顾虑** (gùlǜ) - (**Cố lự**) - Lo lắng, e ngại
+    * **回顾** (huígù) - (**Hồi cố**) - Nhìn lại, hồi tưởng
+
+## 903. 范
+
+* **Pinyin:** fàn
+* **Hán Việt:** Phạm
+* **Nghĩa chính:** Khuôn mẫu, phạm vi
+* **Từ ghép thông dụng:**
+    * **范围** (fànwéi) - (**Phạm vi**) - Phạm vi
+    * **模范** (mófàn) - (**Mô phạm**) - Tấm gương, mẫu mực
+    * **师范** (shīfàn) - (**Sư phạm**) - Sư phạm
+    * **规范** (guīfàn) - (**Quy phạm**) - Quy chuẩn, chuẩn mực
+    * **范例** (fànlì) - (**Phạm lệ**) - Ví dụ mẫu
+
+## 904. 攻
+
+* **Pinyin:** gōng
+* **Hán Việt:** Công
+* **Nghĩa chính:** Đánh, tấn công
+* **Từ ghép thông dụng:**
+    * **攻击** (gōngjī) - (**Công kích**) - Tấn công, công kích
+    * **攻读** (gōngdú) - (**Công độc**) - Chuyên tâm học (bằng cấp cao)
+    * **进攻** (jìngōng) - (**Tiến công**) - Tấn công (quân sự/thể thao)
+    * **攻打** (gōngdǎ) - (**Công đả**) - Đánh chiếm
+    * **主攻** (zhǔgōng) - (**Chủ công**) - Tấn công chính, chủ công
+
+## 905. 防
+
+* **Pinyin:** fáng
+* **Hán Việt:** Phòng
+* **Nghĩa chính:** Phòng thủ, đề phòng
+* **Từ ghép thông dụng:**
+    * **防止** (fángzhǐ) - (**Phòng chỉ**) - Ngăn ngừa, đề phòng
+    * **预防** (yùfáng) - (**Dự phòng**) - Phòng ngừa trước
+    * **国防** (guófáng) - (**Quốc phòng**) - Quốc phòng
+    * **消防** (xiāofáng) - (**Tiêu phòng**) - Phòng cháy chữa cháy
+    * **防守** (fángshǒu) - (**Phòng thủ**) - Phòng thủ
+
+## 906. 源
+
+* **Pinyin:** yuán
+* **Hán Việt:** Nguyên
+* **Nghĩa chính:** Nguồn (nước/gốc)
+* **Từ ghép thông dụng:**
+    * **来源** (láiyuán) - (**Lai nguyên**) - Nguồn gốc
+    * **资源** (zīyuán) - (**Tư nguyên**) - Tài nguyên
+    * **起源** (qǐyuán) - (**Khởi nguyên**) - Bắt nguồn, khởi nguồn
+    * **能源** (néngyuán) - (**Năng nguyên**) - Năng lượng
+    * **水源** (shuǐyuán) - (**Thủy nguyên**) - Nguồn nước
+
+## 907. 河
+
+* **Pinyin:** hé
+* **Hán Việt:** Hà
+* **Nghĩa chính:** Sông
+* **Từ ghép thông dụng:**
+    * **河流** (héliú) - (**Hà lưu**) - Sông ngòi
+    * **黄河** (Huánghé) - (**Hoàng Hà**) - Sông Hoàng Hà
+    * **运河** (yùnhé) - (**Vận hà**) - Kênh đào
+    * **河马** (hémǎ) - (**Hà mã**) - Con hà mã
+    * **过河** (guò hé) - (**Quá hà**) - Qua sông
+
+## 908. 江
+
+* **Pinyin:** jiāng
+* **Hán Việt:** Giang
+* **Nghĩa chính:** Sông lớn (thường chỉ sông Trường Giang)
+* **Từ ghép thông dụng:**
+    * **长江** (Chángjiāng) - (**Trường Giang**) - Sông Trường Giang (Dương Tử)
+    * **江湖** (jiānghú) - (**Giang hồ**) - Giang hồ (xã hội phi chính thống/phiêu bạt)
+    * **江南** (Jiāngnán) - (**Giang Nam**) - Vùng Giang Nam (phía nam sông Dương Tử)
+    * **江山** (jiāngshān) - (**Giang sơn**) - Giang sơn, đất nước
+
+## 909. 湖
+
+* **Pinyin:** hú
+* **Hán Việt:** Hồ
+* **Nghĩa chính:** Hồ nước
+* **Từ ghép thông dụng:**
+    * **湖泊** (húpō) - (**Hồ bạc**) - Hồ (nói chung)
+    * **西湖** (Xīhú) - (**Tây Hồ**) - Hồ Tây (Hàng Châu)
+    * **湖南** (Húnán) - (**Hồ Nam**) - Tỉnh Hồ Nam
+    * **湖北** (Húběi) - (**Hồ Bắc**) - Tỉnh Hồ Bắc
+
+## 910. 浪
+
+* **Pinyin:** làng
+* **Hán Việt:** Lãng
+* **Nghĩa chính:** Sóng, phóng túng
+* **Từ ghép thông dụng:**
+    * **浪费** (làngfèi) - (**Lãng phí**) - Lãng phí
+    * **浪漫** (làngmàn) - (**Lãng mạn**) - Lãng mạn
+    * **流浪** (liúlàng) - (**Lưu lãng**) - Lang thang, phiêu bạt
+    * **海浪** (hǎilàng) - (**Hải lãng**) - Sóng biển
+    * **风浪** (fēnglàng) - (**Phong lãng**) - Sóng gió
+
+## 911. 待
+
+* **Pinyin:** dài
+* **Hán Việt:** Đãi
+* **Nghĩa chính:** Đợi, đối xử, tiếp đãi
+* **Từ ghép thông dụng:**
+    * **等待** (děngdài) - (**Đẳng đãi**) - Chờ đợi
+    * **接待** (jiēdài) - (**Tiếp đãi**) - Tiếp đãi (khách)
+    * **待遇** (dàiyù) - (**Đãi ngộ**) - Đãi ngộ, lương bổng
+    * **待会儿** (dāihuǐr) - (**Đãi hội nhi**) - Một lát nữa, tí nữa (*Lưu ý: khi nghĩa là "ở lại/đợi một lát", khẩu ngữ thường đọc thanh 1: dāi*)
+    * **期待** (qīdài) - (**Kỳ đãi**) - Mong đợi
+
+## 912. 按
+
+* **Pinyin:** àn
+* **Hán Việt:** Án
+* **Nghĩa chính:** Ấn, đè, theo
+* **Từ ghép thông dụng:**
+    * **按照** (ànzhào) - (**Án chiếu**) - Căn cứ theo, dựa theo
+    * **按时** (ànshí) - (**Án thời**) - Đúng giờ
+    * **按摩** (ànmó) - (**Án ma**) - Mát-xa, xoa bóp
+    * **按钮** (ànniǔ) - (**Án nữu**) - Nút bấm
+    * **按理说** (ànlǐshuō) - (**Án lý thuyết**) - Theo lý mà nói
+
+## 913. 牌
+
+* **Pinyin:** pái
+* **Hán Việt:** Bài
+* **Nghĩa chính:** Tấm biển, nhãn hiệu, quân bài
+* **Từ ghép thông dụng:**
+    * **品牌** (pǐnpái) - (**Phẩm bài**) - Thương hiệu
+    * **牌子** (páizi) - (**Bài tử**) - Nhãn hiệu, cái biển/bảng
+    * **车牌** (chēpái) - (**Xa bài**) - Biển số xe
+    * **打牌** (dǎ pái) - (**Đả bài**) - Chơi bài
+    * **名牌** (míngpái) - (**Danh bài**) - Hàng hiệu, nhãn hiệu nổi tiếng
+
+## 914. 介
+
+* **Pinyin:** jiè
+* **Hán Việt:** Giới
+* **Nghĩa chính:** Ở giữa, giáp, giới thiệu
+* **Từ ghép thông dụng:**
+    * **介绍** (jièshào) - (**Giới thiệu**) - Giới thiệu
+    * **中介** (zhōngjiè) - (**Trung giới**) - Môi giới, trung gian
+    * **介入** (jièrù) - (**Giới nhập**) - Can thiệp vào, xen vào
+    * **介意** (jièyì) - (**Giới ý**) - Để bụng, để ý (thường dùng trong câu phủ định: 不介意)
+
+## 915. 余
+
+* **Pinyin:** yú
+* **Hán Việt:** Dư
+* **Nghĩa chính:** Thừa, dư ra
+* **Từ ghép thông dụng:**
+    * **多余** (duōyú) - (**Đa dư**) - Dư thừa
+    * **业余** (yèyú) - (**Nghiệp dư**) - Nghiệp dư, ngoài giờ làm việc
+    * **其余** (qíyú) - (**Kỳ dư**) - Phần còn lại, ngoài ra
+    * **余地** (yúdì) - (**Dư địa**) - Chỗ trống (để thương lượng/thay đổi)
+    * **年年有余** (niánniányǒuyú) - (**Niên niên hữu dư**) - Năm nào cũng dư dả (lời chúc Tết)
+
+## 916. 俗
+
+* **Pinyin:** sú
+* **Hán Việt:** Tục
+* **Nghĩa chính:** Phong tục, thô tục
+* **Từ ghép thông dụng:**
+    * **风俗** (fēngsú) - (**Phong tục**) - Phong tục
+    * **俗话** (súhuà) - (**Tục thoại**) - Tục ngữ
+    * **习俗** (xísú) - (**Tập tục**) - Tập quán, thói quen xã hội
+    * **庸俗** (yōrgsú) - (**Dung tục**) - Tầm thường, dung tục
+    * **入乡随俗** (rùxiāngsuísú) - (**Nhập hương tùy tục**) - Nhập gia tùy tục
+
+## 917. 映
+
+* **Pinyin:** yìng
+* **Hán Việt:** Ánh
+* **Nghĩa chính:** Chiếu, phản chiếu
+* **Từ ghép thông dụng:**
+    * **反映** (fǎnyìng) - (**Phản ánh**) - Phản ánh
+    * **电影** (diànyǐng) - (**Điện ảnh**) - Phim (chữ Ảnh 影 có bộ Cảnh 景, nhưng gốc từ 映) -> *Lưu ý: Chữ này thường dùng trong **放映** (fàngyìng - Phóng ánh - Chiếu phim)*
+    * **映照** (yìngzhào) - (**Ánh chiếu**) - Soi rọi
+    * **倒映** (dàoyìng) - (**Đảo ánh**) - Hình ảnh phản chiếu ngược (dưới nước)
+
+## 918. 咖
+
+* **Pinyin:** kā
+* **Hán Việt:** Ca
+* **Nghĩa chính:** (Dùng trong phiên âm)
+* **Từ ghép thông dụng:**
+    * **咖啡** (kāfēi) - (**Ca phê**) - Cà phê
+    * **咖啡馆** (kāfēiguǎn) - (**Ca phê quán**) - Quán cà phê
+    * **咖喱** (gālí) - (**Ca ly**) - Cà ri (*lưu ý: cà ri đọc là gā*)
+    * **大咖** (dàkā) - (**Đại ca**) - Nhân vật tầm cỡ, "cây đa cây đề" (từ lóng)
+
+## 919. 啡
+
+* **Pinyin:** fēi
+* **Hán Việt:** Phê
+* **Nghĩa chính:** (Dùng trong phiên âm cà phê, morphin)
+* **Từ ghép thông dụng:**
+    * **咖啡** (kāfēi) - (**Ca phê**) - Cà phê
+    * **咖啡因** (kāfēiyīn) - (**Ca phê nhân**) - Caffeine
+    * **吗啡** (mǎfēi) - (**Mã phê**) - Morphin (thuốc giảm đau)
+
+## 920. 详
+
+* **Pinyin:** xiáng
+* **Hán Việt:** Tường
+* **Nghĩa chính:** Chi tiết, rõ ràng
+* **Từ ghép thông dụng:**
+    * **详细** (xiángxì) - (**Tường tế**) - Tường tận, chi tiết
+    * **详情** (xiángqíng) - (**Tường tình**) - Tình hình chi tiết
+    * **详谈** (xiángtán) - (**Tường đàm**) - Bàn bạc kỹ lưỡng
+    * **安详** (ānxiáng) - (**An tường**) - An nhiên, điềm tĩnh
+
+## 921. 轮
+
+* **Pinyin:** lún
+* **Hán Việt:** Luân
+* **Nghĩa chính:** Bánh xe, luân phiên, vòng (trăng/thi đấu)
+* **Từ ghép thông dụng:**
+    * **轮胎** (lúntāi) - (**Luân thai**) - Lốp xe
+    * **轮流** (lúnliú) - (**Luân lưu**) - Luân phiên, thay phiên nhau
+    * **轮船** (lúnchuán) - (**Luân thuyền**) - Tàu thủy
+    * **一轮** (yì lún) - (**Nhất luân**) - Một vòng (thi đấu/trăng)
+    * **车轮** (chēlún) - (**Xa luân**) - Bánh xe
+
+## 922. 醒
+
+* **Pinyin:** xǐng
+* **Hán Việt:** Tỉnh
+* **Nghĩa chính:** Tỉnh táo, thức dậy
+* **Từ ghép thông dụng:**
+    * **睡醒** (shuìxǐng) - (**Thụy tỉnh**) - Ngủ dậy
+    * **清醒** (qīngxǐng) - (**Thanh tỉnh**) - Tỉnh táo (đầu óc)
+    * **提醒** (tíxǐng) - (**Đề tỉnh**) - Nhắc nhở
+    * **惊醒** (jīngxǐng) - (**Kinh tỉnh**) - Giật mình tỉnh giấc
+    * **醒悟** (xǐngwù) - (**Tỉnh ngộ**) - Tỉnh ngộ
+
+## 923. 配
+
+* **Pinyin:** pèi
+* **Hán Việt:** Phối
+* **Nghĩa chính:** Phối hợp, xứng đôi, pha chế
+* **Từ ghép thông dụng:**
+    * **配合** (pèihé) - (**Phối hợp**) - Phối hợp
+    * **搭配** (dāpèi) - (**Đáp phối**) - Kết hợp (quần áo/từ ngữ)
+    * **配不上** (pèibushàng) - (**Phối bất thượng**) - Không xứng (với ai đó)
+    * **分配** (fēnpèi) - (**Phân phối**) - Phân phối
+    * **配件** (pèijiàn) - (**Phối kiện**) - Phụ kiện
+
+## 924. 误
+
+* **Pinyin:** wù
+* **Hán Việt:** Ngộ
+* **Nghĩa chính:** Sai, lầm, lỡ, làm hại
+* **Từ ghép thông dụng:**
+    * **误会** (wùhuì) - (**Ngộ hội**) - Hiểu lầm
+    * **错误** (cuòwù) - (**Thác ngộ**) - Sai lầm, lỗi
+    * **延误** (yánwù) - (**Diên ngộ**) - Chậm trễ, delay (chuyến bay)
+    * **耽误** (dānwu) - (**Đam ngộ**) - Làm lỡ, làm chậm trễ (thời gian/công việc)
+    * **失误** (shīwù) - (**Thất ngộ**) - Sơ suất, lỗi kỹ thuật
+
+## 925. 移
+
+* **Pinyin:** yí
+* **Hán Việt:** Di
+* **Nghĩa chính:** Di chuyển, dời đổi
+* **Từ ghép thông dụng:**
+    * **移动** (yídòng) - (**Di động**) - Di động, di chuyển
+    * **移民** (yímín) - (**Di dân**) - Di dân, nhập cư
+    * **转移** (zhuǎnyí) - (**Chuyển di**) - Chuyển dời (địa điểm/sự chú ý)
+    * **移植** (yízhí) - (**Di thực**) - Cấy ghép (cây/cơ quan nội tạng)
+    * **移交** (yíjiāo) - (**Di giao**) - Bàn giao
+
+## 926. 控
+
+* **Pinyin:** kòng
+* **Hán Việt:** Khống
+* **Nghĩa chính:** Điều khiển, tố cáo
+* **Từ ghép thông dụng:**
+    * **控制** (kòngzhì) - (**Khống chế**) - Kiểm soát, khống chế
+    * **遥控器** (yáokòngqì) - (**Dao khống khí**) - Điều khiển từ xa (Remote)
+    * **监控** (jiānkòng) - (**Giám khống**) - Giám sát, camera theo dõi
+    * **控告** (kònggào) - (**Khống cáo**) - Kiện cáo, tố cáo
+
+## 927. 监
+
+* **Pinyin:** jiān
+* **Hán Việt:** Giám
+* **Nghĩa chính:** Soi, xem xét, nhà tù
+* **Từ ghép thông dụng:**
+    * **监督** (jiāndū) - (**Giám đốc**) - Giám sát, đốc thúc
+    * **监狱** (jiānyù) - (**Giám ngục**) - Nhà tù
+    * **太监** (tàijiàn) - (**Thái giám**) - Thái giám
+    * **监听** (jiāntīng) - (**Giám thính**) - Nghe lén, giám sát âm thanh
+    * **监控** (jiānkòng) - (**Giám khống**) - Camera giám sát
+
+## 928. 督
+
+* **Pinyin:** dū
+* **Hán Việt:** Đốc
+* **Nghĩa chính:** Coi sóc, kiểm soát
+* **Từ ghép thông dụng:**
+    * **监督** (jiāndū) - (**Giám đốc**) - Giám sát
+    * **督促** (dūcù) - (**Đốc xúc**) - Đốc thúc, hối thúc
+    * **总督** (zǒngdū) - (**Tổng đốc**) - Tổng đốc (quan chức cũ)
+
+## 929. 绍
+
+* **Pinyin:** shào
+* **Hán Việt:** Thiệu
+* **Nghĩa chính:** Nối tiếp (thường chỉ dùng trong từ ghép "giới thiệu")
+* **Từ ghép thông dụng:**
+    * **介绍** (jièshào) - (**Giới thiệu**) - Giới thiệu
+    * **自我介绍** (zìwǒ jièshào) - (**Tự ngã giới thiệu**) - Tự giới thiệu bản thân
+
+## 930. 引
+
+* **Pinyin:** yǐn
+* **Hán Việt:** Dẫn
+* **Nghĩa chính:** Kéo, dẫn dắt, gây ra
+* **Từ ghép thông dụng:**
+    * **吸引** (xīyǐn) - (**Hấp dẫn**) - Thu hút, hấp dẫn
+    * **引起** (yǐnqǐ) - (**Dẫn khởi**) - Gây ra, dẫn đến (sự chú ý/tranh luận)
+    * **指引** (zhǐyǐn) - (**Chỉ dẫn**) - Chỉ dẫn
+    * **引用** (yǐnyòng) - (**Dẫn dụng**) - Trích dẫn
+    * **引力** (yǐnlì) - (**Dẫn lực**) - Lực hấp dẫn
+
+## 931. 冒
+
+* **Pinyin:** mào
+* **Hán Việt:** Mạo
+* **Nghĩa chính:** Bốc lên, liều lĩnh, giả mạo
+* **Từ ghép thông dụng:**
+    * **感冒** (gǎnmào) - (**Cảm mạo**) - Bị cảm (ốm)
+    * **冒险** (màoxiǎn) - (**Mạo hiểm**) - Mạo hiểm, phiêu lưu
+    * **冒充** (màochōng) - (**Mạo sung**) - Giả mạo, đóng giả
+    * **冒犯** (màofàn) - (**Mạo phạm**) - Mạo phạm, xúc phạm
+    * **冒烟** (mào yān) - (**Mạo yên**) - Bốc khói
+
+## 932. 志
+
+* **Pinyin:** zhì
+* **Hán Việt:** Chí
+* **Nghĩa chính:** Ý chí, ghi chép
+* **Từ ghép thông dụng:**
+    * **杂志** (zázhì) - (**Tạp chí**) - Tạp chí
+    * **志愿者** (zhìyuànzhě) - (**Chí nguyện giả**) - Tình nguyện viên
+    * **同志** (tóngzhì) - (**Đồng chí**) - Đồng chí (hoặc người đồng tính)
+    * **意志** (yìzhì) - (**Ý chí**) - Ý chí
+    * **有志者事竟成** (yǒuzhìzhě shì jìng chéng) - (**Hữu chí giả sự cánh thành**) - Có chí thì nên
+
+## 933. 粮
+
+* **Pinyin:** liáng
+* **Hán Việt:** Lương
+* **Nghĩa chính:** Lương thực
+* **Từ ghép thông dụng:**
+    * **粮食** (liángshi) - (**Lương thực**) - Lương thực (gạo, mì...)
+    * **干粮** (gānliáng) - (**Can lương**) - Lương khô
+    * **粮仓** (liángcāng) - (**Lương thương**) - Kho lương
+    * **口粮** (kǒuliáng) - (**Khẩu lương**) - Khẩu phần lương thực
+
+## 934. 策
+
+* **Pinyin:** cè
+* **Hán Việt:** Sách
+* **Nghĩa chính:** Kế hoạch, mưu lược, roi
+* **Từ ghép thông dụng:**
+    * **政策** (zhèngcè) - (**Chính sách**) - Chính sách
+    * **策划** (cèhuà) - (**Sách hoạch**) - Lên kế hoạch, tổ chức (sự kiện)
+    * **对策** (duìcè) - (**Đối sách**) - Đối sách, biện pháp đối phó
+    * **决策** (juécè) - (**Quyết sách**) - Quyết sách, ra quyết định
+    * **束手无策** (shùshǒuwúcè) - (**Thúc thủ vô sách**) - Bó tay hết cách
+
+## 935. 略
+
+* **Pinyin:** lüè
+* **Hán Việt:** Lược
+* **Nghĩa chính:** Sơ lược, bỏ qua, mưu lược
+* **Từ ghép thông dụng:**
+    * **忽略** (hūlüè) - (**Hốt lược**) - Bỏ qua, lơ là
+    * **战略** (zhànlüè) - (**Chiến lược**) - Chiến lược
+    * **省略** (shěnglüè) - (**Tỉnh lược**) - Tỉnh lược, lược bỏ
+    * **大略** (dàlüè) - (**Đại lược**) - Đại khái, sơ qua
+    * **侵略** (qīnlüè) - (**Xâm lược**) - Xâm lược
+
+## 936. 恐
+
+* **Pinyin:** kǒng
+* **Hán Việt:** Khủng
+* **Nghĩa chính:** Sợ hãi, dọa
+* **Từ ghép thông dụng:**
+    * **恐怕** (kǒngpà) - (**Khủng phạ**) - E rằng, sợ rằng (dự đoán điều không hay)
+    * **恐怖** (kǒngbù) - (**Khủng bố**) - Khủng bố, kinh dị
+    * **恐龙** (kǒnglóng) - (**Khủng long**) - Khủng long
+    * **恐高症** (kǒnggāozhèng) - (**Khủng cao chứng**) - Chứng sợ độ cao
+    * **惊恐** (jīngkǒng) - (**Kinh khủng**) - Kinh hoàng, hoảng sợ
+
+## 937. 怖
+
+* **Pinyin:** bù
+* **Hán Việt:** Bố
+* **Nghĩa chính:** Sợ hãi (thường đi với Khủng)
+* **Từ ghép thông dụng:**
+    * **恐怖** (kǒngbù) - (**Khủng bố**) - Khủng bố, đáng sợ
+    * **可怖** (kěbù) - (**Khả bố**) - Đáng sợ, ghê rợn
+    * **恐怖片** (kǒngbùpiàn) - (**Khủng bố phiến**) - Phim kinh dị
+
+## 938. 烈
+
+* **Pinyin:** liè
+* **Hán Việt:** Liệt
+* **Nghĩa chính:** Mạnh, dữ dội, cứng cỏi
+* **Từ ghép thông dụng:**
+    * **热烈** (rèliè) - (**Nhiệt liệt**) - Nhiệt liệt (vỗ tay/chào mừng)
+    * **剧烈** (jùliè) - (**Kịch liệt**) - Kịch liệt, dữ dội (đau/rung chuyển)
+    * **强烈** (qiángliè) - (**Cường liệt**) - Mãnh liệt, mạnh mẽ (phản đối/ánh sáng)
+    * **烈士** (lièshì) - (**Liệt sĩ**) - Liệt sĩ
+    * **烈火** (lièhuǒ) - (**Liệt hỏa**) - Lửa mạnh
+
+## 939. 聚
+
+* **Pinyin:** jù
+* **Hán Việt:** Tụ
+* **Nghĩa chính:** Tụ họp, gom lại
+* **Từ ghép thông dụng:**
+    * **聚会** (jùhuì) - (**Tụ hội**) - Tụ tập, liên hoan
+    * **聚集** (jùjí) - (**Tụ tập**) - Tụ tập, tập hợp
+    * **团聚** (tuánjù) - (**Đoàn tụ**) - Đoàn tụ (gia đình)
+    * **聚餐** (jùcān) - (**Tụ phạn**) - Ăn uống cùng nhau (liên hoan)
+    * **凝聚力** (níngjùlì) - (**Ngưng tụ lực**) - Sự gắn kết, lực ngưng tụ
+
+## 940. 散
+
+* **Pinyin:** sàn (hoặc sǎn)
+* **Hán Việt:** Tán / Tản
+* **Nghĩa chính:** Tan ra, phân phát / Rời rạc (sǎn)
+* **Từ ghép thông dụng:**
+    * **散步** (sàn bù) - (**Tản bộ**) - Đi dạo (*đọc là sàn*)
+    * **解散** (jiěsàn) - (**Giải tán**) - Giải tán (*đọc là sàn*)
+    * **分散** (fēnsàn) - (**Phân tán**) - Phân tán (*đọc là sàn*)
+    * **散文** (sǎnwén) - (**Tản văn**) - Tản văn (*đọc là sǎn*)
+    * **松散** (sōngsǎn) - (**Tùng tản**) - Lỏng lẻo (*đọc là sǎn*)
+
+## 941. 占
+
+* **Pinyin:** zhàn
+* **Hán Việt:** Chiếm / Chiêm
+* **Nghĩa chính:** Chiếm giữ, bói toán (chiêm)
+* **Từ ghép thông dụng:**
+    * **占用** (zhànyòng) - (**Chiếm dụng**) - Chiếm dùng, sử dụng
+    * **占领** (zhànlǐng) - (**Chiếm lĩnh**) - Chiếm đóng, chiếm lĩnh
+    * **占线** (zhànxiàn) - (**Chiếm tuyến**) - Máy bận (điện thoại)
+    * **独占** (dúzhàn) - (**Độc chiếm**) - Chiếm một mình
+    * **占卜** (zhànbǔ) - (**Chiêm bốc**) - Bói toán
+
+## 942. 拥
+
+* **Pinyin:** yōng
+* **Hán Việt:** Ủng
+* **Nghĩa chính:** Ôm, ủng hộ, sở hữu, chen chúc
+* **Từ ghép thông dụng:**
+    * **拥抱** (yōngbào) - (**Ủng bão**) - Ôm ấp
+    * **拥护** (yōnghù) - (**Ủng hộ**) - Ủng hộ, bênh vực (lãnh đạo/chính sách)
+    * **拥有** (yōngyǒu) - (**Ủng hữu**) - Sở hữu, có
+    * **拥挤** (yōngjǐ) - (**Ủng tễ**) - Đông đúc, chen chúc
+    * **拥堵** (yōngdǔ) - (**Ủng đổ**) - Tắc nghẽn (giao thông)
+
+## 943. 渐
+
+* **Pinyin:** jiàn
+* **Hán Việt:** Tiệm
+* **Nghĩa chính:** Dần dần
+* **Từ ghép thông dụng:**
+    * **渐渐** (jiànjiàn) - (**Tiệm tiệm**) - Dần dần (văn viết/nói)
+    * **逐渐** (zhújiàn) - (**Trục tiệm**) - Dần dần, từng bước
+    * **渐变** (jiànbiàn) - (**Tiệm biến**) - Biến đổi dần dần
+    * **循序渐进** (xúnxùjiànjìn) - (**Tuần tự tiệm tiến**) - Tiến lên theo trình tự (từng bước một)
+
+## 944. 劝
+
+* **Pinyin:** quàn
+* **Hán Việt:** Khuyên
+* **Nghĩa chính:** Khuyên bảo
+* **Từ ghép thông dụng:**
+    * **劝告** (quàngào) - (**Khuyên cáo**) - Khuyên bảo
+    * **劝说** (quànshuō) - (**Khuyên thuyết**) - Thuyết phục, khuyên nhủ
+    * **劝阻** (quànzǔ) - (**Khuyên trở**) - Khuyên can, ngăn cản
+    * **规劝** (guīquàn) - (**Quy khuyên**) - Khuyên răn
+
+## 945. 阻
+
+* **Pinyin:** zǔ
+* **Hán Việt:** Trở
+* **Nghĩa chính:** Ngăn cản, trở ngại
+* **Từ ghép thông dụng:**
+    * **阻止** (zǔzhǐ) - (**Trở chỉ**) - Ngăn chặn
+    * **阻挡** (zǔdǎng) - (**Trở đáng**) - Ngăn cản, chắn
+    * **阻碍** (zǔ'ài) - (**Trở ngại**) - Cản trở, gây trở ngại
+    * **阻力** (zǔlì) - (**Trở lực**) - Lực cản
+    * **险阻** (xiǎnzǔ) - (**Hiểm trở**) - Hiểm trở
+
+## 946. 抗
+
+* **Pinyin:** kàng
+* **Hán Việt:** Kháng
+* **Nghĩa chính:** Chống lại
+* **Từ ghép thông dụng:**
+    * **反抗** (fǎnkàng) - (**Phản kháng**) - Phản kháng
+    * **抵抗** (dǐkàng) - (**Để kháng**) - Đề kháng, chống cự
+    * **抗议** (kàngyì) - (**Kháng nghị**) - Phản đối, kháng nghị
+    * **对抗** (duìkàng) - (**Đối kháng**) - Đối đầu
+    * **抗生素** (kàngshēngsù) - (**Kháng sinh tố**) - Thuốc kháng sinh
+
+## 947. 折
+
+* **Pinyin:** zhé (hoặc shé)
+* **Hán Việt:** Chiết / Thiệt
+* **Nghĩa chính:** Gãy, gấp, giảm giá
+* **Từ ghép thông dụng:**
+    * **打折** (dǎ zhé) - (**Đả chiết**) - Giảm giá
+    * **折扣** (zhékòu) - (**Chiết khấu**) - Chiết khấu
+    * **折磨** (zhémó) - (**Chiết ma**) - Hành hạ, dày vò
+    * **挫折** (cuòzhé) - (**Tỏa chiết**) - Vấp ngã, trắc trở
+    * **骨折** (gǔzhé) - (**Cốt chiết**) - Gãy xương
+
+## 948. 挑
+
+* **Pinyin:** tiāo (hoặc tiǎo)
+* **Hán Việt:** Thiêu / Khiêu
+* **Nghĩa chính:** Chọn, gánh (tiāo) / Khiêu khích (tiǎo)
+* **Từ ghép thông dụng:**
+    * **挑选** (tiāoxuǎn) - (**Thiêu tuyển**) - Chọn lựa
+    * **挑剔** (tiāoti) - (**Thiêu tích**) - Kén chọn, bới lông tìm vết
+    * **挑战** (tiǎozhàn) - (**Khiêu chiến**) - Thử thách, thách thức (*đọc là tiǎo*)
+    * **挑拨** (tiǎobō) - (**Khiêu bát**) - Xúi giục, ly gián (*đọc là tiǎo*)
+
+## 949. 挖
+
+* **Pinyin:** wā
+* **Hán Việt:** Oa
+* **Nghĩa chính:** Đào, khoét
+* **Từ ghép thông dụng:**
+    * **挖掘** (wājué) - (**Oa quật**) - Khai quật, tìm kiếm (nhân tài/tiềm năng)
+    * **挖苦** (wākǔ) - (**Oa khổ**) - Mỉa mai, châm chọc
+    * **挖洞** (wā dòng) - (**Oa động**) - Đào lỗ
+    * **挖墙脚** (wā qiángjiǎo) - (**Oa tường cước**) - Nẫng tay trên, lôi kéo người của đối phương
+
+## 950. 摸
+
+* **Pinyin:** mō
+* **Hán Việt:** Mạc / Mô
+* **Nghĩa chính:** Sờ, chạm, mò mẫm
+* **Từ ghép thông dụng:**
+    * **摸索** (mōsuǒ) - (**Mạc sách**) - Mò mẫm, tìm tòi
+    * **触摸** (chùmō) - (**Xúc mạc**) - Chạm vào (cảm ứng)
+    * **偷偷摸摸** (tōutōumōmō) - (**Thâu thâu mạc mạc**) - Lén lút
+    * **不可捉摸** (bùkězhuōmō) - (**Bất khả tróc mạc**) - Khó lường, không thể đoán được
+
+## 951. 替
+
+* **Pinyin:** tì
+* **Hán Việt:** Thế
+* **Nghĩa chính:** Thay thế, hộ/giùm
+* **Từ ghép thông dụng:**
+    * **代替** (dàitì) - (**Đại thế**) - Thay thế
+    * **替身** (tìshēn) - (**Thế thân**) - Người đóng thế (trong phim)
+    * **替换** (tìhuàn) - (**Thế hoán**) - Thay đổi, đổi chỗ
+    * **替补** (tìbǔ) - (**Thế bổ**) - Dự bị (cầu thủ)
+    * **替罪羊** (tìzuìyáng) - (**Thế tội dương**) - Kẻ chịu tội thay (con dê tế thần)
+
+## 952. 肯
+
+* **Pinyin:** kěn
+* **Hán Việt:** Khẳng
+* **Nghĩa chính:** Chịu, đồng ý, xương
+* **Từ ghép thông dụng:**
+    * **肯定** (kěndìng) - (**Khẳng định**) - Khẳng định, chắc chắn
+    * **不肯** (bù kěn) - (**Bất khẳng**) - Không chịu (làm gì đó)
+    * **宁肯** (nìngkěn) - (**Ninh khẳng**) - Thà rằng
+    * **肯干** (kěn gàn) - (**Khẳng cán**) - Chịu khó làm việc
+
+## 953. 惊
+
+* **Pinyin:** jīng
+* **Hán Việt:** Kinh
+* **Nghĩa chính:** Sợ hãi, ngạc nhiên
+* **Từ ghép thông dụng:**
+    * **惊讶** (jīngyà) - (**Kinh nhạ**) - Ngạc nhiên, kinh ngạc
+    * **惊喜** (jīngxǐ) - (**Kinh hỷ**) - Ngạc nhiên vui mừng (bất ngờ)
+    * **吃惊** (chī jīng) - (**Ngật kinh**) - Giật mình
+    * **惊吓** (jīngxià) - (**Kinh hách**) - Hoảng sợ, kinh hãi
+    * **惊人** (jīngrén) - (**Kinh nhân**) - Kinh người (tài năng/con số)
+
+## 954. 讶
+
+* **Pinyin:** yà
+* **Hán Việt:** Nhạ
+* **Nghĩa chính:** Ngạc nhiên (thường đi với Kinh)
+* **Từ ghép thông dụng:**
+    * **惊讶** (jīngyà) - (**Kinh nhạ**) - Ngạc nhiên
+    * **讶异** (yàyì) - (**Nhạ dị**) - Kinh ngạc, lấy làm lạ
+
+## 955. 吵
+
+* **Pinyin:** chǎo
+* **Hán Việt:** Sảo
+* **Nghĩa chính:** Ồn ào, cãi nhau
+* **Từ ghép thông dụng:**
+    * **吵架** (chǎojià) - (**Sảo giá**) - Cãi nhau
+    * **争吵** (zhēngchǎo) - (**Tranh sảo**) - Tranh cãi
+    * **吵闹** (chǎonào) - (**Sảo náo**) - Ồn ào, huyên náo
+    * **太吵了** (tài chǎo le) - (**Thái sảo liễu**) - Ồn quá
+
+## 956. 闹
+
+* **Pinyin:** nào
+* **Hán Việt:** Náo
+* **Nghĩa chính:** Ồn ào, làm, xảy ra (bệnh/thiên tai)
+* **Từ ghép thông dụng:**
+    * **热闹** (rènao) - (**Nhiệt náo**) - Náo nhiệt, đông vui
+    * **闹钟** (nàozhōng) - (**Náo chung**) - Đồng hồ báo thức
+    * **胡闹** (húnào) - (**Hồ náo**) - Làm bậy, quậy phá
+    * **闹笑话** (nào xiàohua) - (**Náo tiếu thoại**) - Làm trò cười
+    * **闹矛盾** (nào máodùn) - (**Náo mâu thuẫn**) - Xảy ra mâu thuẫn
+
+## 957. 喊
+
+* **Pinyin:** hǎn
+* **Hán Việt:** Hảm
+* **Nghĩa chính:** Hét, kêu, gọi
+* **Từ ghép thông dụng:**
+    * **大喊** (dà hǎn) - (**Đại hảm**) - Hét lớn
+    * **叫喊** (jiàohǎn) - (**Khiếu hảm**) - La hét
+    * **喊叫** (hǎnjiào) - (**Hảm khiếu**) - Hò hét
+    * **呐喊** (nàhǎn) - (**Nột hảm**) - Gào thét (cổ vũ/phản đối)
+
+## 958. 骂
+
+* **Pinyin:** mà
+* **Hán Việt:** Mạ
+* **Nghĩa chính:** Mắng, chửi
+* **Từ ghép thông dụng:**
+    * **责骂** (zémà) - (**Trách mạ**) - Quở trách, mắng mỏ
+    * **骂人** (mà rén) - (**Mạ nhân**) - Chửi người
+    * **咒骂** (zhòumà) - (**Chú mạ**) - Nguyền rủa
+    * **挨骂** (ái mà) - (**Ai mạ**) - Bị mắng
+
+## 959. 吹
+
+* **Pinyin:** chuī
+* **Hán Việt:** Xuy
+* **Nghĩa chính:** Thổi
+* **Từ ghép thông dụng:**
+    * **吹牛** (chuī niú) - (**Xuy ngưu**) - Khoác lác, chém gió
+    * **吹风** (chuī fēng) - (**Xuy phong**) - Hóng gió, sấy tóc
+    * **吹捧** (chuīpěng) - (**Xuy bổng**) - Tâng bốc
+    * **告吹** (gàochuī) - (**Cáo xuy**) - Thất bại, hỏng (kế hoạch/chuyện tình)
+
+## 960. 咬
+
+* **Pinyin:** yǎo
+* **Hán Việt:** Giảo
+* **Nghĩa chính:** Cắn
+* **Từ ghép thông dụng:**
+    * **咬牙** (yǎo yá) - (**Giảo nha**) - Nghiến răng
+    * **咬人** (yǎo rén) - (**Giảo nhân**) - Cắn người
+    * **一口咬定** (yìkǒuyǎodìng) - (**Nhất khẩu giảo định**) - Khẳng định chắc nịch
+    * **咬文嚼字** (yǎowénjiáozì) - (**Giảo văn tước tự**) - Câu nệ chữ nghĩa, soi mói câu chữ
+
+## 961. 躺
+
+* **Pinyin:** tǎng
+* **Hán Việt:** Thảng
+* **Nghĩa chính:** Nằm
+* **Từ ghép thông dụng:**
+    * **躺下** (tǎng xià) - (**Thảng hạ**) - Nằm xuống
+    * **躺椅** (tǎngyǐ) - (**Thảng ỷ**) - Ghế nằm (ghế bố)
+    * **平躺** (píngtǎng) - (**Bình thảng**) - Nằm thẳng, nằm ngửa
+    * **躺平** (tǎngpíng) - (**Thảng bình**) - Nằm yên mặc kệ đời (trào lưu của giới trẻ: không phấn đấu nữa)
+
+## 962. 搬
+
+* **Pinyin:** bān
+* **Hán Việt:** Ban
+* **Nghĩa chính:** Dời, chuyển, bê (vật nặng)
+* **Từ ghép thông dụng:**
+    * **搬家** (bānjiā) - (**Ban gia**) - Chuyển nhà
+    * **搬运** (bānyùn) - (**Ban vận**) - Vận chuyển
+    * **搬弄是非** (bānnòngshìfēi) - (**Ban lộng thị phi**) - Đặt điều, xúi giục (chuyển chuyện nọ xọ chuyện kia)
+
+## 963. 擦
+
+* **Pinyin:** cā
+* **Hán Việt:** Sát
+* **Nghĩa chính:** Lau, chùi, cọ xát
+* **Từ ghép thông dụng:**
+    * **擦汗** (cā hàn) - (**Sát hãn**) - Lau mồ hôi
+    * **摩擦** (mócā) - (**Ma sát**) - Ma sát, xích mích
+    * **擦肩而过** (cājiān'érguò) - (**Sát kiên nhi quá**) - Lướt qua nhau (bỏ lỡ cơ hội/duyên phận)
+    * **橡皮擦** (xiàngpícā) - (**Tượng bì sát**) - Cục tẩy
+
+## 964. 捡
+
+* **Pinyin:** jiǎn
+* **Hán Việt:** Kiểm
+* **Nghĩa chính:** Nhặt, lượm
+* **Từ ghép thông dụng:**
+    * **捡起来** (jiǎn qǐlái) - (**Kiểm khởi lai**) - Nhặt lên
+    * **捡垃圾** (jiǎn lājī) - (**Kiểm lạp cơ**) - Nhặt rác
+    * **捡漏** (jiǎnlòu) - (**Kiểm lậu**) - Mua được món hời (nhặt được đồ tốt giá rẻ)
+
+## 965. 扶
+
+* **Pinyin:** fú
+* **Hán Việt:** Phù
+* **Nghĩa chính:** Đỡ, dìu, vịn
+* **Từ ghép thông dụng:**
+    * **扶手** (fúshǒu) - (**Phù thủ**) - Tay vịn (cầu thang/ghế)
+    * **扶持** (fúchí) - (**Phù trì**) - Nâng đỡ, hỗ trợ
+    * **扶老携幼** (fúlǎoxiéyòu) - (**Phù lão huề ấu**) - Dìu già dắt trẻ
+    * **扶贫** (fúpín) - (**Phù bần**) - Xóa đói giảm nghèo
+
+## 966. 堵
+
+* **Pinyin:** dǔ
+* **Hán Việt:** Đổ
+* **Nghĩa chính:** Tắc, chặn, lấp
+* **Từ ghép thông dụng:**
+    * **堵车** (dǔ chē) - (**Đổ xa**) - Tắc đường
+    * **拥堵** (yōngdǔ) - (**Ủng đổ**) - Ùn tắc (giao thông)
+    * **堵塞** (dǔsè) - (**Đổ tắc**) - Tắc nghẽn
+    * **围追堵截** (wéizhuīdǔjié) - (**Vi truy đổ tiệt**) - Vây bắt, chặn đường cùng
+
+## 967. 挤
+
+* **Pinyin:** jǐ
+* **Hán Việt:** Tễ
+* **Nghĩa chính:** Chen, ép, nặn
+* **Từ ghép thông dụng:**
+    * **拥挤** (yōngjǐ) - (**Ủng tễ**) - Đông đúc, chen chúc
+    * **挤牙膏** (jǐ yágāo) - (**Tễ nha cao**) - Nặn kem đánh răng (nghĩa bóng: làm việc lề mề)
+    * **排挤** (páijǐ) - (**Bài tễ**) - Chèn ép, loại trừ nhau
+
+## 968. 脏
+
+* **Pinyin:** zāng (hoặc zàng)
+* **Hán Việt:** Tạng
+* **Nghĩa chính:** Bẩn (zāng) / Nội tạng (zàng)
+* **Từ ghép thông dụng:**
+    * **肮脏** (āngzāng) - (**Ương tạng**) - Bẩn thỉu, dơ dáy
+    * **弄脏** (nòng zāng) - (**Lộng tạng**) - Làm bẩn
+    * **心脏** (xīnzàng) - (**Tâm tạng**) - Trái tim (*đọc là zàng*)
+    * **内脏** (nèizàng) - (**Nội tạng**) - Nội tạng (*đọc là zàng*)
+
+## 969. 烂
+
+* **Pinyin:** làn
+* **Hán Việt:** Lạn
+* **Nghĩa chính:** Nát, mục, rách, tồi tệ
+* **Từ ghép thông dụng:**
+    * **破烂** (pòlàn) - (**Phá lạn**) - Rách nát, đồ đồng nát
+    * **灿烂** (cànlàn) - (**Xán lạn**) - Rực rỡ, xán lạn (nụ cười/ánh nắng)
+    * **烂熟** (lànshú) - (**Lạn thục**) - Thuộc làu làu, chín nhừ
+    * **烂尾楼** (lànwěilóu) - (**Lạn vĩ lâu**) - Tòa nhà bỏ hoang (xây dở dang)
+
+## 970. 宽
+
+* **Pinyin:** kuān
+* **Hán Việt:** Khoan
+* **Nghĩa chính:** Rộng (chiều ngang), khoan dung
+* **Từ ghép thông dụng:**
+    * **宽阔** (kuānkuò) - (**Khoan khoát**) - Rộng rãi, bao la
+    * **宽容** (kuānróng) - (**Khoan dung**) - Khoan dung, tha thứ
+    * **宽带** (kuāndài) - (**Khoan đái**) - Băng thông rộng (Internet)
+    * **心宽体胖** (xīnkuāntǐpán) - (**Tâm khoan thể bàn**) - Tâm hồn thoải mái thì thân thể mập mạp (vô tư lự)
+
+## 971. 窄
+
+* **Pinyin:** zhǎi
+* **Hán Việt:** Trách / Trạch
+* **Nghĩa chính:** Hẹp, chật
+* **Từ ghép thông dụng:**
+    * **狭窄** (xiázhǎi) - (**Hiệp trách**) - Chật hẹp
+    * **窄小** (zhǎixiǎo) - (**Trách tiểu**) - Nhỏ hẹp
+    * **心胸狭窄** (xīnxiōngxiázhǎi) - (**Tâm hung hiệp trách**) - Hẹp hòi, nhỏ nhen
+    * **冤家路窄** (yuānjiālùzhǎi) - (**Oan gia lộ trách**) - Oan gia ngõ hẹp
+
+## 972. 剩
+
+* **Pinyin:** shèng
+* **Hán Việt:** Thặng
+* **Nghĩa chính:** Thừa, còn lại
+* **Từ ghép thông dụng:**
+    * **剩下** (shèngxià) - (**Thặng hạ**) - Còn lại
+    * **剩菜** (shèngcài) - (**Thặng thái**) - Thức ăn thừa
+    * **剩余** (shèngyú) - (**Thặng dư**) - Dư thừa
+    * **剩女** (shèngnǚ) - (**Thặng nữ**) - Gái ế (phụ nữ lớn tuổi chưa chồng)
+
+## 973. 陪
+
+* **Pinyin:** péi
+* **Hán Việt:** Bồi
+* **Nghĩa chính:** Cùng, theo, đền
+* **Từ ghép thông dụng:**
+    * **陪伴** (péibàn) - (**Bồi bạn**) - Bầu bạn, ở bên cạnh
+    * **陪同** (péitóng) - (**Bồi đồng**) - Cùng đi, tháp tùng
+    * **陪练** (péiliàn) - (**Bồi luyện**) - Tập cùng (bạn tập)
+    * **失陪** (shīpéi) - (**Thất bồi**) - Xin lỗi không tiếp được nữa (cáo từ)
+
+## 974. 遍
+
+* **Pinyin:** biàn
+* **Hán Việt:** Biến
+* **Nghĩa chính:** Khắp, lần (lượt - từ đầu đến cuối)
+* **Từ ghép thông dụng:**
+    * **普遍** (pǔbiàn) - (**Phổ biến**) - Phổ biến
+    * **遍地** (biàndì) - (**Biến địa**) - Khắp nơi
+    * **一遍** (yí biàn) - (**Nhất biến**) - Một lượt (đọc/xem hết một lượt)
+    * **遍历** (biànlì) - (**Biến lịch**) - Đi khắp, trải khắp
+
+## 975. 趟
+
+* **Pinyin:** tàng (hoặc tāng)
+* **Hán Việt:** Thảng
+* **Nghĩa chính:** Chuyến, lần (đi lại) / Lội (tāng)
+* **Từ ghép thông dụng:**
+    * **一趟** (yí tàng) - (**Nhất thảng**) - Một chuyến (đi)
+    * **赶趟** (gǎntàng) - (**Cản thảng**) - Kịp giờ, bắt kịp chuyến
+    * **白跑一趟** (báipǎoyítàng) - (**Bạch bão nhất thảng**) - Đi công cốc, đi mất công
+
+## 976. 幅
+
+* **Pinyin:** fú
+* **Hán Việt:** Bức
+* **Nghĩa chính:** Bức (tranh), khổ (vải), mức độ
+* **Từ ghép thông dụng:**
+    * **一幅画** (yì fú huà) - (**Nhất bức họa**) - Một bức tranh
+    * **幅度** (fúdù) - (**Bức độ**) - Mức độ, biên độ (tăng trưởng/dao động)
+    * **篇幅** (piānfú) - (**Thiên bức**) - Độ dài (bài viết), khổ (giấy)
+    * **横幅** (héngfú) - (**Hoành bức**) - Băng rôn, biểu ngữ
+
+## 977. 颗
+
+* **Pinyin:** kē
+* **Hán Việt:** Khỏa
+* **Nghĩa chính:** Hạt, hòn (lượng từ cho vật nhỏ, tròn)
+* **Từ ghép thông dụng:**
+    * **一颗心** (yì kē xīn) - (**Nhất khỏa tâm**) - Một tấm lòng/trái tim
+    * **颗粒** (kēlì) - (**Khỏa lạp**) - Hạt, viên
+    * **一颗星** (yì kē xīng) - (**Nhất khỏa tinh**) - Một ngôi sao
+    * **糖果** (tángguǒ) - (**Đường quả**) - (Thường dùng lượng từ 颗: 一颗糖)
+
+## 978. 棵
+
+* **Pinyin:** kē
+* **Hán Việt:** Khỏa
+* **Nghĩa chính:** Cây (lượng từ cho thực vật)
+* **Từ ghép thông dụng:**
+    * **一棵树** (yì kē shù) - (**Nhất khỏa thụ**) - Một cái cây
+    * **一棵菜** (yì kē cài) - (**Nhất khỏa thái**) - Một cây rau
+
+## 979. 匹
+
+* **Pinyin:** pǐ
+* **Hán Việt:** Thất
+* **Nghĩa chính:** Con (lượng từ cho ngựa), tấm (vải)
+* **Từ ghép thông dụng:**
+    * **马匹** (mǎpǐ) - (**Mã thất**) - Ngựa (nói chung)
+    * **一匹马** (yì pǐ mǎ) - (**Nhất thất mã**) - Một con ngựa
+    * **匹配** (pǐpèi) - (**Thất phối**) - Xứng đôi, khớp nhau (matching)
+    * **单枪匹马** (dānqiāngpǐmǎ) - (**Đơn thương thất mã**) - Đơn thương độc mã
+
+## 980. 份
+
+* **Pinyin:** fèn
+* **Hán Việt:** Phần
+* **Nghĩa chính:** Phần, suất, (lượng từ cho báo chí/hồ sơ/công việc)
+* **Từ ghép thông dụng:**
+    * **部分** (bùfen) - (**Bộ phần**) - Bộ phận (*đọc nhẹ là fen*)
+    * **一份** (yí fèn) - (**Nhất phần**) - Một suất (cơm), một bản (tài liệu)
+    * **身份** (shēnfèn) - (**Thân phần**) - Thân phận, tư cách
+    * **年份** (niánfèn) - (**Niên phần**) - Năm (sản xuất/thu hoạch)
+    * **过分** (guòfèn) - (**Quá phần**) - Quá đáng
+
+## 981. 俩
+
+* **Pinyin:** liǎ
+* **Hán Việt:** Lưỡng (biến âm)
+* **Nghĩa chính:** Hai (dùng trong khẩu ngữ, tương đương "两个")
+* **Từ ghép thông dụng:**
+    * **我们俩** (wǒmen liǎ) - (**Ngã môn lưỡng**) - Hai người chúng tôi
+    * **你们俩** (nǐmen liǎ) - (**Nễ môn lưỡng**) - Hai người các bạn
+    * **他俩** (tā liǎ) - (**Tha lưỡng**) - Hai người bọn họ
+    * **哥俩** (gē liǎ) - (**Ca lưỡng**) - Hai anh em
+    * **夫妻俩** (fūqī liǎ) - (**Phu thê lưỡng**) - Hai vợ chồng
+
+## 982. 咱
+
+* **Pinyin:** zán
+* **Hán Việt:** Tự / Cha
+* **Nghĩa chính:** Ta, chúng ta (bao gồm cả người nghe)
+* **Từ ghép thông dụng:**
+    * **咱们** (zánmen) - (**Tự môn**) - Chúng ta, chúng mình
+    * **咱家** (zán jiā) - (**Tự gia**) - Nhà mình, tôi (cách xưng hô cũ/địa phương)
+
+## 983. 呀
+
+* **Pinyin:** ya
+* **Hán Việt:** Nha
+* **Nghĩa chính:** A, à, nhé (trợ từ ngữ khí, biến âm của "a" sau nguyên âm a, e, i, o, ü)
+* **Từ ghép thông dụng:**
+    * **对呀** (duì ya) - (**Đối nha**) - Đúng vậy!
+    * **来呀** (lái ya) - (**Lai nha**) - Đến đây đi!
+    * **哎呀** (āiyā) - (**Ai nha**) - Ái chà, ôi chao (thán từ ngạc nhiên/đau đớn)
+    * **是呀** (shì ya) - (**Thị nha**) - Phải đấy!
+
+## 984. 啦
+
+* **Pinyin:** la
+* **Hán Việt:** Lạp
+* **Nghĩa chính:** Rồi, đấy (hợp âm của "le" + "a")
+* **Từ ghép thông dụng:**
+    * **好啦** (hǎo la) - (**Hảo lạp**) - Được rồi, xong rồi
+    * **来啦** (lái la) - (**Lai lạp**) - Đến rồi đây
+    * **走啦** (zǒu la) - (**Tẩu lạp**) - Đi đây, đi nhé
+    * **呼啦** (hūlā) - (**Hô lạp**) - Tiếng vù vù, ào ào
+
+## 985. 喂
+
+* **Pinyin:** wèi
+* **Hán Việt:** Uy
+* **Nghĩa chính:** A lô, này (gọi), cho ăn
+* **Từ ghép thông dụng:**
+    * **喂** (wèi) - (**Uy**) - A lô (nghe điện thoại)
+    * **喂养** (wèiyǎng) - (**Uy dưỡng**) - Nuôi dưỡng, cho ăn
+    * **喂奶** (wèi nǎi) - (**Uy nãi**) - Cho bú, cho uống sữa
+    * **喂食** (wèishí) - (**Uy thực**) - Cho ăn
+
+## 986. 丽
+
+* **Pinyin:** lì
+* **Hán Việt:** Lệ
+* **Nghĩa chính:** Đẹp, mỹ lệ
+* **Từ ghép thông dụng:**
+    * **美丽** (měilì) - (**Mỹ lệ**) - Xinh đẹp
+    * **秀丽** (xiùlì) - (**Tú lệ**) - Tươi đẹp, thanh tú (phong cảnh/người)
+    * **壮丽** (zhuànglì) - (**Tráng lệ**) - Tráng lệ, hùng vĩ
+    * **艳丽** (yànlì) - (**Diễm lệ**) - Rực rỡ, diễm lệ
+    * **华丽** (huálì) - (**Hoa lệ**) - Hoa lệ, lộng lẫy
+
+## 987. 秀
+
+* **Pinyin:** xiù
+* **Hán Việt:** Tú
+* **Nghĩa chính:** Đẹp, ưu tú, show (diễn)
+* **Từ ghép thông dụng:**
+    * **优秀** (yōuxiù) - (**Ưu tú**) - Ưu tú, xuất sắc
+    * **秀丽** (xiùlì) - (**Tú lệ**) - Tươi đẹp
+    * **作秀** (zuòxiù) - (**Tác tú**) - Làm màu, diễn trò (Show off)
+    * **选秀** (xuǎnxiù) - (**Tuyển tú**) - Tuyển chọn tài năng (Talent show)
+    * **脱口秀** (tuōkǒuxiù) - (**Thoát khẩu tú**) - Talk show (hài độc thoại)
+
+## 988. 妙
+
+* **Pinyin:** miào
+* **Hán Việt:** Diệu
+* **Nghĩa chính:** Tuyệt, khéo, kỳ diệu
+* **Từ ghép thông dụng:**
+    * **奇妙** (qímiào) - (**Kỳ diệu**) - Kỳ diệu
+    * **美妙** (měimiào) - (**Mỹ diệu**) - Tuyệt vời, tươi đẹp
+    * **巧妙** (qiǎomiào) - (**Xảo diệu**) - Khéo léo, tài tình
+    * **莫名其妙** (mòmíngqímiào) - (**Mạc danh kỳ diệu**) - Không hiểu ra sao, kỳ quặc
+    * **妙计** (miàojì) - (**Diệu kế**) - Kế hay
+
+## 989. 善
+
+* **Pinyin:** shàn
+* **Hán Việt:** Thiện
+* **Nghĩa chính:** Tốt, lành, giỏi
+* **Từ ghép thông dụng:**
+    * **善良** (shànliáng) - (**Thiện lương**) - Tốt bụng, hiền lành
+    * **改善** (gǎishàn) - (**Cải thiện**) - Cải thiện, làm cho tốt lên
+    * **完善** (wánshàn) - (**Hoàn thiện**) - Hoàn thiện
+    * **善于** (shànyú) - (**Thiện vu**) - Giỏi về (việc gì đó)
+    * **慈善** (císhàn) - (**Từ thiện**) - Từ thiện
+
+## 990. 良
+
+* **Pinyin:** liáng
+* **Hán Việt:** Lương
+* **Nghĩa chính:** Tốt, lành
+* **Từ ghép thông dụng:**
+    * **良好** (liánghǎo) - (**Lương hảo**) - Tốt đẹp (tình hình/thói quen)
+    * **良心** (liángxīn) - (**Lương tâm**) - Lương tâm
+    * **优良** (yōuliáng) - (**Ưu lương**) - Ưu tú, tốt
+    * **消化不良** (xiāohuàbùliáng) - (**Tiêu hóa bất lương**) - Khó tiêu
+    * **良药苦口** (liángyàokǔkǒu) - (**Lương dược khổ khẩu**) - Thuốc đắng giã tật
+
+## 991. 恩
+
+* **Pinyin:** ēn
+* **Hán Việt:** Ân
+* **Nghĩa chính:** Ơn, ân huệ
+* **Từ ghép thông dụng:**
+    * **恩情** (ēnqíng) - (**Ân tình**) - Ơn nghĩa, tình nghĩa
+    * **感恩** (gǎn'ēn) - (**Cảm ân**) - Biết ơn, cảm tạ
+    * **恩爱** (ēn'ài) - (**Ân ái**) - Ân ái (vợ chồng thương yêu nhau)
+    * **报恩** (bào'ēn) - (**Báo ân**) - Đền ơn, báo đáp
+    * **恩惠** (ēnhuì) - (**Ân huệ**) - Ân huệ
+
+## 992. 德
+
+* **Pinyin:** dé
+* **Hán Việt:** Đức
+* **Nghĩa chính:** Đạo đức, ơn đức, nước Đức
+* **Từ ghép thông dụng:**
+    * **道德** (dàodé) - (**Đạo đức**) - Đạo đức
+    * **德国** (Déguó) - (**Đức Quốc**) - Nước Đức
+    * **品德** (pǐndé) - (**Phẩm đức**) - Phẩm hạnh, tư cách
+    * **缺德** (quēdé) - (**Khuyết đức**) - Thất đức, tồi tệ
+    * **积德** (jīdé) - (**Tích đức**) - Tích đức
+
+## 993. 预
+
+* **Pinyin:** yù
+* **Hán Việt:** Dự
+* **Nghĩa chính:** Trước, chuẩn bị sẵn
+* **Từ ghép thông dụng:**
+    * **预习** (yùxí) - (**Dự tập**) - Chuẩn bị bài trước
+    * **预报** (yùbào) - (**Dự báo**) - Dự báo (thời tiết)
+    * **预约** (yùyuē) - (**Dự ước**) - Đặt trước, hẹn trước (lịch)
+    * **预订** (yùdìng) - (**Dự đính**) - Đặt trước (vé/phòng)
+    * **预期** (yùqī) - (**Dự kỳ**) - Dự tính, kỳ vọng
+
+## 994. 订
+
+* **Pinyin:** dìng
+* **Hán Việt:** Đính
+* **Nghĩa chính:** Đặt (mua/làm), thỏa thuận, đính (ghim)
+* **Từ ghép thông dụng:**
+    * **订婚** (dìnghūn) - (**Đính hôn**) - Đính hôn
+    * **订单** (dìngdān) - (**Đính đơn**) - Đơn đặt hàng
+    * **预订** (yùdìng) - (**Dự đính**) - Đặt trước
+    * **订购** (dìnggòu) - (**Đính cấu**) - Đặt mua
+    * **装订** (zhuāngdìng) - (**Trang đính**) - Đóng sách, ghim lại
+
+## 995. 览
+
+* **Pinyin:** lǎn
+* **Hán Việt:** Lãm
+* **Nghĩa chính:** Xem, nhìn
+* **Từ ghép thông dụng:**
+    * **展览** (zhǎnlǎn) - (**Triển lãm**) - Triển lãm
+    * **游览** (yóulǎn) - (**Du lãm**) - Du ngoạn, tham quan
+    * **阅览室** (yuèlǎnshì) - (**Duyệt lãm thất**) - Phòng đọc sách
+    * **博览会** (bólǎnhuì) - (**Bác lãm hội**) - Hội chợ triển lãm
+    * **一览** (yìlǎn) - (**Nhất lãm**) - Cái nhìn tổng quát (list/bảng)
+
+## 996. 划
+
+* **Pinyin:** huà (hoặc huá)
+* **Hán Việt:** Hoạch / Họa
+* **Nghĩa chính:** Vẽ, phân chia, kế hoạch / Chèo (thuyền), rạch (huá)
+* **Từ ghép thông dụng:**
+    * **计划** (jìhuà) - (**Kế hoạch**) - Kế hoạch (*đọc là huà*)
+    * **规划** (guīhuà) - (**Quy hoạch**) - Quy hoạch (*đọc là huà*)
+    * **划船** (huá chuán) - (**Họa thuyền**) - Chèo thuyền (*đọc là huá*)
+    * **划算** (huásuàn) - (**Hoạch toán**) - Có lợi, đáng tiền (tính toán có lợi) (*đọc là huá*)
+    * **划分** (huàfēn) - (**Hoạch phân**) - Phân chia (*đọc là huà*)
+
+## 997. 列
+
+* **Pinyin:** liè
+* **Hán Việt:** Liệt
+* **Nghĩa chính:** Hàng, dãy, sắp xếp
+* **Từ ghép thông dụng:**
+    * **列车** (lièchē) - (**Liệt xa**) - Đoàn tàu
+    * **排列** (páiliè) - (**Bài liệt**) - Sắp xếp
+    * **系列** (xìliè) - (**Hệ liệt**) - Series, loạt, dãy
+    * **列举** (lièjǔ) - (**Liệt cử**) - Liệt kê
+    * **前列** (qiánliè) - (**Tiền liệt**) - Hàng đầu
+
+## 998. 盖
+
+* **Pinyin:** gài
+* **Hán Việt:** Cái
+* **Nghĩa chính:** Nắp, che, đóng (dấu), xây (nhà)
+* **Từ ghép thông dụng:**
+    * **盖子** (gàizi) - (**Cái tử**) - Cái nắp
+    * **盖章** (gài zhāng) - (**Cái chương**) - Đóng dấu
+    * **膝盖** (xīgài) - (**Tất cái**) - Đầu gối
+    * **盖房** (gài fáng) - (**Cái phòng**) - Xây nhà
+    * **掩盖** (yǎngài) - (**Yểm cái**) - Che giấu, lấp liếm
+
+## 999. 印
+
+* **Pinyin:** yìn
+* **Hán Việt:** Ấn
+* **Nghĩa chính:** In, dấu ấn, Ấn Độ
+* **Từ ghép thông dụng:**
+    * **印象** (yìnxiàng) - (**Ấn tượng**) - Ấn tượng
+    * **打印** (dǎyìn) - (**Đả ấn**) - In ấn (máy in)
+    * **复印** (fùyìn) - (**Phức ấn**) - Photocopy
+    * **印度** (Yìndù) - (**Ấn Độ**) - Nước Ấn Độ
+    * **脚印** (jiǎoyìn) - (**Cước ấn**) - Dấu chân
+
+## 1000. 状
+
+* **Pinyin:** zhuàng
+* **Hán Việt:** Trạng
+* **Nghĩa chính:** Hình dáng, tình trạng, giấy khen/cáo trạng
+* **Từ ghép thông dụng:**
+    * **状态** (zhuàngtài) - (**Trạng thái**) - Trạng thái
+    * **形状** (xíngzhuàng) - (**Hình trạng**) - Hình dáng
+    * **状况** (zhuàngkuàng) - (**Trạng huống**) - Tình trạng (sức khỏe/kinh tế)
+    * **奖状** (jiǎngzhuàng) - (**Thưởng trạng**) - Giấy khen
+    * **告状** (gào zhuàng) - (**Cáo trạng**) - Mách lẻo, ki
+
+## 1001. 找
+
+* **Pinyin:** zhǎo
+* **Hán Việt:** Trảo
+* **Nghĩa chính:** Tìm kiếm, trả lại (tiền thừa)
+* **Từ ghép thông dụng:**
+    * **寻找** (xúnzhǎo) - (**Tầm trảo**) - Tìm kiếm
+    * **找钱** (zhǎo qián) - (**Trảo tiền**) - Trả lại tiền thừa
+    * **找借口** (zhǎo jièkǒu) - (**Trảo tá khẩu**) - Tìm cớ
+    * **找麻烦** (zhǎo máfan) - (**Trảo ma phiền**) - Kiếm chuyện, gây phiền phức
+    * **查找** (cházhǎo) - (**Tra trảo**) - Tra cứu, tìm kiếm
+
+## 1002. 补
+
+* **Pinyin:** bǔ
+* **Hán Việt:** Bổ
+* **Nghĩa chính:** Vá, bù, bổ sung
+* **Từ ghép thông dụng:**
+    * **补充** (bǔchōng) - (**Bổ sung**) - Bổ sung
+    * **补贴** (bǔtiē) - (**Bổ thiếp**) - Trợ cấp, phụ cấp
+    * **补课** (bǔ kè) - (**Bổ khóa**) - Học bù, học thêm
+    * **弥补** (míbǔ) - (**Di bổ**) - Bù đắp (lỗi lầm/thiệt hại)
+    * **补习** (bǔxí) - (**Bổ tập**) - Học thêm (bổ túc)
+
+## 1003. 再
+
+* **Pinyin:** zài
+* **Hán Việt:** Tái
+* **Nghĩa chính:** Lại, nữa (hành động chưa xảy ra)
+* **Từ ghép thông dụng:**
+    * **再见** (zàijiàn) - (**Tái kiến**) - Tạm biệt (hẹn gặp lại)
+    * **再次** (zàicì) - (**Tái thứ**) - Lần nữa
+    * **不再** (bú zài) - (**Bất tái**) - Không ... nữa
+    * **再说** (zàishuō) - (**Tái thuyết**) - Để sau hãy nói, hơn nữa
+    * **再三** (zàisān) - (**Tái tam**) - Nhiều lần, năm lần bảy lượt
+
+## 1004. 又
+
+* **Pinyin:** yòu
+* **Hán Việt:** Hựu
+* **Nghĩa chính:** Lại (hành động đã xảy ra), vừa...vừa
+* **Từ ghép thông dụng:**
+    * **又是** (yòu shì) - (**Hựu thị**) - Lại là
+    * **又...又...** (yòu... yòu...) - (**Hựu... hựu...**) - Vừa... vừa... (VD: Vừa to vừa rẻ)
+    * **又来了** (yòu lái le) - (**Hựu lai liễu**) - Lại thế nữa rồi (phàn nàn)
+
+## 1005. 凉
+
+* **Pinyin:** liáng
+* **Hán Việt:** Lương
+* **Nghĩa chính:** Mát, nguội, lạnh nhạt
+* **Từ ghép thông dụng:**
+    * **凉快** (liángkuai) - (**Lương khoái**) - Mát mẻ, dễ chịu
+    * **冰凉** (bīngliáng) - (**Băng lương**) - Lạnh ngắt
+    * **着凉** (zháoliáng) - (**Chiêu lương**) - Bị cảm lạnh
+    * **心凉** (xīn liáng) - (**Tâm lương**) - Lạnh lòng (thất vọng)
+    * **凉水** (liángshuǐ) - (**Lương thủy**) - Nước nguội/lạnh
+
+## 1006. 温
+
+* **Pinyin:** wēn
+* **Hán Việt:** Ôn
+* **Nghĩa chính:** Ấm, nhiệt độ, ôn tập
+* **Từ ghép thông dụng:**
+    * **温度** (wēndù) - (**Ôn độ**) - Nhiệt độ
+    * **温暖** (wēnnuǎn) - (**Ôn noãn**) - Ấm áp
+    * **温柔** (wēnróu) - (**Ôn nhu**) - Dịu dàng
+    * **温习** (wēnxí) - (**Ôn tập**) - Ôn tập (bài vở)
+    * **体温** (tǐwēn) - (**Thể ôn**) - Nhiệt độ cơ thể
+
+## 1007. 恨
+
+* **Pinyin:** hèn
+* **Hán Việt:** Hận
+* **Nghĩa chính:** Ghét, hận, tiếc
+* **Từ ghép thông dụng:**
+    * **仇恨** (chóuhèn) - (**Cừu hận**) - Thù hận
+    * **恨不得** (hènbude) - (**Hận bất đắc**) - Hận không thể (khao khát làm ngay)
+    * **悔恨** (huǐhèn) - (**Hối hận**) - Hối hận (sâu sắc)
+    * **可恨** (kěhèn) - (**Khả hận**) - Đáng ghét, đáng hận
+
+## 1008. 摆
+
+* **Pinyin:** bǎi
+* **Hán Việt:** Bài
+* **Nghĩa chính:** Xếp, đặt, bày ra, lắc
+* **Từ ghép thông dụng:**
+    * **摆脱** (bǎituō) - (**Bài thoát**) - Thoát khỏi
+    * **摇摆** (yáobǎi) - (**Dao bài**) - Lung lay, dao động
+    * **摆设** (bǎishe) - (**Bài thiết**) - Đồ trang trí, bài trí
+    * **摆弄** (bǎinòng) - (**Bài lộng**) - Nghịch, loay hoay (sửa chữa/sắp xếp)
+    * **摆平** (bǎipíng) - (**Bài bình**) - Dàn xếp ổn thỏa
+
+## 1009. 贴
+
+* **Pinyin:** tiē
+* **Hán Việt:** Thiếp / Thếp
+* **Nghĩa chính:** Dán, đính kèm, trợ cấp
+* **Từ ghép thông dụng:**
+    * **补贴** (bǔtiē) - (**Bổ thiếp**) - Trợ cấp, bù lỗ
+    * **体贴** (tǐtiē) - (**Thể thiếp**) - Chu đáo, ân cần (biết nghĩ cho người khác)
+    * **粘贴** (zhāntiē) - (**Niêm thiếp**) - Dán (Paste trong máy tính)
+    * **贴纸** (tiēzhǐ) - (**Thiếp chỉ**) - Nhãn dán, sticker
+    * **倒贴** (dàotiē) - (**Đảo thiếp**) - Bù lỗ, (gái) bao trai
+
+## 1010. 扫
+
+* **Pinyin:** sǎo
+* **Hán Việt:** Tảo
+* **Nghĩa chính:** Quét, dọn
+* **Từ ghép thông dụng:**
+    * **打扫** (dǎsǎo) - (**Đả tảo**) - Quét dọn, làm vệ sinh
+    * **扫地** (sǎo dì) - (**Tảo địa**) - Quét nhà
+    * **扫描** (sǎomiáo) - (**Tảo miêu**) - Quét (scan ảnh/tài liệu)
+    * **扫兴** (sǎoxìng) - (**Tảo hứng**) - Mất hứng, cụt hứng
+    * **大扫除** (dàsǎochú) - (**Đại tảo trừ**) - Tổng vệ sinh
+
+## 1011. 收
+
+* **Pinyin:** shōu
+* **Hán Việt:** Thu
+* **Nghĩa chính:** Nhận, thu, cất
+* **Từ ghép thông dụng:**
+    * **收到** (shōudào) - (**Thu đáo**) - Nhận được
+    * **收拾** (shōushi) - (**Thu thập**) - Dọn dẹp, thu xếp
+    * **收入** (shōurù) - (**Thu nhập**) - Thu nhập
+    * **收获** (shōuhuò) - (**Thu hoạch**) - Thu hoạch, gặt hái
+    * **回收** (huíshōu) - (**Hồi thu**) - Thu hồi, tái chế
+
+## 1012. 存
+
+* **Pinyin:** cún
+* **Hán Việt:** Tồn
+* **Nghĩa chính:** Tồn tại, gửi (tiền/đồ), lưu trữ
+* **Từ ghép thông dụng:**
+    * **存在** (cúnzài) - (**Tồn tại**) - Tồn tại
+    * **存款** (cúnkuǎn) - (**Tồn khoản**) - Tiền gửi ngân hàng, gửi tiền
+    * **保存** (bǎocún) - (**Bảo tồn**) - Bảo quản, lưu lại (Save)
+    * **生存** (shēngcún) - (**Sinh tồn**) - Sinh tồn, sống sót
+    * **寄存** (jìcún) - (**Ký tồn**) - Gửi đồ (tạm thời)
+
+## 1013. 款
+
+* **Pinyin:** kuǎn
+* **Hán Việt:** Khoản
+* **Nghĩa chính:** Khoản tiền, kiểu dáng, điều khoản
+* **Từ ghép thông dụng:**
+    * **付款** (fùkuǎn) - (**Phó khoản**) - Thanh toán
+    * **款式** (kuǎnshì) - (**Khoản thức**) - Kiểu dáng, mẫu mã
+    * **罚款** (fákuǎn) - (**Phạt khoản**) - Tiền phạt, phạt tiền
+    * **条款** (tiáokuǎn) - (**Điều khoản**) - Điều khoản (hợp đồng)
+    * **退款** (tuìkuǎn) - (**Thoái khoản**) - Hoàn tiền
+
+## 1014. 付
+
+* **Pinyin:** fù
+* **Hán Việt:** Phó
+* **Nghĩa chính:** Trả, giao phó
+* **Từ ghép thông dụng:**
+    * **付钱** (fù qián) - (**Phó tiền**) - Trả tiền
+    * **支付** (zhīfù) - (**Chi phó**) - Chi trả, thanh toán (Alipay: 支付宝)
+    * **付出** (fùchū) - (**Phó xuất**) - Bỏ ra, trả giá (công sức/tình cảm)
+    * **对付** (duìfu) - (**Đối phó**) - Đối phó, giải quyết
+    * **付诸东流** (fùzhūdōngliú) - (**Phó chư đông lưu**) - Đổ sông đổ biển (công sức)
+
+## 1015. 卡
+
+* **Pinyin:** kǎ
+* **Hán Việt:** Tạp
+* **Nghĩa chính:** Thẻ, kẹt (mắc kẹt)
+* **Từ ghép thông dụng:**
+    * **信用卡** (xìnyòngkǎ) - (**Tín dụng tạp**) - Thẻ tín dụng
+    * **卡通** (kǎtōng) - (**Tạp thông**) - Hoạt hình (Cartoon)
+    * **卡车** (kǎchē) - (**Tạp xa**) - Xe tải
+    * **打卡** (dǎ kǎ) - (**Đả tạp**) - Quẹt thẻ, check-in
+    * **卡住** (kǎ zhù) - (**Tạp trú**) - Bị kẹt, mắc kẹt
+
+## 1016. 逛
+
+* **Pinyin:** guàng
+* **Hán Việt:** Cuống
+* **Nghĩa chính:** Dạo chơi, lang thang
+* **Từ ghép thông dụng:**
+    * **逛街** (guàng jiē) - (**Cuống nhai**) - Dạo phố, đi mua sắm
+    * **闲逛** (xiánguàng) - (**Nhàn cuống**) - Đi dạo nhàn rỗi
+    * **游逛** (yóuguàng) - (**Du cuống**) - Du ngoạn
+    * **逛逛** (guàngguang) - (**Cuống cuống**) - Đi loanh quanh xem
+
+## 1017. 厅
+
+* **Pinyin:** tīng
+* **Hán Việt:** Thính / Sảnh
+* **Nghĩa chính:** Phòng lớn, sảnh, sở/cục (cơ quan)
+* **Từ ghép thông dụng:**
+    * **客厅** (kètīng) - (**Khách sảnh**) - Phòng khách
+    * **餐厅** (cāntīng) - (**Xan sảnh**) - Nhà hàng, phòng ăn
+    * **大厅** (dàtīng) - (**Đại sảnh**) - Đại sảnh, sảnh lớn
+    * **办公厅** (bàngōngtīng) - (**Biện công thính**) - Văn phòng (cơ quan nhà nước)
+    * **舞厅** (wǔtīng) - (**Vũ thính**) - Vũ trường
+
+## 1018. 厨
+
+* **Pinyin:** chú
+* **Hán Việt:** Trù
+* **Nghĩa chính:** Bếp
+* **Từ ghép thông dụng:**
+    * **厨房** (chúfáng) - (**Trù phòng**) - Nhà bếp
+    * **厨师** (chúshī) - (**Trù sư**) - Đầu bếp
+    * **下厨** (xià chú) - (**Hạ trù**) - Vào bếp nấu ăn
+    * **主厨** (zhǔchú) - (**Chủ trù**) - Bếp trưởng
+
+## 1019. 梯
+
+* **Pinyin:** tī
+* **Hán Việt:** Thê
+* **Nghĩa chính:** Cái thang
+* **Từ ghép thông dụng:**
+    * **电梯** (diàntī) - (**Điện thê**) - Thang máy
+    * **楼梯** (lóutī) - (**Lâu thê**) - Cầu thang bộ
+    * **梯子** (tīzi) - (**Thê tử**) - Cái thang (di động)
+    * **阶梯** (jiētī) - (**Giai thê**) - Bậc thang
+
+## 1020. 修
+
+* **Pinyin:** xiū
+* **Hán Việt:** Tu
+* **Nghĩa chính:** Sửa chữa, tu dưỡng
+* **Từ ghép thông dụng:**
+    * **修理** (xiūlǐ) - (**Tu lý**) - Sửa chữa
+    * **装修** (zhuāngxiū) - (**Trang tu**) - Trang trí nội thất, sửa sang nhà cửa
+    * **修改** (xiūgǎi) - (**Tu cải**) - Sửa đổi (văn bản)
+    * **进修** (jìnxiū) - (**Tiến tu**) - Học bồi dưỡng, nâng cao trình độ
+    * **维修** (wéixiū) - (**Duy tu**) - Bảo trì, bảo dưỡng
+
+## 1021. 顺
+
+* **Pinyin:** shùn
+* **Hán Việt:** Thuận
+* **Nghĩa chính:** Thuận lợi, theo chiều, nhân tiện
+* **Từ ghép thông dụng:**
+    * **顺利** (shùnlì) - (**Thuận lợi**) - Suôn sẻ, thuận lợi
+    * **顺便** (shùnbiàn) - (**Thuận tiện**) - Nhân tiện (làm việc gì đó)
+    * **顺序** (shùnxù) - (**Thuận tự**) - Thứ tự
+    * **孝顺** (xiàoshùn) - (**Hiếu thuận**) - Hiếu thảo
+    * **顺手** (shùnshǒu) - (**Thuận thủ**) - Tiện tay
+
+## 1022. 序
+
+* **Pinyin:** xù
+* **Hán Việt:** Tự
+* **Nghĩa chính:** Trật tự, thứ tự, mở đầu
+* **Từ ghép thông dụng:**
+    * **秩序** (zhìxù) - (**Trật tự**) - Trật tự, an ninh
+    * **程序** (chéngxù) - (**Trình tự**) - Chương trình (máy tính/quy trình)
+    * **顺序** (shùnxù) - (**Thuận tự**) - Thứ tự
+    * **有序** (yǒuxù) - (**Hữu tự**) - Có trật tự
+    * **序言** (xùyán) - (**Tự ngôn**) - Lời tựa (sách)
+
+## 1023. 暂
+
+* **Pinyin:** zàn
+* **Hán Việt:** Tạm
+* **Nghĩa chính:** Tạm thời, ngắn ngủi
+* **Từ ghép thông dụng:**
+    * **暂时** (zànshí) - (**Tạm thời**) - Tạm thời
+    * **暂停** (zàntíng) - (**Tạm đình**) - Tạm dừng (Pause)
+    * **短暂** (duǎnzàn) - (**Đoản tạm**) - Ngắn ngủi
+    * **暂且** (zànqiě) - (**Tạm thả**) - Tạm thời, hãy cứ...
+
+## 1024. 疑
+
+* **Pinyin:** yí
+* **Hán Việt:** Nghi
+* **Nghĩa chính:** Nghi ngờ, không tin
+* **Từ ghép thông dụng:**
+    * **怀疑** (huáiyí) - (**Hoài nghi**) - Nghi ngờ
+    * **疑问** (yíwèn) - (**Nghi vấn**) - Câu hỏi, thắc mắc
+    * **迟疑** (chíyí) - (**Trì nghi**) - Do dự, chần chừ
+    * **可疑** (kěyí) - (**Khả nghi**) - Đáng ngờ
+    * **疑心** (yíxīn) - (**Nghi tâm**) - Đa nghi
+
+## 1025. 惑
+
+* **Pinyin:** huò
+* **Hán Việt:** Hoặc
+* **Nghĩa chính:** Mê hoặc, lầm lẫn
+* **Từ ghép thông dụng:**
+    * **困惑** (kùnhuò) - (**Khốn hoặc**) - Bối rối, không hiểu
+    * **诱惑** (yòuhuò) - (**Dụ hoặc**) - Cám dỗ, quyến rũ
+    * **疑惑** (yíhuò) - (**Nghi hoặc**) - Nghi ngờ, thắc mắc
+    * **迷惑** (míhuò) - (**Mê hoặc**) - Làm cho mê muội, không rõ
+
+## 1026. 避
+
+* **Pinyin:** bì
+* **Hán Việt:** Tị
+* **Nghĩa chính:** Tránh, lánh
+* **Từ ghép thông dụng:**
+    * **逃避** (táobì) - (**Đào tị**) - Trốn tránh (trách nhiệm/thực tế)
+    * **避免** (bìmiǎn) - (**Tị miễn**) - Tránh (để không xảy ra)
+    * **避开** (bìkāi) - (**Tị khai**) - Tránh xa, né tránh
+    * **避暑** (bìshǔ) - (**Tị thử**) - Nghỉ mát (tránh nóng)
+
+## 1027. 免
+
+* **Pinyin:** miǎn
+* **Hán Việt:** Miễn
+* **Nghĩa chính:** Bỏ đi, không cần, tránh
+* **Từ ghép thông dụng:**
+    * **免费** (miǎnfèi) - (**Miễn phí**) - Miễn phí
+    * **难免** (nánmiǎn) - (**Nan miễn**) - Khó tránh khỏi
+    * **免得** (miǎnde) - (**Miễn đắc**) - Để tránh, kẻo (làm gì đó)
+    * **赦免** (shèmiǎn) - (**Xá miễn**) - Tha tội, ân xá
+    * **免疫** (miǎnyì) - (**Miễn dịch**) - Miễn dịch
+
+## 1028. 探
+
+* **Pinyin:** tàn
+* **Hán Việt:** Thám
+* **Nghĩa chính:** Thăm dò, tìm tòi, thăm hỏi
+* **Từ ghép thông dụng:**
+    * **探讨** (tàntǎo) - (**Thám thảo**) - Thảo luận, nghiên cứu sâu
+    * **看望** (kànwàng) - (**Khán vọng**) - Thăm hỏi (thường dùng 看望 hơn 探望)
+    * **探望** (tànwàng) - (**Thám vọng**) - Thăm viếng
+    * **探索** (tànsuǒ) - (**Thám sách**) - Tìm tòi, khám phá
+    * **侦探** (zhēntàn) - (**Trinh thám**) - Thám tử
+
+## 1029. 索
+
+* **Pinyin:** suǒ
+* **Hán Việt:** Sách
+* **Nghĩa chính:** Dây thừng, tìm kiếm, đòi
+* **Từ ghép thông dụng:**
+    * **线索** (xiànsuǒ) - (**Tuyến sách**) - Manh mối
+    * **搜索** (sōusuǒ) - (**Sưu sách**) - Tìm kiếm (Search)
+    * **思索** (sīsuǒ) - (**Tư sách**) - Suy ngẫm
+    * **索取** (suǒqǔ) - (**Sách thủ**) - Đòi hỏi, xin
+    * **绳索** (shéngsuǒ) - (**Thằng sách**) - Dây thừng
+
+## 1030. 藏
+
+* **Pinyin:** cáng (hoặc zàng)
+* **Hán Việt:** Tàng / Tạng
+* **Nghĩa chính:** Giấu, ẩn nấp / Kho, Tây Tạng (zàng)
+* **Từ ghép thông dụng:**
+    * **躲藏** (duǒcáng) - (**Đóa tàng**) - Trốn, ẩn nấp
+    * **收藏** (shōucáng) - (**Thu tàng**) - Sưu tầm, cất giữ
+    * **宝藏** (bǎozàng) - (**Bảo tàng**) - Kho báu (*đọc là zàng*)
+    * **西藏** (Xīzàng) - (**Tây Tạng**) - Tây Tạng (*đọc là zàng*)
+    * **捉迷藏** (zhuōmícáng) - (**Tróc mê tàng**) - Trò chơi trốn tìm
+
+## 1031. 损
+
+* **Pinyin:** sǔn
+* **Hán Việt:** Tổn
+* **Nghĩa chính:** Mất, hại, hư hại
+* **Từ ghép thông dụng:**
+    * **损失** (sǔnshī) - (**Tổn thất**) - Tổn thất, thiệt hại
+    * **损坏** (sǔnhuài) - (**Tổn hoại**) - Làm hỏng, hư hại
+    * **受损** (shòusǔn) - (**Thụ tổn**) - Bị thiệt hại
+    * **亏损** (kuīsǔn) - (**Khuy tổn**) - Thua lỗ (kinh doanh)
+    * **损人利己** (sǔnrénlìjǐ) - (**Tổn nhân lợi kỷ**) - Hại người lợi mình
+
+## 1032. 碎
+
+* **Pinyin:** suì
+* **Hán Việt:** Toái
+* **Nghĩa chính:** Vỡ, nát, vụn
+* **Từ ghép thông dụng:**
+    * **打碎** (dǎ suì) - (**Đả toái**) - Đánh vỡ
+    * **破碎** (pòsuì) - (**Phá toái**) - Tan vỡ, vụn nát
+    * **碎片** (suìpiàn) - (**Toái phiến**) - Mảnh vỡ, mảnh vụn
+    * **零碎** (língsuì) - (**Linh toái**) - Lẻ tẻ, vụn vặt
+    * **粉碎** (fěnsuì) - (**Phấn toái**) - Nghiền nát
+
+## 1033. 撞
+
+* **Pinyin:** zhuàng
+* **Hán Việt:** Chàng
+* **Nghĩa chính:** Đâm, va, đụng
+* **Từ ghép thông dụng:**
+    * **撞车** (zhuàng chē) - (**Chàng xa**) - Đụng xe
+    * **碰撞** (pèngzhuàng) - (**Bính chàng**) - Va chạm
+    * **撞见** (zhuàngjiàn) - (**Chàng kiến**) - Tình cờ gặp (đụng mặt)
+    * **跌跌撞撞** (diēdiēzhuàngzhuàng) - (**Điết điết chàng chàng**) - Đi loạng choạng
+
+## 1034. 碰
+
+* **Pinyin:** pèng
+* **Hán Việt:** Bính
+* **Nghĩa chính:** Chạm, đụng, gặp
+* **Từ ghép thông dụng:**
+    * **碰见** (pèngjiàn) - (**Bính kiến**) - Tình cờ gặp
+    * **碰头** (pèngtóu) - (**Bính đầu**) - Gặp mặt, chạm đầu
+    * **碰杯** (pèng bēi) - (**Bính bôi**) - Cụng ly
+    * **碰壁** (pèng bì) - (**Bính bích**) - Vấp phải trắc trở (đụng tường)
+    * **碰运气** (pèng yùnqi) - (**Bính vận khí**) - Thử vận may
+
+## 1035. 齐
+
+* **Pinyin:** qí
+* **Hán Việt:** Tề
+* **Nghĩa chính:** Đều, ngang bằng, đầy đủ
+* **Từ ghép thông dụng:**
+    * **整齐** (zhěngqí) - (**Chỉnh tề**) - Gọn gàng, ngăn nắp
+    * **齐全** (qíquán) - (**Tề toàn**) - Đầy đủ
+    * **看齐** (kànqí) - (**Khán tề**) - Nhìn thẳng (lệnh trong đội ngũ), noi theo
+    * **齐心协力** (qíxīnxiélì) - (**Tề tâm hiệp lực**) - Đồng tâm hiệp lực
+
+## 1036. 端
+
+* **Pinyin:** duān
+* **Hán Việt:** Đoan
+* **Nghĩa chính:** Đầu (mút), thẳng, bê/bưng
+* **Từ ghép thông dụng:**
+    * **端正** (duānzhèng) - (**Đoan chính**) - Ngay ngắn, đàng hoàng
+    * **极端** (jíduān) - (**Cực đoan**) - Cực đoan
+    * **开端** (kāiduān) - (**Khai đoan**) - Mở đầu
+    * **端茶** (duān chá) - (**Đoan trà**) - Bưng trà
+    * **端午节** (Duānwǔ Jié) - (**Đoan ngọ tiết**) - Tết Đoan ngọ
+
+## 1037. 透
+
+* **Pinyin:** tòu
+* **Hán Việt:** Thấu
+* **Nghĩa chính:** Xuyên qua, thấu đáo
+* **Từ ghép thông dụng:**
+    * **透明** (tòumíng) - (**Thấu minh**) - Trong suốt, minh bạch
+    * **透气** (tòuqì) - (**Thấu khí**) - Thoáng khí, hít thở
+    * **看透** (kàntòu) - (**Khán thấu**) - Nhìn thấu (tâm can/sự việc)
+    * **湿透** (shītòu) - (**Thấp thấu**) - Ướt sũng
+    * **透彻** (tòuchè) - (**Thấu triệt**) - Tường tận, triệt để
+
+## 1038. 露
+
+* **Pinyin:** lù (hoặc lòu)
+* **Hán Việt:** Lộ
+* **Nghĩa chính:** Sương, để lộ ra
+* **Từ ghép thông dụng:**
+    * **露水** (lùshui) - (**Lộ thủy**) - Giọt sương
+    * **暴露** (bàolù) - (**Bạo lộ**) - Phơi bày, bộc lộ
+    * **露面** (lòumiàn) - (**Lộ diện**) - Lộ diện, xuất hiện (*đọc là lòu*)
+    * **露营** (lùyíng) - (**Lộ doanh**) - Cắm trại (ngủ ngoài trời)
+    * **泄露** (xièlù) - (**Tiết lộ**) - Tiết lộ
+
+## 1039. 隐
+
+* **Pinyin:** yǐn
+* **Hán Việt:** Ẩn
+* **Nghĩa chính:** Giấu, trốn, mờ
+* **Từ ghép thông dụng:**
+    * **隐瞒** (yǐnmán) - (**Ẩn man**) - Giấu giếm
+    * **隐私** (yǐnsī) - (**Ẩn tư**) - Sự riêng tư, đời tư
+    * **隐形** (yǐnxíng) - (**Ẩn hình**) - Tàng hình, không nhìn thấy
+    * **隐患** (yǐnhuàn) - (**Ẩn hoạn**) - Mối nguy ngầm
+    * **若隐若现** (ruòyǐnruòxiàn) - (**Nhược ẩn nhược hiện**) - Thoắt ẩn thoắt hiện
+
+## 1040. 私
+
+* **Pinyin:** sī
+* **Hán Việt:** Tư
+* **Nghĩa chính:** Cá nhân, riêng tư
+* **Từ ghép thông dụng:**
+    * **自私** (zìsī) - (**Tự tư**) - Ích kỷ
+    * **私人** (sīrén) - (**Tư nhân**) - Cá nhân, riêng tư
+    * **私立** (sīlì) - (**Tư lập**) - Tư thục, dân lập
+    * **私自** (sīzì) - (**Tư tự**) - Tự ý (làm việc gì đó)
+    * **走私** (zǒusī) - (**Tẩu tư**) - Buôn lậu
+
+## 1041. 滚
+
+* **Pinyin:** gǔn
+* **Hán Việt:** Cổn
+* **Nghĩa chính:** Lăn, lộn, sôi (nước), cút (mắng người)
+* **Từ ghép thông dụng:**
+    * **滚蛋** (gǔndàn) - (**Cổn đản**) - Cút xéo, biến đi (thô tục)
+    * **滚开** (gǔnkāi) - (**Cổn khai**) - Cút ra, tránh ra
+    * **打滚** (dǎ gǔn) - (**Đả cổn**) - Lăn lộn (trên đất)
+    * **滚烫** (gǔntàng) - (**Cổn thảng**) - Nóng hổi, sôi sùng sục
+    * **摇滚** (yáogǔn) - (**Dao cổn**) - Rock & Roll (nhạc)
+
+## 1042. 靠
+
+* **Pinyin:** kào
+* **Hán Việt:** Kháo
+* **Nghĩa chính:** Dựa vào, nương tựa, sát gần
+* **Từ ghép thông dụng:**
+    * **依靠** (yīkào) - (**Y kháo**) - Nương tựa, dựa dẫm
+    * **可靠** (kěkào) - (**Khả kháo**) - Đáng tin cậy
+    * **靠谱** (kàopǔ) - (**Kháo phổ**) - Đáng tin (khẩu ngữ phổ biến)
+    * **靠山** (kàoshān) - (**Kháo sơn**) - Chỗ dựa (thế lực chống lưng)
+    * **靠近** (kàojìn) - (**Kháo cận**) - Đến gần, sát lại
+
+## 1043. 躲
+
+* **Pinyin:** duǒ
+* **Hán Việt:** Đóa
+* **Nghĩa chính:** Trốn, nấp, tránh
+* **Từ ghép thông dụng:**
+    * **躲避** (duǒbì) - (**Đóa tị**) - Trốn tránh, lẩn tránh
+    * **躲藏** (duǒcáng) - (**Đóa tàng**) - Ẩn nấp
+    * **躲开** (duǒkāi) - (**Đóa khai**) - Tránh ra
+    * **躲雨** (duǒ yǔ) - (**Đóa vũ**) - Trú mưa
+
+## 1044. 抢
+
+* **Pinyin:** qiǎng
+* **Hán Việt:** Thảng / Thương
+* **Nghĩa chính:** Cướp, giật, tranh giành
+* **Từ ghép thông dụng:**
+    * **抢劫** (qiǎngjié) - (**Thảng kiếp**) - Cướp bóc
+    * **抢购** (qiǎnggòu) - (**Thảng cấu**) - Tranh mua (săn sale)
+    * **抢救** (qiǎngjiù) - (**Thảng cứu**) - Cấp cứu (tranh thủ thời gian để cứu)
+    * **抢手** (qiǎngshǒu) - (**Thảng thủ**) - Đắt hàng, được săn đón
+    * **哄抢** (hōngqiǎng) - (**Hống thảng**) - Hôi của (đám đông xông vào cướp)
+
+## 1045. 罚
+
+* **Pinyin:** fá
+* **Hán Việt:** Phạt
+* **Nghĩa chính:** Trừng phạt
+* **Từ ghép thông dụng:**
+    * **惩罚** (chéngfá) - (**Trừng phạt**) - Trừng phạt
+    * **罚款** (fákuǎn) - (**Phạt khoản**) - Phạt tiền
+    * **处罚** (chǔfá) - (**Xử phạt**) - Xử phạt
+    * **受罚** (shòufá) - (**Thụ phạt**) - Chịu phạt
+    * **赏罚** (shǎngfá) - (**Thưởng phạt**) - Thưởng và phạt
+
+## 1046. 赔
+
+* **Pinyin:** péi
+* **Hán Việt:** Bồi
+* **Nghĩa chính:** Đền, lỗ vốn
+* **Từ ghép thông dụng:**
+    * **赔偿** (péicháng) - (**Bồi thường**) - Bồi thường
+    * **赔钱** (péi qián) - (**Bồi tiền**) - Lỗ vốn, mất tiền
+    * **赔礼** (péilǐ) - (**Bồi lễ**) - Xin lỗi, tạ lỗi
+    * **索赔** (suǒpéi) - (**Sách bồi**) - Đòi bồi thường
+    * **赔本** (péiběn) - (**Bồi bản**) - Lỗ vốn
+
+## 1047. 赚
+
+* **Pinyin:** zhuàn
+* **Hán Việt:** Trạm / Kiếm
+* **Nghĩa chính:** Kiếm lời, lãi
+* **Từ ghép thông dụng:**
+    * **赚钱** (zhuàn qián) - (**Trạm tiền**) - Kiếm tiền (có lãi)
+    * **赚取** (zhuànqǔ) - (**Trạm thủ**) - Kiếm được
+    * **大赚** (dà zhuàn) - (**Đại trạm**) - Lãi lớn
+    * **净赚** (jìngzhuàn) - (**Tịnh trạm**) - Lãi ròng
+
+## 1048. 贫
+
+* **Pinyin:** pín
+* **Hán Việt:** Bần
+* **Nghĩa chính:** Nghèo, thiếu
+* **Từ ghép thông dụng:**
+    * **贫穷** (pínqióng) - (**Bần cùng**) - Nghèo khó
+    * **贫困** (pínkùn) - (**Bần khốn**) - Nghèo túng
+    * **贫民** (pínmín) - (**Bần dân**) - Dân nghèo
+    * **贫血** (pínxuè) - (**Bần huyết**) - Thiếu máu
+    * **扶贫** (fúpín) - (**Phù bần**) - Xóa đói giảm nghèo
+
+## 1049. 富
+
+* **Pinyin:** fù
+* **Hán Việt:** Phú
+* **Nghĩa chính:** Giàu, phong phú
+* **Từ ghép thông dụng:**
+    * **富有** (fùyǒu) - (**Phú hữu**) - Giàu có
+    * **丰富** (fēngfù) - (**Phong phú**) - Phong phú
+    * **财富** (cáifù) - (**Tài phú**) - Của cải, tài sản
+    * **首富** (shǒufù) - (**Thủ phú**) - Người giàu nhất
+    * **富强** (fùqiáng) - (**Phú cường**) - Giàu mạnh
+
+## 1050. 穷
+
+* **Pinyin:** qióng
+* **Hán Việt:** Cùng
+* **Nghĩa chính:** Nghèo, tận cùng
+* **Từ ghép thông dụng:**
+    * **穷人** (qióngrén) - (**Cùng nhân**) - Người nghèo
+    * **贫穷** (pínqióng) - (**Bần cùng**) - Nghèo nàn
+    * **无穷** (wúqióng) - (**Vô cùng**) - Vô cùng, vô tận
+    * **穷尽** (qióngjìn) - (**Cùng tận**) - Tận cùng, kết thúc
+    * **一穷二白** (yìqióng'èrbái) - (**Nhất cùng nhị bạch**) - Nghèo rớt mồng tơi (trắng tay)
+
+## 1051. 词
+
+* **Pinyin:** cí
+* **Hán Việt:** Từ
+* **Nghĩa chính:** Từ ngữ, lời văn
+* **Từ ghép thông dụng:**
+    * **词语** (cíyǔ) - (**Từ ngữ**) - Từ ngữ
+    * **生词** (shēngcí) - (**Sinh từ**) - Từ mới
+    * **歌词** (gēcí) - (**Ca từ**) - Lời bài hát
+    * **词典** (cídiǎn) - (**Từ điển**) - Từ điển
+    * **单词** (dāncí) - (**Đơn từ**) - Từ đơn (tiếng Anh)
+
+## 1052. 典
+
+* **Pinyin:** diǎn
+* **Hán Việt:** Điển
+* **Nghĩa chính:** Tiêu chuẩn, lễ nghi, sách quý
+* **Từ ghép thông dụng:**
+    * **词典** (cídiǎn) - (**Từ điển**) - Từ điển
+    * **经典** (jīngdiǎn) - (**Kinh điển**) - Kinh điển
+    * **典礼** (diǎnlǐ) - (**Điển lễ**) - Buổi lễ
+    * **典型** (diǎnxíng) - (**Điển hình**) - Điển hình, tiêu biểu
+    * **恩典** (ēndiǎn) - (**Ân điển**) - Ơn huệ
+
+## 1053. 翻
+
+* **Pinyin:** fān
+* **Hán Việt:** Phiên
+* **Nghĩa chính:** Lật, dở, dịch
+* **Từ ghép thông dụng:**
+    * **翻译** (fānyì) - (**Phiên dịch**) - Dịch, người phiên dịch
+    * **翻身** (fānshēn) - (**Phiên thân**) - Trở mình, đổi đời
+    * **翻倍** (fānbèi) - (**Phiên bội**) - Gấp đôi
+    * **翻脸** (fānliǎn) - (**Phiên kiểm**) - Trở mặt
+    * **翻来覆去** (fānláifùqù) - (**Phiên lai phúc khứ**) - Trằn trọc, lật đi lật lại
+
+## 1054. 译
+
+* **Pinyin:** yì
+* **Hán Việt:** Dịch
+* **Nghĩa chính:** Dịch (ngôn ngữ)
+* **Từ ghép thông dụng:**
+    * **翻译** (fānyì) - (**Phiên dịch**) - Phiên dịch
+    * **译文** (yìwén) - (**Dịch văn**) - Bản dịch
+    * **口译** (kǒuyì) - (**Khẩu dịch**) - Dịch nói (thông dịch)
+    * **笔译** (bǐyì) - (**Bút dịch**) - Dịch viết (biên dịch)
+    * **编译** (biānyì) - (**Biên dịch**) - Biên dịch
+
+## 1055. 戏
+
+* **Pinyin:** xì
+* **Hán Việt:** Hí / Hý
+* **Nghĩa chính:** Trò chơi, kịch, đùa
+* **Từ ghép thông dụng:**
+    * **游戏** (yóuxì) - (**Du hí**) - Trò chơi (game)
+    * **戏剧** (xìjù) - (**Hí kịch**) - Kịch, sân khấu
+    * **看戏** (kàn xì) - (**Khán hí**) - Xem kịch
+    * **唱戏** (chàng xì) - (**Xướng hí**) - Hát kịch/tuồng
+    * **戏弄** (xìnòng) - (**Hí lộng**) - Trêu chọc, đùa cợt
+
+## 1056. 皇
+
+* **Pinyin:** huáng
+* **Hán Việt:** Hoàng
+* **Nghĩa chính:** Vua, to lớn
+* **Từ ghép thông dụng:**
+    * **皇帝** (huángdì) - (**Hoàng đế**) - Hoàng đế
+    * **皇后** (huánghòu) - (**Hoàng hậu**) - Hoàng hậu
+    * **皇家** (huángjiā) - (**Hoàng gia**) - Hoàng gia
+    * **皇宫** (huánggōng) - (**Hoàng cung**) - Hoàng cung
+    * **皇上** (huángshang) - (**Hoàng thượng**) - Hoàng thượng (cách gọi)
+
+## 1057. 帝
+
+* **Pinyin:** dì
+* **Hán Việt:** Đế
+* **Nghĩa chính:** Vua, chúa tể
+* **Từ ghép thông dụng:**
+    * **皇帝** (huángdì) - (**Hoàng đế**) - Hoàng đế
+    * **帝国** (dìguó) - (**Đế quốc**) - Đế quốc
+    * **上帝** (Shàngdì) - (**Thượng đế**) - Chúa, Thượng đế
+    * **影帝** (yǐngdì) - (**Ảnh đế**) - Nam diễn viên xuất sắc nhất (vua màn ảnh)
+    * **帝王** (dìwáng) - (**Đế vương**) - Đế vương
+
+## 1058. 宫
+
+* **Pinyin:** gōng
+* **Hán Việt:** Cung
+* **Nghĩa chính:** Cung điện, nhà lớn
+* **Từ ghép thông dụng:**
+    * **故宫** (Gùgōng) - (**Cố Cung**) - Tử Cấm Thành
+    * **宫殿** (gōngdiàn) - (**Cung điện**) - Cung điện
+    * **皇宫** (huánggōng) - (**Hoàng cung**) - Hoàng cung
+    * **宫廷** (gōngtíng) - (**Cung đình**) - Cung đình
+    * **迷宫** (mígōng) - (**Mê cung**) - Mê cung
+
+## 1059. 堂
+
+* **Pinyin:** táng
+* **Hán Việt:** Đường
+* **Nghĩa chính:** Nhà lớn, gian chính, (họ hàng cùng ông nội)
+* **Từ ghép thông dụng:**
+    * **食堂** (shítáng) - (**Thực đường**) - Nhà ăn, căng tin
+    * **课堂** (kètáng) - (**Khóa đường**) - Lớp học, giờ học
+    * **天堂** (tiāntáng) - (**Thiên đường**) - Thiên đường
+    * **礼堂** (lǐtáng) - (**Lễ đường**) - Hội trường, lễ đường
+    * **堂哥** (tánggē) - (**Đường ca**) - Anh họ (con bác/chú)
+
+## 1060. 庙
+
+* **Pinyin:** miào
+* **Hán Việt:** Miếu
+* **Nghĩa chính:** Đền, miếu, chùa
+* **Từ ghép thông dụng:**
+    * **寺庙** (sìmiào) - (**Tự miếu**) - Chùa chiền, đền miếu
+    * **庙宇** (miàoyǔ) - (**Miếu vũ**) - Đền miếu (nói chung)
+    * **逛庙会** (guàng miàohuì) - (**Cuống miếu hội**) - Đi lễ hội đền/chùa
+    * **土地庙** (tǔdìmiào) - (**Thổ địa miếu**) - Miếu thổ địa
+
+## 1061. 岛
+
+* **Pinyin:** dǎo
+* **Hán Việt:** Đảo
+* **Nghĩa chính:** Hòn đảo
+* **Từ ghép thông dụng:**
+    * **海岛** (hǎidǎo) - (**Hải đảo**) - Đảo biển
+    * **岛屿** (dǎoyǔ) - (**Đảo dữ**) - Đảo (nói chung)
+    * **半岛** (bàndǎo) - (**Bán đảo**) - Bán đảo
+    * **海南岛** (Hǎinán Dǎo) - (**Hải Nam Đảo**) - Đảo Hải Nam
+    * **荒岛** (huāngdǎo) - (**Hoang đảo**) - Đảo hoang
+
+## 1062. 岸
+
+* **Pinyin:** àn
+* **Hán Việt:** Ngạn
+* **Nghĩa chính:** Bờ (sông/biển)
+* **Từ ghép thông dụng:**
+    * **河岸** (hé'àn) - (**Hà ngạn**) - Bờ sông
+    * **海岸** (hǎi'àn) - (**Hải ngạn**) - Bờ biển
+    * **上岸** (shàng'àn) - (**Thượng ngạn**) - Lên bờ
+    * **两岸** (liǎng'àn) - (**Lưỡng ngạn**) - Hai bờ (thường chỉ Trung Quốc đại lục và Đài Loan)
+    * **靠岸** (kào'àn) - (**Kháo ngạn**) - Cập bến, ghé vào bờ
+
+## 1063. 灾
+
+* **Pinyin:** zāi
+* **Hán Việt:** Tai
+* **Nghĩa chính:** Tai họa, thiên tai
+* **Từ ghép thông dụng:**
+    * **灾难** (zāinàn) - (**Tai nạn**) - Thảm họa, tai nạn lớn
+    * **火灾** (huǒzāi) - (**Hỏa tai**) - Hỏa hoạn, cháy nhà
+    * **水灾** (shuǐzāi) - (**Thủy tai**) - Lũ lụt
+    * **救灾** (jiùzāi) - (**Cứu tai**) - Cứu trợ thiên tai
+    * **幸灾乐祸** (xìngzāilèhuò) - (**Hạnh tai lạc họa**) - Cười trên nỗi đau của người khác
+
+## 1064. 祸
+
+* **Pinyin:** huò
+* **Hán Việt:** Họa
+* **Nghĩa chính:** Tai họa, xui xẻo
+* **Từ ghép thông dụng:**
+    * **车祸** (chēhuò) - (**Xa họa**) - Tai nạn xe cộ
+    * **惹祸** (rěhuò) - (**Nhà họa**) - Gây họa, chuốc họa
+    * **祸害** (huòhai) - (**Họa hại**) - Tai hại, làm hại
+    * **因祸得福** (yīnhuòdéfú) - (**Nhân họa đắc phúc**) - Trong cái rủi có cái may
+
+## 1065. 炒
+
+* **Pinyin:** chǎo
+* **Hán Việt:** Sao / Xào
+* **Nghĩa chính:** Xào, rang, sa thải (nghĩa bóng)
+* **Từ ghép thông dụng:**
+    * **炒饭** (chǎofàn) - (**Sao phạn**) - Cơm rang
+    * **炒菜** (chǎo cài) - (**Sao thái**) - Xào rau/nấu món ăn
+    * **炒面** (chǎomiàn) - (**Sao diện**) - Mì xào
+    * **炒鱿鱼** (chǎo yóuyú) - (**Sao du ngư**) - Đuổi việc (xào mực)
+    * **炒股** (chǎo gǔ) - (**Sao cổ**) - Chơi chứng khoán (lướt sóng)
+
+## 1066. 烤
+
+* **Pinyin:** kǎo
+* **Hán Việt:** Khảo
+* **Nghĩa chính:** Nướng, quay, hơ lửa
+* **Từ ghép thông dụng:**
+    * **烤鸭** (kǎoyā) - (**Khảo áp**) - Vịt quay
+    * **烧烤** (shāokǎo) - (**Thiêu khảo**) - Đồ nướng (BBQ)
+    * **烤肉** (kǎoròu) - (**Khảo nhục**) - Thịt nướng
+    * **烤箱** (kǎoxiāng) - (**Khảo tương**) - Lò nướng
+    * **烤火** (kǎo huǒ) - (**Khảo hỏa**) - Sưởi ấm (bên lửa)
+
+## 1067. 炸
+
+* **Pinyin:** zhá (hoặc zhà)
+* **Hán Việt:** Tạc / Trá
+* **Nghĩa chính:** Chiên, rán (zhá) / Nổ (zhà)
+* **Từ ghép thông dụng:**
+    * **炸鸡** (zhá jī) - (**Tạc kê**) - Gà rán (*đọc là zhá*)
+    * **薯条** (zhá shǔtiáo) - (**Tạc thự điều**) - Khoai tây chiên (*đọc là zhá*)
+    * **爆炸** (bàozhà) - (**Bạo trá**) - Nổ tung (*đọc là zhà*)
+    * **炸弹** (zhàdàn) - (**Trá đạn**) - Bom (*đọc là zhà*)
+    * **轰炸** (hōngzhà) - (**Oanh trá**) - Ném bom, oanh tạc (*đọc là zhà*)
+
+## 1068. 蒸
+
+* **Pinyin:** zhēng
+* **Hán Việt:** Chưng
+* **Nghĩa chính:** Hấp, chưng (cách thủy)
+* **Từ ghép thông dụng:**
+    * **清蒸** (qīngzhēng) - (**Thanh chưng**) - Hấp (thanh đạm, ít gia vị)
+    * **蒸发** (zhēngfā) - (**Chưng phát**) - Bốc hơi
+    * **蒸汽** (zhēngqì) - (**Chưng khí**) - Hơi nước
+    * **蒸笼** (zhēnglóng) - (**Chưng lung**) - Xửng hấp (bằng tre)
+    * **蒸蒸日上** (zhēngzhēngrìshàng) - (**Chưng chưng nhật thượng**) - Ngày càng phát đạt (như hơi nước bốc lên)
+
+## 1069. 煮
+
+* **Pinyin:** zhǔ
+* **Hán Việt:** Chử
+* **Nghĩa chính:** Nấu, luộc
+* **Từ ghép thông dụng:**
+    * **煮饭** (zhǔ fàn) - (**Chử phạn**) - Nấu cơm
+    * **水煮鱼** (shuǐzhǔyú) - (**Thủy chử ngư**) - Cá nhúng dầu ớt (món Tứ Xuyên)
+    * **煮蛋** (zhǔ dàn) - (**Chử đản**) - Luộc trứng
+    * **煮熟** (zhǔ shóu) - (**Chử thục**) - Nấu chín
+
+## 1070. 锅
+
+* **Pinyin:** guō
+* **Hán Việt:** Oa
+* **Nghĩa chính:** Cái nồi, chảo
+* **Từ ghép thông dụng:**
+    * **火锅** (huǒguō) - (**Hỏa oa**) - Lẩu
+    * **锅贴** (guōtiē) - (**Oa thiếp**) - Sủi cảo áp chảo
+    * **背黑锅** (bēi hēiguō) - (**Bối hắc oa**) - Chịu oan, gánh tội thay
+    * **砸锅** (zá guō) - (**Tạp oa**) - Hỏng việc, thất bại (đập nồi)
+    * **大锅饭** (dàguōfàn) - (**Đại oa phạn**) - Cơm tập thể (chế độ bao cấp)
+
+## 1071. 售
+
+* **Pinyin:** shòu
+* **Hán Việt:** Thụ
+* **Nghĩa chính:** Bán
+* **Từ ghép thông dụng:**
+    * **销售** (xiāoshòu) - (**Tiêu thụ**) - Bán hàng, tiêu thụ
+    * **售货员** (shòuhuòyuán) - (**Thụ hóa viên**) - Người bán hàng
+    * **出售** (chūshòu) - (**Xuất thụ**) - Bán ra
+    * **零售** (língshòu) - (**Linh thụ**) - Bán lẻ
+    * **售后** (shòuhòu) - (**Thụ hậu**) - Hậu mãi (sau bán hàng)
+
+## 1072. 货
+
+* **Pinyin:** huò
+* **Hán Việt:** Hóa
+* **Nghĩa chính:** Hàng hóa, tiền tệ
+* **Từ ghép thông dụng:**
+    * **货物** (huòwù) - (**Hóa vật**) - Hàng hóa
+    * **百货** (bǎihuò) - (**Bách hóa**) - Bách hóa
+    * **货车** (huòchē) - (**Hóa xa**) - Xe tải chở hàng
+    * **假货** (jiǎhuò) - (**Giả hóa**) - Hàng giả
+    * **存货** (cúnhuò) - (**Tồn hóa**) - Hàng tồn kho
+
+## 1073. 购
+
+* **Pinyin:** gòu
+* **Hán Việt:** Cấu
+* **Nghĩa chính:** Mua (thường dùng trong văn viết/từ ghép)
+* **Từ ghép thông dụng:**
+    * **购买** (gòumǎi) - (**Cấu mãi**) - Mua sắm
+    * **购物** (gòuwù) - (**Cấu vật**) - Mua sắm (shopping)
+    * **网购** (wǎnggòu) - (**Võng cấu**) - Mua hàng online
+    * **采购** (cǎigòu) - (**Thái cấu**) - Thu mua (cho công ty/tổ chức)
+    * **订购** (dìnggòu) - (**Đính cấu**) - Đặt mua
+
+## 1074. 贸
+
+* **Pinyin:** mào
+* **Hán Việt:** Mậu
+* **Nghĩa chính:** Buôn bán, giao dịch
+* **Từ ghép thông dụng:**
+    * **贸易** (màoyì) - (**Mậu dịch**) - Thương mại, buôn bán
+    * **外贸** (wàimào) - (**Ngoại mậu**) - Ngoại thương (buôn bán với nước ngoài)
+    * **经贸** (jīngmào) - (**Kinh mậu**) - Kinh tế và thương mại
+    * **世贸** (ShìMào) - (**Thế Mậu**) - Tổ chức thương mại thế giới (WTO)
+
+## 1075. 租
+
+* **Pinyin:** zū
+* **Hán Việt:** Tô
+* **Nghĩa chính:** Thuê, cho thuê
+* **Từ ghép thông dụng:**
+    * **租房** (zū fáng) - (**Tô phòng**) - Thuê nhà
+    * **出租车** (chūzūchē) - (**Xuất tô xa**) - Xe taxi
+    * **房租** (fángzū) - (**Phòng tô**) - Tiền thuê nhà
+    * **租金** (zūjīn) - (**Tô kim**) - Tiền thuê (nói chung)
+    * **出租** (chūzū) - (**Xuất tô**) - Cho thuê
+
+## 1076. 厉
+
+* **Pinyin:** lì
+* **Hán Việt:** Lệ
+* **Nghĩa chính:** Nghiêm khắc, mài, đá mài
+* **Từ ghép thông dụng:**
+    * **厉害** (lìhai) - (**Lợi hại**) - Lợi hại, ghê gớm, nghiêm trọng
+    * **严厉** (yánlì) - (**Nghiêm lệ**) - Nghiêm khắc
+    * **厉声** (lìshēng) - (**Lệ thanh**) - Lớn tiếng, nghiêm nghị
+    * **厉行** (lìxíng) - (**Lệ hành**) - Thi hành nghiêm chỉnh
+
+## 1077. 恶
+
+* **Pinyin:** è (hoặc ě, wù)
+* **Hán Việt:** Ác / Ố
+* **Nghĩa chính:** Xấu, ác / Buồn nôn (ě) / Ghét (wù)
+* **Từ ghép thông dụng:**
+    * **恶心** (ěxin) - (**Ác tâm**) - Buồn nôn, ghê tởm (*đọc là ě*)
+    * **凶恶** (xiōng'è) - (**Hung ác**) - Hung dữ
+    * **罪恶** (zuì'è) - (**Tội ác**) - Tội ác
+    * **恶梦** (èmèng) - (**Ác mộng**) - Ác mộng (thường dùng 噩梦 hơn)
+    * **恶意** (èyì) - (**Ác ý**) - Ác ý, ý xấu
+    * **可恶** (kěwù) - (**Khả ố**) - Đáng ghét (*đọc là wù*)
+
+## 1078. 弱
+
+* **Pinyin:** ruò
+* **Hán Việt:** Nhược
+* **Nghĩa chính:** Yếu
+* **Từ ghép thông dụng:**
+    * **软弱** (ruǎnruò) - (**Nhuyễn nhược**) - Yếu đuối, nhu nhược
+    * **弱点** (ruòdiǎn) - (**Nhược điểm**) - Điểm yếu
+    * **虚弱** (xūruò) - (**Hư nhược**) - Yếu ớt (sức khỏe)
+    * **弱小** (ruòxiǎo) - (**Nhược tiểu**) - Nhỏ bé, yếu ớt
+    * **示弱** (shìruò) - (**Thị nhược**) - Tỏ ra yếu kém (chịu thua)
+
+## 1079. 虚
+
+* **Pinyin:** xū
+* **Hán Việt:** Hư
+* **Nghĩa chính:** Trống rỗng, giả, khiêm tốn
+* **Từ ghép thông dụng:**
+    * **虚心** (xūxīn) - (**Hư tâm**) - Khiêm tốn
+    * **谦虚** (qiānxū) - (**Khiêm hư**) - Khiêm tốn
+    * **虚假** (xūjiǎ) - (**Hư giả**) - Giả dối, không thật
+    * **空虚** (kōngxū) - (**Không hư**) - Trống rỗng (tâm hồn)
+    * **心虚** (xīnxū) - (**Tâm hư**) - Chột dạ, thiếu tự tin
+
+## 1080. 诚
+
+* **Pinyin:** chéng
+* **Hán Việt:** Thành
+* **Nghĩa chính:** Thành thật, chân thành
+* **Từ ghép thông dụng:**
+    * **诚实** (chéngshí) - (**Thành thực**) - Thành thật, trung thực
+    * **诚心** (chéngxīn) - (**Thành tâm**) - Thành tâm
+    * **真诚** (zhēnchéng) - (**Chân thành**) - Chân thành
+    * **诚意** (chéngyì) - (**Thành ý**) - Thành ý
+    * **心诚则灵** (xīnchéngzélíng) - (**Tâm thành tắc linh**) - Có lòng thành thì sẽ linh nghiệm
+
+## 1081. 冰
+
+* **Pinyin:** bīng
+* **Hán Việt:** Băng
+* **Nghĩa chính:** Băng, đá, lạnh giá
+* **Từ ghép thông dụng:**
+    * **冰箱** (bīngxiāng) - (**Băng tương**) - Tủ lạnh
+    * **冰块** (bīngkuài) - (**Băng khối**) - Cục đá (uống nước)
+    * **溜冰** (liūbīng) - (**Lựu băng**) - Trượt băng
+    * **冰冷** (bīnglěng) - (**Băng lãnh**) - Lạnh ngắt, lạnh lùng
+    * **结冰** (jiébīng) - (**Kết băng**) - Đóng băng
+
+## 1082. 冻
+
+* **Pinyin:** dòng
+* **Hán Việt:** Đống
+* **Nghĩa chính:** Đông cứng, rét cóng
+* **Từ ghép thông dụng:**
+    * **冷冻** (lěngdòng) - (**Lãnh đống**) - Đông lạnh (thực phẩm)
+    * **冻结** (dòngjié) - (**Đống kết**) - Đóng băng (tài khoản/quan hệ)
+    * **冻僵** (dòngjiāng) - (**Đống cương**) - Cóng, tê cứng vì lạnh
+    * **果冻** (guǒdòng) - (**Quả đống**) - Thạch rau câu (Jelly)
+
+## 1083. 浅
+
+* **Pinyin:** qiǎn
+* **Hán Việt:** Thiển
+* **Nghĩa chính:** Nông (không sâu), nhạt (màu), sơ thiển
+* **Từ ghép thông dụng:**
+    * **深浅** (shēnqiǎn) - (**Thâm thiển**) - Độ nông sâu
+    * **浅色** (qiǎnsè) - (**Thiển sắc**) - Màu nhạt, màu sáng
+    * **肤浅** (fūqiǎn) - (**Phu thiển**) - Nông cạn, hời hợt (kiến thức)
+    * **浅显** (qiǎnxiǎn) - (**Thiển hiển**) - Dễ hiểu, đơn giản
+
+## 1084. 浓
+
+* **Pinyin:** nóng
+* **Hán Việt:** Nồng
+* **Nghĩa chính:** Đậm, đặc, dày
+* **Từ ghép thông dụng:**
+    * **浓厚** (nónghòu) - (**Nồng hậu**) - Dày đặc (mây/sương), thắm thiết (tình cảm)
+    * **浓茶** (nóngchá) - (**Nồng trà**) - Trà đậm
+    * **浓度** (nóngdù) - (**Nồng độ**) - Nồng độ
+    * **浓缩** (nóngsuō) - (**Nồng súc**) - Cô đặc (cà phê/nước ép)
+
+## 1085. 粗
+
+* **Pinyin:** cū
+* **Hán Việt:** Thô
+* **Nghĩa chính:** To (đường kính), thô, sơ sài
+* **Từ ghép thông dụng:**
+    * **粗心** (cūxīn) - (**Thô tâm**) - Cẩu thả, lơ đễnh
+    * **粗细** (cūxì) - (**Thô tế**) - Độ to nhỏ (của cây/dây)
+    * **粗糙** (cūcāo) - (**Thô thao**) - Thô ráp, sần sùi
+    * **粗鲁** (cūlǔ) - (**Thô lỗ**) - Thô lỗ
+
+## 1086. 闲
+
+* **Pinyin:** xián
+* **Hán Việt:** Nhàn
+* **Nghĩa chính:** Rảnh rỗi, không có việc
+* **Từ ghép thông dụng:**
+    * **休闲** (xiūxián) - (**Hưu nhàn**) - Thư giãn, giải trí
+    * **空闲** (kòngxián) - (**Không nhàn**) - Thời gian rảnh
+    * **闲话** (xiánhuà) - (**Nhàn thoại**) - Chuyện phiếm, lời ra tiếng vào
+    * **悠闲** (yōuxián) - (**Du nhàn**) - Nhàn nhã, thảnh thơi
+    * **多管闲事** (duōguǎnxiánshì) - (**Đa quản nhàn sự**) - Lo chuyện bao đồng
+
+## 1087. 猜
+
+* **Pinyin:** cāi
+* **Hán Việt:** Thai (thường dùng nghĩa "Đoán")
+* **Nghĩa chính:** Đoán, ngờ vực
+* **Từ ghép thông dụng:**
+    * **猜想** (cāixiǎng) - (**Thai tưởng**) - Suy đoán, phỏng đoán
+    * **猜测** (cāicè) - (**Thai trắc**) - Đoán, phỏng chừng
+    * **猜疑** (cāiyí) - (**Thai nghi**) - Nghi ngờ, ngờ vực
+    * **猜谜** (cāimí) - (**Thai mê**) - Giải đố, đoán câu đố
+
+## 1088. 智
+
+* **Pinyin:** zhì
+* **Hán Việt:** Trí
+* **Nghĩa chính:** Trí tuệ, khôn
+* **Từ ghép thông dụng:**
+    * **智慧** (zhìhuì) - (**Trí tuệ**) - Trí tuệ
+    * **智力** (zhìlì) - (**Trí lực**) - Trí lực, chỉ số thông minh (IQ)
+    * **理智** (lǐzhì) - (**Lý trí**) - Lý trí
+    * **智能** (zhìnéng) - (**Trí năng**) - Thông minh (Smart - dùng cho thiết bị: điện thoại/nhà)
+    * **机智** (jīzhì) - (**Cơ trí**) - Nhanh trí
+
+## 1089. 慧
+
+* **Pinyin:** huì
+* **Hán Việt:** Tuệ
+* **Nghĩa chính:** Thông minh, sáng suốt
+* **Từ ghép thông dụng:**
+    * **智慧** (zhìhuì) - (**Trí tuệ**) - Trí tuệ
+    * **聪慧** (cōnghuì) - (**Thông tuệ**) - Thông minh, sáng dạ
+    * **慧眼** (huìyǎn) - (**Tuệ nhãn**) - Con mắt tinh đời
+
+## 1090. 勇
+
+* **Pinyin:** yǒng
+* **Hán Việt:** Dũng
+* **Nghĩa chính:** Dũng cảm, mạnh bạo
+* **Từ ghép thông dụng:**
+    * **勇敢** (yǒnggǎn) - (**Dũng cảm**) - Dũng cảm
+    * **勇气** (yǒngqì) - (**Dũng khí**) - Dũng khí, can đảm
+    * **勇士** (yǒngshì) - (**Dũng sĩ**) - Dũng sĩ
+    * **奋勇** (fènyǒng) - (**Phấn dũng**) - Phấn đấu dũng cảm
+    * **见义勇为** (jiànyìyǒngwéi) - (**Kiến nghĩa dũng vi**) - Thấy việc nghĩa hăng hái làm
+
+## 1091. 雾
+
+* **Pinyin:** wù
+* **Hán Việt:** Vụ
+* **Nghĩa chính:** Sương mù
+* **Từ ghép thông dụng:**
+    * **大雾** (dàwù) - (**Đại vụ**) - Sương mù dày đặc
+    * **雾气** (wùqì) - (**Vụ khí**) - Hơi sương
+    * **云雾** (yúnwù) - (**Vân vụ**) - Mây mù
+    * **烟雾** (yānwù) - (**Yên vụ**) - Khói mù
+    * **雾霾** (wùmái) - (**Vụ mai**) - Khói bụi (ô nhiễm không khí)
+
+## 1092. 霜
+
+* **Pinyin:** shuāng
+* **Hán Việt:** Sương
+* **Nghĩa chính:** Sương giá (lớp băng mỏng), kem (mỹ phẩm)
+* **Từ ghép thông dụng:**
+    * **风霜** (fēngshuāng) - (**Phong sương**) - Gió sương (gian khổ)
+    * **霜冻** (shuāngdòng) - (**Sương đống**) - Sương giá
+    * **面霜** (miànshuāng) - (**Diện sương**) - Kem dưỡng da mặt
+    * **防晒霜** (fángshàishuāng) - (**Phòng sái sương**) - Kem chống nắng
+    * **饱经风霜** (bǎojīngfēngshuāng) - (**Bão kinh phong sương**) - Dày dạn gió sương
+
+## 1093. 震
+
+* **Pinyin:** zhèn
+* **Hán Việt:** Chấn
+* **Nghĩa chính:** Rung, chấn động
+* **Từ ghép thông dụng:**
+    * **地震** (dìzhèn) - (**Địa chấn**) - Động đất
+    * **震惊** (zhènjīng) - (**Chấn kinh**) - Kinh ngạc, chấn động (tâm lý)
+    * **震撼** (zhènhàn) - (**Chấn hám**) - Chấn động, rung chuyển (lòng người)
+    * **震动** (zhèndòng) - (**Chấn động**) - Rung động
+    * **防震** (fángzhèn) - (**Phòng chấn**) - Chống rung, chống động đất
+
+## 1094. 均
+
+* **Pinyin:** jūn
+* **Hán Việt:** Quân
+* **Nghĩa chính:** Đều, bằng nhau
+* **Từ ghép thông dụng:**
+    * **平均** (píngjūn) - (**Bình quân**) - Trung bình, bình quân
+    * **均匀** (jūnyún) - (**Quân vân**) - Đều đặn (phân bố đều)
+    * **均衡** (jūnhéng) - (**Quân hoành**) - Cân bằng
+    * **人均** (rénjūn) - (**Nhân quân**) - Bình quân đầu người
+
+## 1095. 衡
+
+* **Pinyin:** héng
+* **Hán Việt:** Hoành
+* **Nghĩa chính:** Cân bằng, cái cân
+* **Từ ghép thông dụng:**
+    * **平衡** (pínghéng) - (**Bình hoành**) - Cân bằng
+    * **衡量** (héngliáng) - (**Hoành lượng**) - Cân nhắc, đo lường (đánh giá)
+    * **均衡** (jūnhéng) - (**Quân hoành**) - Cân đối
+    * **抗衡** (kànghéng) - (**Kháng hoành**) - Chống lại, ngang tài ngang sức
+
+## 1096. 拼
+
+* **Pinyin:** pīn
+* **Hán Việt:** Bính
+* **Nghĩa chính:** Ghép, liều mạng, đánh vần
+* **Từ ghép thông dụng:**
+    * **拼音** (pīnyīn) - (**Bính âm**) - Phiên âm (Pinyin)
+    * **拼命** (pīnmìng) - (**Bính mệnh**) - Liều mạng, ra sức
+    * **拼图** (pīntú) - (**Bính đồ**) - Trò chơi ghép hình
+    * **拼搏** (pīnbó) - (**Bính bác**) - Phấn đấu, nỗ lực hết mình
+    * **凑拼** (còupīn) - (**Thấu bính**) - Gom góp, lắp ghép
+
+## 1097. 凑
+
+* **Pinyin:** còu
+* **Hán Việt:** Thấu
+* **Nghĩa chính:** Gom lại, xúm lại, sát vào
+* **Từ ghép thông dụng:**
+    * **凑合** (còuhé) - (**Thấu hợp**) - Tạm bợ, qua loa (dùng tạm)
+    * **凑钱** (còu qián) - (**Thấu tiền**) - Gom tiền, quyên tiền
+    * **凑热闹** (còu rènao) - (**Thấu nhiệt náo**) - Góp vui, hóng chuyện
+    * **紧凑** (jǐncòu) - (**Khẩn thấu**) - Chặt chẽ, khẩn trương (lịch trình)
+
+## 1098. 插
+
+* **Pinyin:** chā
+* **Hán Việt:** Sáp
+* **Nghĩa chính:** Cắm, xen vào
+* **Từ ghép thông dụng:**
+    * **插花** (chā huā) - (**Sáp hoa**) - Cắm hoa
+    * **插嘴** (chā zuǐ) - (**Sáp chủy**) - Xen mồm, ngắt lời
+    * **插队** (chā duì) - (**Sáp đội**) - Chen ngang (xếp hàng)
+    * **插头** (chātóu) - (**Sáp đầu**) - Phích cắm điện
+    * **穿插** (chuānchā) - (**Xuyên sáp**) - Xen kẽ
+
+## 1099. 拔
+
+* **Pinyin:** bá
+* **Hán Việt:** Bạt
+* **Nghĩa chính:** Nhổ, rút, cao hơn
+* **Từ ghép thông dụng:**
+    * **拔牙** (bá yá) - (**Bạt nha**) - Nhổ răng
+    * **拔河** (báhé) - (**Bạt hà**) - Kéo co
+    * **提拔** (tíbá) - (**Đề bạt**) - Đề bạt, thăng chức
+    * **选拔** (xuǎnbá) - (**Tuyển bạt**) - Tuyển chọn (nhân tài)
+    * **海拔** (hǎibá) - (**Hải bạt**) - Độ cao so với mặt nước biển
+
+## 1100. 拆
+
+* **Pinyin:** chāi
+* **Hán Việt:** Sách / Thác
+* **Nghĩa chính:** Tháo, dỡ, mở ra
+* **Từ ghép thông dụng:**
+    * **拆迁** (chāiqiān) - (**Sách thiên**) - Giải tỏa, phá dỡ (nhà cửa để di dời)
+    * **拆开** (chāi kāi) - (**Sách khai**) - Mở ra, bóc ra
+    * **拆散** (chāisàn) - (**Sách tán**) - Chia rẽ (tình cảm), tháo rời
+    * **拆台** (chāi tái) - (**Sách đài**) - Vạch trần, phá đám
+
+## 1101. 握
+
+* **Pinyin:** wò
+* **Hán Việt:** Ác
+* **Nghĩa chính:** Cầm, nắm
+* **Từ ghép thông dụng:**
+    * **握手** (wòshǒu) - (**Ác thủ**) - Bắt tay
+    * **把握** (bǎwò) - (**Bả ác**) - Nắm bắt, sự chắc chắn (tin tưởng thành công)
+    * **掌握** (zhǎngwò) - (**Chưởng ác**) - Nắm vững, thành thạo (kiến thức/kỹ năng)
+    * **握紧** (wòjǐn) - (**Ác khẩn**) - Nắm chặt
+
+## 1102. 挥
+
+* **Pinyin:** huī
+* **Hán Việt:** Huy
+* **Nghĩa chính:** Vẫy, chỉ huy, phát huy
+* **Từ ghép thông dụng:**
+    * **挥手** (huīshǒu) - (**Huy thủ**) - Vẫy tay
+    * **指挥** (zhǐhuī) - (**Chỉ huy**) - Chỉ huy
+    * **发挥** (fāhuī) - (**Phát huy**) - Phát huy (năng lực/tác dụng)
+    * **挥霍** (huīhuò) - (**Huy hoắc**) - Hoang phí, tiêu xài xả láng
+
+## 1103. 摇
+
+* **Pinyin:** yáo
+* **Hán Việt:** Dao
+* **Nghĩa chính:** Lắc, rung, quay
+* **Từ ghép thông dụng:**
+    * **摇头** (yáotóu) - (**Dao đầu**) - Lắc đầu
+    * **摇摆** (yáobǎi) - (**Dao bài**) - Đung đưa, dao động
+    * **摇滚** (yáogǔn) - (**Dao cổn**) - Nhạc Rock (Rock & Roll)
+    * **摇晃** (yáohuang) - (**Dao hoàng**) - Rung lắc, chao đảo
+    * **摇篮** (yáolán) - (**Dao lam**) - Cái nôi
+
+## 1104. 敲
+
+* **Pinyin:** qiāo
+* **Hán Việt:** Xao
+* **Nghĩa chính:** Gõ, đánh
+* **Từ ghép thông dụng:**
+    * **敲门** (qiāo mén) - (**Xao môn**) - Gõ cửa
+    * **敲打** (qiāodǎ) - (**Xao đả**) - Gõ, đánh (nhịp), nhắc nhở
+    * **推敲** (tuīqiāo) - (**Thôi xao**) - Cân nhắc, đắn đo suy nghĩ (từng chữ)
+    * **敲诈** (qiāozhà) - (**Xao trá**) - Tống tiền, bắt chẹt
+
+## 1105. 锁
+
+* **Pinyin:** suǒ
+* **Hán Việt:** Tỏa
+* **Nghĩa chính:** Cái khóa, khóa lại
+* **Từ ghép thông dụng:**
+    * **锁门** (suǒ mén) - (**Tỏa môn**) - Khóa cửa
+    * **连锁** (liánsuǒ) - (**Liên tỏa**) - Chuỗi, liên hoàn (cửa hàng liên khóa)
+    * **封锁** (fēngsuǒ) - (**Phong tỏa**) - Phong tỏa
+    * **锁匠** (suǒjiàng) - (**Tỏa tượng**) - Thợ sửa khóa
+
+## 1106. 闯
+
+* **Pinyin:** chuǎng
+* **Hán Việt:** Sấm
+* **Nghĩa chính:** Xông vào, va chạm
+* **Từ ghép thông dụng:**
+    * **闯红灯** (chuǎng hóngdēng) - (**Sấm hồng đăng**) - Vượt đèn đỏ
+    * **闯祸** (chuǎnghuò) - (**Sấm họa**) - Gây họa, gây rắc rối
+    * **闯荡** (chuǎngdàng) - (**Sấm đãng**) - Bôn ba, xông pha (kiếm sống)
+    * **闯入** (chuǎngrù) - (**Sấm nhập**) - Đột nhập, xông vào
+
+## 1107. 忍
+
+* **Pinyin:** rěn
+* **Hán Việt:** Nhẫn
+* **Nghĩa chính:** Nhịn, chịu đựng, tàn nhẫn
+* **Từ ghép thông dụng:**
+    * **忍受** (rěnshòu) - (**Nhẫn thụ**) - Chịu đựng
+    * **忍不住** (rěnbuzhù) - (**Nhẫn bất trú**) - Không nhịn được (bật cười/khóc)
+    * **残忍** (cánrěn) - (**Tàn nhẫn**) - Tàn nhẫn
+    * **忍耐** (rěnnài) - (**Nhẫn nại**) - Nhẫn nại
+    * **容忍** (róngrěn) - (**Dung nhẫn**) - Dung thứ, tha thứ
+
+## 1108. 耐
+
+* **Pinyin:** nài
+* **Hán Việt:** Nại
+* **Nghĩa chính:** Chịu đựng, bền
+* **Từ ghép thông dụng:**
+    * **耐心** (nàixīn) - (**Nại tâm**) - Kiên nhẫn
+    * **耐用** (nàiyòng) - (**Nại dụng**) - Bền (dùng được lâu)
+    * **不耐烦** (búnàifán) - (**Bất nại phiền**) - Mất kiên nhẫn, sốt ruột
+    * **忍耐** (rěnnài) - (**Nhẫn nại**) - Nhẫn nại, kiềm chế
+
+## 1109. 厌
+
+* **Pinyin:** yàn
+* **Hán Việt:** Yếm
+* **Nghĩa chính:** Ghét, chán
+* **Từ ghép thông dụng:**
+    * **讨厌** (tǎoyàn) - (**Thảo yếm**) - Ghét, đáng ghét
+    * **厌烦** (yànfán) - (**Yếm phiền**) - Chán ngán, phiền chán
+    * **厌倦** (yànjuàn) - (**Yếm quyện**) - Mệt mỏi, chán chường
+    * **贪得无厌** (tāndéwúyàn) - (**Tham đắc vô yếm**) - Tham lam vô độ
+
+## 1110. 欠
+
+* **Pinyin:** qiàn
+* **Hán Việt:** Khiếm
+* **Nghĩa chính:** Nợ, thiếu, ngáp
+* **Từ ghép thông dụng:**
+    * **欠钱** (qiàn qián) - (**Khiếm tiền**) - Nợ tiền
+    * **欠缺** (qiànquē) - (**Khiếm khuyết**) - Thiếu sót, khiếm khuyết
+    * **哈欠** (hāqian) - (**Háp khiếm**) - Ngáp
+    * **亏欠** (kuīqiàn) - (**Khuy khiếm**) - Mắc nợ (tình cảm/tiền bạc), thâm hụt
+
+## 1111. 拒
+
+* **Pinyin:** jù
+* **Hán Việt:** Cự
+* **Nghĩa chính:** Từ chối, chống lại
+* **Từ ghép thông dụng:**
+    * **拒绝** (jùjué) - (**Cự tuyệt**) - Từ chối, cự tuyệt
+    * **抗拒** (kàngjù) - (**Kháng cự**) - Kháng cự, chống lại
+    * **拒捕** (jùbǔ) - (**Cự bộ**) - Chống người thi hành công vụ (chống bắt)
+    * **拒收** (jùshōu) - (**Cự thu**) - Từ chối nhận (hàng/quà)
+    * **来者不拒** (láizhěbújù) - (**Lai giả bất cự**) - Ai đến cũng không từ chối (tiếp nhận tất cả)
+    * **拒之门外** (jùzhīménwài) - (**Cự chi môn ngoại**) - Từ chối tiếp, không cho vào cửa
+
+## 1112. 违
+
+* **Pinyin:** wéi
+* **Hán Việt:** Vi
+* **Nghĩa chính:** Trái, phạm, xa rời
+* **Từ ghép thông dụng:**
+    * **违反** (wéifǎn) - (**Vi phạm**) - Vi phạm (quy tắc/luật)
+    * **违法** (wéifǎ) - (**Vi pháp**) - Phạm pháp
+    * **违背** (wéibèi) - (**Vi bối**) - Làm trái, đi ngược lại (lương tâm/lời thề)
+    * **久违** (jiǔwéi) - (**Cửu vi**) - Lâu không gặp (đã lâu không...)
+    * **违约** (wéiyuē) - (**Vi ước**) - Vi phạm hợp đồng
+    * **违章** (wéizhāng) - (**Vi chương**) - Vi phạm quy định (thường dùng trong giao thông)
+
+## 1113. 批
+
+* **Pinyin:** pī
+* **Hán Việt:** Phê
+* **Nghĩa chính:** Đánh giá, duyệt, tát (tay), lô/mẻ (lượng từ)
+* **Từ ghép thông dụng:**
+    * **批评** (pīpíng) - (**Phê bình**) - Phê bình, chỉ trích
+    * **批准** (pīzhǔn) - (**Phê chuẩn**) - Phê chuẩn, duyệt
+    * **批发** (pīfā) - (**Phê phát**) - Bán buôn (bán sỉ)
+    * **审批** (shěnpī) - (**Thẩm phê**) - Thẩm duyệt
+    * **批改** (pīgǎi) - (**Phê cải**) - Chấm bài, sửa bài
+    * **大批** (dàpī) - (**Đại phê**) - Hàng loạt, số lượng lớn
+
+## 1114. 评
+
+* **Pinyin:** píng
+* **Hán Việt:** Bình
+* **Nghĩa chính:** Bình luận, đánh giá
+* **Từ ghép thông dụng:**
+    * **评价** (píngjià) - (**Bình giá**) - Đánh giá, nhận xét
+    * **批评** (pīpíng) - (**Phê bình**) - Phê bình
+    * **评论** (pínglùn) - (**Bình luận**) - Bình luận (comment)
+    * **评选** (píngxuǎn) - (**Bình tuyển**) - Bình chọn
+    * **好评** (hǎopíng) - (**Hảo bình**) - Đánh giá tốt, khen ngợi
+    * **评审** (píngshěn) - (**Bình thẩm**) - Thẩm định, chấm thi
+
+## 1115. 判
+
+* **Pinyin:** pàn
+* **Hán Việt:** Phán
+* **Nghĩa chính:** Phân biệt, xử, kết án
+* **Từ ghép thông dụng:**
+    * **判断** (pànduàn) - (**Phán đoạn**) - Phán đoán, nhận định
+    * **裁判** (cáipàn) - (**Tài phán**) - Trọng tài, phán quyết
+    * **判决** (pànjué) - (**Phán quyết**) - Phán quyết (của tòa án)
+    * **审判** (shěnpàn) - (**Thẩm phán**) - Xét xử
+    * **判刑** (pànxíng) - (**Phán hình**) - Kết án, tuyên án
+    * **批判** (pīpàn) - (**Phê phán**) - Phê phán
+
+## 1116. 估
+
+* **Pinyin:** gū
+* **Hán Việt:** Cổ
+* **Nghĩa chính:** Ước lượng, đoán
+* **Từ ghép thông dụng:**
+    * **估计** (gūjì) - (**Cổ kế**) - Ước tính, đoán là, cho rằng
+    * **评估** (pínggū) - (**Bình cổ**) - Đánh giá, thẩm định (giá trị/rủi ro)
+    * **估价** (gūjià) - (**Cổ giá**) - Định giá
+    * **低估** (dīgū) - (**Đê cổ**) - Đánh giá thấp
+    * **高估** (gāogū) - (**Cao cổ**) - Đánh giá cao (quá mức)
+    * **不可估量** (bùkěgūliáng) - (**Bất khả cổ lượng**) - Không thể đo lường được (vô giá/rất lớn)
+
+## 1117. 测
+
+* **Pinyin:** cè
+* **Hán Việt:** Trắc
+* **Nghĩa chính:** Đo, lường, đoán
+* **Từ ghép thông dụng:**
+    * **猜测** (cāicè) - (**Thai trắc**) - Đoán, phỏng đoán
+    * **测试** (cèshì) - (**Trắc thí**) - Kiểm tra, test (thử nghiệm)
+    * **测量** (cèliáng) - (**Trắc lượng**) - Đo đạc, đo lường
+    * **预测** (yùcè) - (**Dự trắc**) - Dự đoán (tương lai)
+    * **测验** (cèyàn) - (**Trắc nghiệm**) - Bài kiểm tra, trắc nghiệm
+    * **观测** (guāncè) - (**Quan trắc**) - Quan sát, theo dõi (thiên văn/hiện tượng)
+
+## 1118. 悔
+
+* **Pinyin:** huǐ
+* **Hán Việt:** Hối
+* **Nghĩa chính:** Hối hận
+* **Từ ghép thông dụng:**
+    * **后悔** (hòuhuǐ) - (**Hậu hối**) - Hối hận
+    * **反悔** (fǎnhuǐ) - (**Phản hối**) - Nuốt lời, đổi ý
+    * **悔改** (huǐgǎi) - (**Hối cải**) - Hối cải, sửa đổi lỗi lầm
+    * **悔恨** (huǐhèn) - (**Hối hận**) - Hối hận và day dứt (mức độ mạnh)
+    * **忏悔** (chànhuǐ) - (**Sám hối**) - Sám hối
+    * **悔过** (huǐguò) - (**Hối quá**) - Hối lỗi
+
+## 1119. 恋
+
+* **Pinyin:** liàn
+* **Hán Việt:** Luyến
+* **Nghĩa chính:** Yêu, nhớ nhung, không nỡ rời
+* **Từ ghép thông dụng:**
+    * **恋爱** (liàn'ài) - (**Luyến ái**) - Yêu đương
+    * **失恋** (shīliàn) - (**Thất luyến**) - Thất tình
+    * **留恋** (liúliàn) - (**Lưu luyến**) - Lưu luyến, không muốn rời xa
+    * **恋人** (liànrén) - (**Luyến nhân**) - Người yêu
+    * **暗恋** (ànliàn) - (**Ám luyến**) - Yêu thầm
+    * **网恋** (wǎngliàn) - (**Võng luyến**) - Tình yêu qua mạng
+
+## 1120. 慕
+
+* **Pinyin:** mù
+* **Hán Việt:** Mộ
+* **Nghĩa chính:** Mến, hâm mộ
+* **Từ ghép thông dụng:**
+    * **羡慕** (xiànmù) - (**Tiện mộ**) - Ngưỡng mộ, ghen tị (theo hướng tích cực)
+    * **爱慕** (àimù) - (**Ái mộ**) - Ái mộ, yêu mến
+    * **仰慕** (yǎngmù) - (**Ngưỡng mộ**) - Ngưỡng mộ (kính trọng người trên)
+    * **思慕** (sīmù) - (**Tư mộ**) - Nhớ nhung, mến mộ
+    * **慕名而来** (mùmíng'érlái) - (**Mộ danh nhi lai**) - Nghe danh mà đến
+
+## 1121. 忆
+
+* **Pinyin:** yì
+* **Hán Việt:** Ức
+* **Nghĩa chính:** Nhớ lại, ký ức
+* **Từ ghép thông dụng:**
+    * **回忆** (huíyì) - (**Hồi ức**) - Hồi tưởng, ký ức
+    * **记忆** (jìyì) - (**Ký ức**) - Trí nhớ, ký ức
+    * **忆苦思甜** (yìkǔsītián) - (**Ức khổ tư điềm**) - Nhớ lại nỗi khổ xưa để trân trọng hạnh phúc nay
+    * **追忆** (zhuīyì) - (**Truy ức**) - Nhớ lại chuyện xưa
+
+## 1122. 愁
+
+* **Pinyin:** chóu
+* **Hán Việt:** Sầu
+* **Nghĩa chính:** Lo lắng, buồn phiền
+* **Từ ghép thông dụng:**
+    * **发愁** (fā chóu) - (**Phát sầu**) - Lo lắng, buồn phiền
+    * **忧愁** (yōuchóu) - (**Ưu sầu**) - Ưu sầu, lo âu
+    * **愁眉苦脸** (chóuméikǔliǎn) - (**Sầu mi khổ kiểm**) - Mặt mày ủ ê, nhăn nhó
+    * **不愁** (bù chóu) - (**Bất sầu**) - Không lo (thiếu thốn)
+
+## 1123. 惨
+
+* **Pinyin:** cǎn
+* **Hán Việt:** Thảm
+* **Nghĩa chính:** Thê thảm, tàn khốc
+* **Từ ghép thông dụng:**
+    * **悲惨** (bēicǎn) - (**Bi thảm**) - Bi thảm
+    * **惨重** (cǎnzhòng) - (**Thảm trọng**) - Nặng nề (tổn thất)
+    * **惨白** (cǎnbái) - (**Thảm bạch**) - Trắng bệch (mặt mũi)
+    * **惨败** (cǎnbài) - (**Thảm bại**) - Thua thảm hại
+
+## 1124. 愧
+
+* **Pinyin:** kuì
+* **Hán Việt:** Quý / Khổi
+* **Nghĩa chính:** Hổ thẹn, xấu hổ
+* **Từ ghép thông dụng:**
+    * **惭愧** (cánkuì) - (**Tàm quý**) - Xấu hổ, hổ thẹn
+    * **羞愧** (xiūkuì) - (**Tu quý**) - Thẹn thùng, xấu hổ
+    * **愧疚** (kuìjiù) - (**Quý cứu**) - Day dứt, áy náy
+    * **问心无愧** (wènxīnwúkuì) - (**Vấn tâm vô quý**) - Không thẹn với lòng
+
+## 1125. 慌
+
+* **Pinyin:** huāng
+* **Hán Việt:** Hoảng
+* **Nghĩa chính:** Hoảng hốt, vội vàng
+* **Từ ghép thông dụng:**
+    * **惊慌** (jīnghuāng) - (**Kinh hoảng**) - Kinh hoàng, hoảng sợ
+    * **慌忙** (huāngmáng) - (**Hoảng mang**) - Vội vàng, cuống quýt
+    * **慌张** (huāngzhāng) - (**Hoảng trương**) - Luống cuống, mất bình tĩnh
+    * **心慌** (xīn huāng) - (**Tâm hoảng**) - Tim đập nhanh, hồi hộp (lo lắng)
+
+## 1126. 怒
+
+* **Pinyin:** nù
+* **Hán Việt:** Nộ
+* **Nghĩa chính:** Tức giận
+* **Từ ghép thông dụng:**
+    * **愤怒** (fènnù) - (**Phẫn nộ**) - Phẫn nộ, tức giận
+    * **发怒** (fā nù) - (**Phát nộ**) - Nổi giận
+    * **怒气** (nùqì) - (**Nộ khí**) - Cơn giận
+    * **恼怒** (nǎonù) - (**Não nộ**) - Cáu giận, bực tức
+
+## 1127. 怨
+
+* **Pinyin:** yuàn
+* **Hán Việt:** Oán
+* **Nghĩa chính:** Trách móc, oán hận
+* **Từ ghép thông dụng:**
+    * **抱怨** (bàoyuàn) - (**Bão oán**) - Phàn nàn, oán trách
+    * **埋怨** (mányuàn) - (**Mai oán**) - Trách móc (*đọc là mán*)
+    * **怨恨** (yuànhèn) - (**Oán hận**) - Oán hận
+    * **恩怨** (ēnyuàn) - (**Ân oán**) - Ân oán
+
+## 1128. 伙
+
+* **Pinyin:** huǒ
+* **Hán Việt:** Hỏa
+* **Nghĩa chính:** Nhóm, bọn, bữa ăn (chung)
+* **Từ ghép thông dụng:**
+    * **伙食** (huǒshí) - (**Hỏa thực**) - Cơm nước (tập thể)
+    * **小伙子** (xiǎohuǒzi) - (**Tiểu hỏa tử**) - Chàng trai trẻ
+    * **伙伴** (huǒbàn) - (**Hỏa bạn**) - Bạn đồng hành, đối tác
+    * **合伙** (héhuǒ) - (**Hợp hỏa**) - Hợp tác, chung vốn (làm ăn)
+
+## 1129. 伴
+
+* **Pinyin:** bàn
+* **Hán Việt:** Bạn
+* **Nghĩa chính:** Bạn bè, đi cùng
+* **Từ ghép thông dụng:**
+    * **伙伴** (huǒbàn) - (**Hỏa bạn**) - Bạn bè, đối tác
+    * **陪伴** (péibàn) - (**Bồi bạn**) - Ở bên cạnh, bầu bạn
+    * **伴侣** (bànlǚ) - (**Bạn lữ**) - Bạn đời
+    * **伴随** (bànsuí) - (**Bạn tùy**) - Đi kèm với
+
+## 1130. 俱
+
+* **Pinyin:** jù
+* **Hán Việt:** Câu
+* **Nghĩa chính:** Đều, toàn bộ, câu lạc bộ
+* **Từ ghép thông dụng:**
+    * **俱乐部** (jùlèbù) - (**Câu lạc bộ**) - Câu lạc bộ
+    * **家具** (jiājù) - (**Gia cụ**) - Đồ nội thất (Lưu ý: Chữ này là **具** (Cụ), nhưng **俱** thường bị nhầm. **俱** dùng trong "Câu lạc bộ").
+    * **一应俱全** (yīyīngjùquán) - (**Nhất ứng câu toàn**) - Cái gì cũng có, đầy đủ mọi thứ
+    * **面面俱到** (miànmiànjùdào) - (**Diện diện câu đáo**) - Chu đáo về mọi mặt
+
+## 1131. 悲
+
+* **Pinyin:** bēi
+* **Hán Việt:** Bi
+* **Nghĩa chính:** Buồn, thương xót
+* **Từ ghép thông dụng:**
+    * **悲伤** (bēishāng) - (**Bi thương**) - Đau thương, buồn rầu
+    * **悲观** (bēiguān) - (**Bi quan**) - Bi quan
+    * **悲剧** (bēijù) - (**Bi kịch**) - Bi kịch
+    * **悲痛** (bēitòng) - (**Bi thống**) - Đau đớn (tâm can)
+    * **慈悲** (cíbēi) - (**Từ bi**) - Từ bi, hiền hậu
+
+## 1132. 哀
+
+* **Pinyin:** āi
+* **Hán Việt:** Ai
+* **Nghĩa chính:** Bi ai, thương xót, than khóc
+* **Từ ghép thông dụng:**
+    * **悲哀** (bēi'āi) - (**Bi ai**) - Bi ai, đau buồn
+    * **哀求** (āiqiú) - (**Ai cầu**) - Van cầu, nài nỉ
+    * **默哀** (mò'āi) - (**Mặc ai**) - Mặc niệm
+    * **节哀** (jié'āi) - (**Tiết ai**) - Bớt đau buồn (lời khuyên trong đám tang)
+    * **哀悼** (āidào) - (**Ai điệu**) - Truy điệu, thương tiếc
+
+## 1133. 乐
+
+* **Pinyin:** lè (hoặc yuè)
+* **Hán Việt:** Lạc / Nhạc
+* **Nghĩa chính:** Vui vẻ (lè) / Âm nhạc (yuè)
+* **Từ ghép thông dụng:**
+    * **快乐** (kuàilè) - (**Khoái lạc**) - Vui vẻ, hạnh phúc (*đọc là lè*)
+    * **乐观** (lèguān) - (**Lạc quan**) - Lạc quan (*đọc là lè*)
+    * **音乐** (yīnyuè) - (**Âm nhạc**) - Âm nhạc (*đọc là yuè*)
+    * **乐器** (yuèqì) - (**Nhạc khí**) - Nhạc cụ (*đọc là yuè*)
+    * **可乐** (kělè) - (**Khả lạc**) - Cola (nước ngọt), đáng cười (*đọc là lè*)
+
+## 1134. 油
+
+* **Pinyin:** yóu
+* **Hán Việt:** Du
+* **Nghĩa chính:** Dầu, mỡ
+* **Từ ghép thông dụng:**
+    * **加油** (jiāyóu) - (**Gia du**) - Cố lên (đổ xăng)
+    * **汽油** (qìyóu) - (**Khí du**) - Xăng
+    * **酱油** (jiàngyóu) - (**Tương du**) - Xì dầu, nước tương
+    * **油腻** (yóunì) - (**Du nhị**) - Béo ngậy, ngán (đồ ăn nhiều dầu)
+    * **奶油** (nǎiyóu) - (**Nãi du**) - Kem (cream), bơ
+
+## 1135. 盐
+
+* **Pinyin:** yán
+* **Hán Việt:** Diêm
+* **Nghĩa chính:** Muối
+* **Từ ghép thông dụng:**
+    * **食盐** (shíyán) - (**Thực diêm**) - Muối ăn
+    * **盐水** (yánshuǐ) - (**Diêm thủy**) - Nước muối
+    * **海盐** (hǎiyán) - (**Hải diêm**) - Muối biển
+    * **椒盐** (jiāoyán) - (**Tiêu diêm**) - Muối tiêu
+
+## 1136. 酱
+
+* **Pinyin:** jiàng
+* **Hán Việt:** Tương
+* **Nghĩa chính:** Tương, sốt (sauce), mắm
+* **Từ ghép thông dụng:**
+    * **酱油** (jiàngyóu) - (**Tương du**) - Nước tương
+    * **果酱** (guǒjiàng) - (**Quả tương**) - Mứt (phết bánh mì)
+    * **辣酱** (làjiàng) - (**Lạt tương**) - Tương ớt
+    * **炸酱面** (zhájiàngmiàn) - (**Tạc tương diện**) - Mì tương đen (Mì Zha-jiang)
+    * **花生酱** (huāshēngjiàng) - (**Hoa sinh tương**) - Bơ lạc
+
+## 1137. 醋
+
+* **Pinyin:** cù
+* **Hán Việt:** Thố
+* **Nghĩa chính:** Giấm, ghen tuông
+* **Từ ghép thông dụng:**
+    * **吃醋** (chī cù) - (**Ngật thố**) - Ghen (tình yêu)
+    * **白醋** (báicù) - (**Bạch thố**) - Giấm trắng
+    * **陈醋** (chéncù) - (**Trần thố**) - Giấm lâu năm (giấm đen)
+    * **添油加醋** (tiānyóujiācù) - (**Thiêm du gia thố**) - Thêm mắm dặm muối (thêu dệt câu chuyện)
+
+## 1138. 钢
+
+* **Pinyin:** gāng
+* **Hán Việt:** Cương
+* **Nghĩa chính:** Thép
+* **Từ ghép thông dụng:**
+    * **钢铁** (gāngtiě) - (**Cương thiết**) - Gang thép
+    * **钢琴** (gāngqín) - (**Cương cầm**) - Đàn Piano
+    * **钢笔** (gāngbǐ) - (**Cương bút**) - Bút máy
+    * **不锈钢** (búxiùgāng) - (**Bất tú cương**) - Inox (thép không gỉ)
+
+## 1139. 铜
+
+* **Pinyin:** tóng
+* **Hán Việt:** Đồng
+* **Nghĩa chính:** Đồng (kim loại)
+* **Từ ghép thông dụng:**
+    * **铜牌** (tóngpái) - (**Đồng bài**) - Huy chương đồng
+    * **铜像** (tóngxiàng) - (**Đồng tượng**) - Tượng đồng
+    * **古铜色** (gǔtóngsè) - (**Cổ đồng sắc**) - Màu da đồng (rám nắng khỏe mạnh)
+    * **铜钱** (tóngqián) - (**Đồng tiền**) - Tiền xu đồng (thời xưa)
+
+## 1140. 灰
+
+* **Pinyin:** huī
+* **Hán Việt:** Hôi
+* **Nghĩa chính:** Tro, bụi, màu xám
+* **Từ ghép thông dụng:**
+    * **灰色** (huīsè) - (**Hôi sắc**) - Màu xám
+    * **灰尘** (huīchén) - (**Hôi trần**) - Bụi bặm
+    * **灰心** (huīxīn) - (**Hôi tâm**) - Nản lòng, thoái chí
+    * **骨灰** (gǔhuī) - (**Cốt hôi**) - Tro cốt
+    * **石灰** (shíhuī) - (**Thạch hôi**) - Vôi
+
+## 1141. 尘
+
+* **Pinyin:** chén
+* **Hán Việt:** Trần
+* **Nghĩa chính:** Bụi, trần gian
+* **Từ ghép thông dụng:**
+    * **灰尘** (huīchén) - (**Hôi trần**) - Bụi bặm
+    * **红尘** (hóngchén) - (**Hồng trần**) - Hồng trần, thế gian
+    * **尘土** (chéntǔ) - (**Trần thổ**) - Bụi đất
+    * **吸尘器** (xīchénqì) - (**Hấp trần khí**) - Máy hút bụi
+    * **尘世** (chénshì) - (**Trần thế**) - Trần thế, nhân gian
+
+## 1142. 泥
+
+* **Pinyin:** ní
+* **Hán Việt:** Nê
+* **Nghĩa chính:** Bùn, đất sét
+* **Từ ghép thông dụng:**
+    * **泥土** (nítǔ) - (**Nê thổ**) - Đất bùn
+    * **水泥** (shuǐní) - (**Thủy nê**) - Xi măng
+    * **烂泥** (lànní) - (**Lạn nê**) - Bùn nhão
+    * **泥泞** (nínìng) - (**Nê ninh**) - Lầy lội
+    * **印泥** (yìnní) - (**Ấn nê**) - Hộp mực (để đóng dấu đỏ)
+
+## 1143. 沙
+
+* **Pinyin:** shā
+* **Hán Việt:** Sa
+* **Nghĩa chính:** Cát, khàn (giọng)
+* **Từ ghép thông dụng:**
+    * **沙发** (shāfā) - (**Sa phát**) - Ghế Sofa (từ mượn âm)
+    * **沙漠** (shāmò) - (**Sa mạc**) - Sa mạc
+    * **沙滩** (shātān) - (**Sa than**) - Bãi cát, bãi biển
+    * **沙子** (shāzi) - (**Sa tử**) - Cát
+    * **风沙** (fēngshā) - (**Phong sa**) - Gió cát
+
+## 1144. 湿
+
+* **Pinyin:** shī
+* **Hán Việt:** Thấp
+* **Nghĩa chính:** Ướt, ẩm
+* **Từ ghép thông dụng:**
+    * **潮湿** (cháoshī) - (**Triều thấp**) - Ẩm ướt
+    * **湿润** (shīrùn) - (**Thấp nhuận**) - Ẩm ướt (không khí/mắt)
+    * **淋湿** (lín shī) - (**Lâm thấp**) - Bị ướt (do mưa)
+    * **湿度** (shīdù) - (**Thấp độ**) - Độ ẩm
+    * **湿透** (shītòu) - (**Thấp thấu**) - Ướt sũng
+
+## 1145. 汗
+
+* **Pinyin:** hàn
+* **Hán Việt:** Hãn
+* **Nghĩa chính:** Mồ hôi
+* **Từ ghép thông dụng:**
+    * **汗水** (hànshuǐ) - (**Hãn thủy**) - Mồ hôi
+    * **流汗** (liú hàn) - (**Lưu hãn**) - Đổ mồ hôi
+    * **出汗** (chū hàn) - (**Xuất hãn**) - Ra mồ hôi
+    * **汗衫** (hànshān) - (**Hãn sam**) - Áo lót, áo phông
+    * **冷汗** (lěnghàn) - (**Lãnh hãn**) - Mồ hôi lạnh (do sợ hãi)
+
+## 1146. 泪
+
+* **Pinyin:** lèi
+* **Hán Việt:** Lệ
+* **Nghĩa chính:** Nước mắt
+* **Từ ghép thông dụng:**
+    * **眼泪** (yǎnlèi) - (**Nhãn lệ**) - Nước mắt
+    * **流泪** (liú lèi) - (**Lưu lệ**) - Khóc, rơi lệ
+    * **泪水** (lèishuǐ) - (**Lệ thủy**) - Nước mắt
+    * **含泪** (hánlèi) - (**Hàm lệ**) - Ngấn lệ, ngậm ngùi
+    * **催泪** (cuīlèi) - (**Thôi lệ**) - Cảm động rơi nước mắt, gây khóc (phim/hơi cay)
+
+## 1147. 液
+
+* **Pinyin:** yè
+* **Hán Việt:** Dịch
+* **Nghĩa chính:** Chất lỏng
+* **Từ ghép thông dụng:**
+    * **液体** (yètǐ) - (**Dịch thể**) - Chất lỏng
+    * **血液** (xuèyè) - (**Huyết dịch**) - Máu
+    * **洗衣液** (xǐyīyè) - (**Tẩy y dịch**) - Nước giặt
+    * **液化气** (yèhuàqì) - (**Dịch hóa khí**) - Khí gas hóa lỏng
+    * **输液** (shūyè) - (**Thâu dịch**) - Truyền dịch (y tế)
+
+## 1148. 胸
+
+* **Pinyin:** xiōng
+* **Hán Việt:** Hung
+* **Nghĩa chính:** Ngực
+* **Từ ghép thông dụng:**
+    * **胸口** (xiōngkǒu) - (**Hung khẩu**) - Ngực, lồng ngực
+    * **心胸** (xīnxiōng) - (**Tâm hung**) - Tấm lòng, dạ
+    * **胸怀** (xiōnghuái) - (**Hung hoài**) - Hoài bão, tấm lòng
+    * **挺胸** (tǐng xiōng) - (**Đĩnh hung**) - Ưỡn ngực
+    * **鸡胸肉** (jīxiōngròu) - (**Kê hung nhục**) - Thịt ức gà
+
+## 1149. 肩
+
+* **Pinyin:** jiān
+* **Hán Việt:** Kiên
+* **Nghĩa chính:** Vai
+* **Từ ghép thông dụng:**
+    * **肩膀** (jiānbǎng) - (**Kiên bàng**) - Bờ vai
+    * **并肩** (bìngjiān) - (**Tịnh kiên**) - Sát cánh, kề vai
+    * **肩负** (jiānfù) - (**Kiên phụ**) - Gánh vác (trách nhiệm)
+    * **擦肩而过** (cājiān'érguò) - (**Sát kiên nhi quá**) - Lướt qua vai nhau
+    * **坎肩** (kǎnjiān) - (**Khảm kiên**) - Áo ghi-lê (áo cộc tay)
+
+## 1150. 胃
+
+* **Pinyin:** wèi
+* **Hán Việt:** Vị
+* **Nghĩa chính:** Dạ dày
+* **Từ ghép thông dụng:**
+    * **胃口** (wèikǒu) - (**Vị khẩu**) - Khẩu vị, sự thèm ăn
+    * **胃痛** (wèitòng) - (**Vị thống**) - Đau dạ dày
+    * **胃病** (wèibìng) - (**Vị bệnh**) - Bệnh dạ dày
+    * **健胃** (jiànwèi) - (**Kiện vị**) - Tốt cho dạ dày, tiêu hóa
+    * **开胃** (kāiwèi) - (**Khai vị**) - Khai vị (kích thích thèm ăn)
+
+## 1151. 肤
+
+* **Pinyin:** fū
+* **Hán Việt:** Phu
+* **Nghĩa chính:** Da, nông cạn
+* **Từ ghép thông dụng:**
+    * **皮肤** (pífū) - (**Bì phu**) - Da
+    * **肤色** (fūsè) - (**Phu sắc**) - Màu da
+    * **肤浅** (fūqiǎn) - (**Phu thiển**) - Nông cạn, hời hợt (kiến thức/suy nghĩ)
+    * **护肤** (hùfū) - (**Hộ phu**) - Chăm sóc da
+    * **切肤之痛** (qièfūzhītòng) - (**Thiết phu chi thống**) - Nỗi đau cắt da cắt thịt (sâu sắc)
+
+## 1152. 胆
+
+* **Pinyin:** dǎn
+* **Hán Việt:** Đảm
+* **Nghĩa chính:** Mật, gan dạ, dũng khí
+* **Từ ghép thông dụng:**
+    * **胆子** (dǎnzi) - (**Đảm tử**) - Gan (sự can đảm)
+    * **大胆** (dàdǎn) - (**Đại đảm**) - To gan, táo bạo
+    * **胆小** (dǎnxiǎo) - (**Đảm tiểu**) - Nhát gan
+    * **提心吊胆** (tíxīndiàodǎn) - (**Đề tâm điếu đảm**) - Nơm nớp lo sợ
+    * **孤胆** (gūdǎn) - (**Cô đảm**) - Đơn độc dũng cảm (anh hùng)
+
+## 1153. 肺
+
+* **Pinyin:** fèi
+* **Hán Việt:** Phế
+* **Nghĩa chính:** Phổi
+* **Từ ghép thông dụng:**
+    * **肺炎** (fèiyán) - (**Phế viêm**) - Viêm phổi
+    * **心肺** (xīnfèi) - (**Tâm phế**) - Tim phổi (tâm can)
+    * **肺活量** (fèihuóliàng) - (**Phế hoạt lượng**) - Dung tích phổi
+    * **肺腑之言** (fèifǔzhīyán) - (**Phế phủ chi ngôn**) - Lời gan ruột (chân thành)
+    * **没心没肺** (méixīnméifèi) - (**Một tâm một phế**) - Vô tâm, vô tư lự
+
+## 1154. 肠
+
+* **Pinyin:** cháng
+* **Hán Việt:** Trường (hoặc Tràng)
+* **Nghĩa chính:** Ruột
+* **Từ ghép thông dụng:**
+    * **香肠** (xiāngcháng) - (**Hương trường**) - Xúc xích, lạp xưởng
+    * **肠胃** (chángwèi) - (**Trường vị**) - Ruột và dạ dày (hệ tiêu hóa)
+    * **大肠** (dàcháng) - (**Đại trường**) - Ruột già (đại tràng)
+    * **心肠** (xīncháng) - (**Tâm trường**) - Tấm lòng, tâm địa
+    * **牵肠挂肚** (qiānchángguàdù) - (**Khiên trường quải đỗ**) - Lo lắng sốt ruột (như treo gan ruột)
+
+## 1155. 胞
+
+* **Pinyin:** bāo
+* **Hán Việt:** Bào
+* **Nghĩa chính:** Bọc, màng, anh em ruột
+* **Từ ghép thông dụng:**
+    * **细胞** (xìbāo) - (**Tế bào**) - Tế bào
+    * **同胞** (tóngbāo) - (**Đồng bào**) - Đồng bào, anh em ruột
+    * **双胞胎** (shuāngbāotāi) - (**Song bào thai**) - Sinh đôi
+    * **侨胞** (qiáobāo) - (**Kiều bào**) - Kiều bào
+    * **胞弟** (bāodì) - (**Bào đệ**) - Em trai ruột
+
+## 1156. 胎
+
+* **Pinyin:** tāi
+* **Hán Việt:** Thai
+* **Nghĩa chính:** Thai nhi, lốp xe
+* **Từ ghép thông dụng:**
+    * **轮胎** (lúntāi) - (**Luân thai**) - Lốp xe
+    * **投胎** (tóutāi) - (**Đầu thai**) - Đầu thai
+    * **备胎** (bèitāi) - (**Bị thai**) - Lốp dự phòng (nghĩa bóng: người dự bị trong tình yêu)
+    * **胎儿** (tāi'ér) - (**Thai nhi**) - Thai nhi
+    * **胎教** (tāijiào) - (**Thai giáo**) - Giáo dục thai nhi
+
+## 1157. 幼
+
+* **Pinyin:** yòu
+* **Hán Việt:** Ấu
+* **Nghĩa chính:** Nhỏ, non nớt
+* **Từ ghép thông dụng:**
+    * **幼儿园** (yòuéryuán) - (**Ấu nhi viên**) - Nhà trẻ, mẫu giáo
+    * **幼稚** (yòuzhì) - (**Ấu trĩ**) - Ấu trĩ, ngây ngô
+    * **年幼** (niányòu) - (**Niên ấu**) - Nhỏ tuổi
+    * **幼苗** (yòumiáo) - (**Ấu miêu**) - Cây non, mầm non
+    * **扶老携幼** (fúlǎoxiéyòu) - (**Phù lão huề ấu**) - Dìu già dắt trẻ
+
+## 1158. 稚
+
+* **Pinyin:** zhì
+* **Hán Việt:** Trĩ
+* **Nghĩa chính:** Non, trẻ con, lúa non
+* **Từ ghép thông dụng:**
+    * **幼稚** (yòuzhì) - (**Ấu trĩ**) - Trẻ con, ấu trĩ
+    * **稚嫩** (zhìnèn) - (**Trĩ nộn**) - Non nớt
+    * **稚气** (zhìqì) - (**Trĩ khí**) - Tính trẻ con, ngây thơ
+    * **童稚** (tóngzhì) - (**Đồng trĩ**) - Sự ngây thơ trẻ nhỏ
+
+## 1159. 龄
+
+* **Pinyin:** líng
+* **Hán Việt:** Linh
+* **Nghĩa chính:** Tuổi
+* **Từ ghép thông dụng:**
+    * **年龄** (niánlíng) - (**Niên linh**) - Tuổi tác
+    * **同龄** (tónglíng) - (**Đồng linh**) - Cùng tuổi
+    * **工龄** (gōnglíng) - (**Công linh**) - Tuổi nghề, thâm niên
+    * **高龄** (gāolíng) - (**Cao linh**) - Cao tuổi
+    * **妙龄** (miàolíng) - (**Diệu linh**) - Tuổi thanh xuân (thường chỉ cô gái trẻ)
+
+## 1160. 寿
+
+* **Pinyin:** shòu
+* **Hán Việt:** Thọ
+* **Nghĩa chính:** Sống lâu, tuổi thọ
+* **Từ ghép thông dụng:**
+    * **长寿** (chángshòu) - (**Trường thọ**) - Sống lâu
+    * **寿命** (shòumìng) - (**Thọ mệnh**) - Tuổi thọ
+    * **祝寿** (zhùshòu) - (**Chúc thọ**) - Mừng thọ
+    * **寿面** (shòumiàn) - (**Thọ diện**) - Mì trường thọ (ăn sinh nhật)
+    * **寿星** (shòuxīng) - (**Thọ tinh**) - Ông Thọ, người có sinh nhật
+
+## 1161. 贺
+
+* **Pinyin:** hè
+* **Hán Việt:** Hạ
+* **Nghĩa chính:** Chúc mừng
+* **Từ ghép thông dụng:**
+    * **祝贺** (zhùhè) - (**Chúc hạ**) - Chúc mừng (thành tích/sự việc tốt)
+    * **贺卡** (hèkǎ) - (**Hạ tạp**) - Thiệp chúc mừng
+    * **贺年** (hènián) - (**Hạ niên**) - Chúc Tết
+    * **道贺** (dàohè) - (**Đạo hạ**) - Nói lời chúc mừng
+    * **贺词** (hècí) - (**Hạ từ**) - Lời chúc mừng
+
+## 1162. 庆
+
+* **Pinyin:** qìng
+* **Hán Việt:** Khánh
+* **Nghĩa chính:** Mừng, lễ kỷ niệm
+* **Từ ghép thông dụng:**
+    * **庆祝** (qìngzhù) - (**Khánh chúc**) - Ăn mừng, tổ chức lễ
+    * **国庆节** (Guóqìng Jié) - (**Quốc khánh tiết**) - Ngày Quốc khánh
+    * **喜庆** (xǐqìng) - (**Hỷ khánh**) - Vui mừng, hân hoan
+    * **庆典** (qìngdiǎn) - (**Khánh điển**) - Buổi lễ long trọng
+    * **大庆** (dàqìng) - (**Đại khánh**) - Lễ mừng lớn (thường là sinh nhật người già)
+
+## 1163. 登
+
+* **Pinyin:** dēng
+* **Hán Việt:** Đăng
+* **Nghĩa chính:** Leo, lên, đăng (báo/ký)
+* **Từ ghép thông dụng:**
+    * **登山** (dēngshān) - (**Đăng sơn**) - Leo núi
+    * **登记** (dēngjì) - (**Đăng ký**) - Đăng ký
+    * **登录** (dēnglù) - (**Đăng lục**) - Đăng nhập (Login)
+    * **登机** (dēngjī) - (**Đăng cơ**) - Lên máy bay
+    * **刊登** (kāndēng) - (**San đăng**) - Đăng bài (lên báo/tạp chí)
+
+## 1164. 播
+
+* **Pinyin:** bō
+* **Hán Việt:** Bá
+* **Nghĩa chính:** Truyền đi, gieo, phát (tin)
+* **Từ ghép thông dụng:**
+    * **广播** (guǎngbō) - (**Quảng bá**) - Phát thanh, loa phát thanh
+    * **播放** (bōfàng) - (**Bá phóng**) - Phát (nhạc/video)
+    * **传播** (chuánbō) - (**Truyền bá**) - Truyền bá, lây lan
+    * **直播** (zhíbō) - (**Trực bá**) - Truyền hình trực tiếp (Livestream)
+    * **播种** (bōzhǒng) - (**Bá chủng**) - Gieo hạt
+
+## 1165. 摄
+
+* **Pinyin:** shè
+* **Hán Việt:** Nhiếp
+* **Nghĩa chính:** Thu, hút, chụp (ảnh)
+* **Từ ghép thông dụng:**
+    * **摄影** (shèyǐng) - (**Nhiếp ảnh**) - Nhiếp ảnh, quay phim
+    * **摄像** (shèxiàng) - (**Nhiếp tượng**) - Quay camera
+    * **摄氏度** (shèshìdù) - (**Nhiếp thị độ**) - Độ C (Celsius)
+    * **拍摄** (pāishè) - (**Phách nhiếp**) - Quay, chụp (phim ảnh)
+    * **摄取** (shèqǔ) - (**Nhiếp thủ**) - Hấp thu (dinh dưỡng)
+
+## 1166. 烧
+
+* **Pinyin:** shāo
+* **Hán Việt:** Thiêu
+* **Nghĩa chính:** Đốt, nấu, sốt
+* **Từ ghép thông dụng:**
+    * **发烧** (fāshāo) - (**Phát thiêu**) - Bị sốt
+    * **烧烤** (shāokǎo) - (**Thiêu khảo**) - Đồ nướng (BBQ)
+    * **燃烧** (ránshāo) - (**Nhiên thiêu**) - Bốc cháy, thiêu đốt
+    * **红烧** (hóngshāo) - (**Hồng thiêu**) - Kho tàu (cách nấu dùng nước tương/đường)
+    * **烧水** (shāo shuǐ) - (**Thiêu thủy**) - Đun nước
+
+## 1167. 燃
+
+* **Pinyin:** rán
+* **Hán Việt:** Nhiên
+* **Nghĩa chính:** Cháy, đốt
+* **Từ ghép thông dụng:**
+    * **燃烧** (ránshāo) - (**Nhiên thiêu**) - Bốc cháy
+    * **燃料** (ránliào) - (**Nhiên liệu**) - Nhiên liệu
+    * **点燃** (diǎnrán) - (**Điểm nhiên**) - Châm lửa, thắp sáng
+    * **燃放** (ránfàng) - (**Nhiên phóng**) - Đốt (pháo)
+
+## 1168. 爆
+
+* **Pinyin:** bào
+* **Hán Việt:** Bạo / Bộc
+* **Nghĩa chính:** Nổ, vỡ tung
+* **Từ ghép thông dụng:**
+    * **爆炸** (bàozhà) - (**Bạo trá**) - Nổ tung
+    * **爆发** (bàofā) - (**Bạo phát**) - Bùng nổ (chiến tranh/dịch bệnh)
+    * **爆满** (bàomǎn) - (**Bạo mãn**) - Chật kín, đầy ắp (người)
+    * **爆米花** (bàomǐhuā) - (**Bạo mễ hoa**) - Bắp rang bơ
+    * **火爆** (huǒbào) - (**Hỏa bạo**) - Nóng nảy, cực kỳ "hot"
+
+## 1169. 犯
+
+* **Pinyin:** fàn
+* **Hán Việt:** Phạm
+* **Nghĩa chính:** Vi phạm, mắc phải, tội phạm
+* **Từ ghép thông dụng:**
+    * **犯罪** (fànzuì) - (**Phạm tội**) - Phạm tội
+    * **犯人** (fànrén) - (**Phạm nhân**) - Tội phạm, tù nhân
+    * **犯错** (fàn cuò) - (**Phạm thác**) - Mắc lỗi
+    * **侵犯** (qīnfàn) - (**Xâm phạm**) - Xâm phạm
+    * **犯法** (fànfǎ) - (**Phạm pháp**) - Phạm pháp
+
+## 1170. 罪
+
+* **Pinyin:** zuì
+* **Hán Việt:** Tội
+* **Nghĩa chính:** Tội lỗi
+* **Từ ghép thông dụng:**
+    * **犯罪** (fànzuì) - (**Phạm tội**) - Phạm tội
+    * **罪恶** (zuì'è) - (**Tội ác**) - Tội ác
+    * **得罪** (dézuì) - (**Đắc tội**) - Mạo phạm, làm phật lòng
+    * **受罪** (shòuzuì) - (**Thụ tội**) - Chịu khổ, chịu đày đọa
+    * **罪犯** (zuìfàn) - (**Tội phạm**) - Kẻ phạm tội
+
+## 1171. 毛
+
+* **Pinyin:** máo
+* **Hán Việt:** Mao
+* **Nghĩa chính:** Lông, hào (đơn vị tiền tệ = 1/10 tệ), thô
+* **Từ ghép thông dụng:**
+    * **毛衣** (máoyī) - (**Mao y**) - Áo len
+    * **羽毛** (yǔmáo) - (**Vũ mao**) - Lông vũ
+    * **毛病** (máobìng) - (**Mao bệnh**) - Lỗi, tật xấu, bệnh (máy móc)
+    * **毛笔** (máobǐ) - (**Mao bút**) - Bút lông
+    * **一毛钱** (yì máo qián) - (**Nhất mao tiền**) - Một hào
+
+## 1172. 血
+
+* **Pinyin:** xuè (hoặc xiě)
+* **Hán Việt:** Huyết
+* **Nghĩa chính:** Máu
+* **Từ ghép thông dụng:**
+    * **血液** (xuèyè) - (**Huyết dịch**) - Máu (y học)
+    * **流血** (liú xiě) - (**Lưu huyết**) - Chảy máu (*đọc là xiě*)
+    * **鲜血** (xiānxuè) - (**Tiên huyết**) - Máu tươi
+    * **心血** (xīnxuè) - (**Tâm huyết**) - Tâm huyết
+    * **血压** (xuèyā) - (**Huyết áp**) - Huyết áp
+
+## 1173. 疗
+
+* **Pinyin:** liáo
+* **Hán Việt:** Liệu
+* **Nghĩa chính:** Chữa trị
+* **Từ ghép thông dụng:**
+    * **治疗** (zhìliáo) - (**Trị liệu**) - Điều trị, chữa bệnh
+    * **医疗** (yīliáo) - (**Y liệu**) - Y tế
+    * **疗养** (liáoyǎng) - (**Liệu dưỡng**) - Nghỉ dưỡng, điều dưỡng
+    * **疗效** (liáoxiào) - (**Liệu hiệu**) - Hiệu quả điều trị
+    * **化疗** (huàliáo) - (**Hóa liệu**) - Hóa trị
+
+## 1174. 危
+
+* **Pinyin:** wēi
+* **Hán Việt:** Nguy
+* **Nghĩa chính:** Nguy hiểm, cao
+* **Từ ghép thông dụng:**
+    * **危险** (wēixiǎn) - (**Nguy hiểm**) - Nguy hiểm
+    * **危机** (wēijī) - (**Nguy cơ**) - Khủng hoảng, nguy cơ
+    * **危急** (wēijí) - (**Nguy cấp**) - Nguy cấp
+    * **危害** (wēihài) - (**Nguy hại**) - Làm hại, gây hại
+    * **病危** (bìngwēi) - (**Bệnh nguy**) - Bệnh kịch liệt (sắp mất)
+
+## 1175. 虑
+
+* **Pinyin:** lǜ
+* **Hán Việt:** Lự
+* **Nghĩa chính:** Lo nghĩ, suy tính
+* **Từ ghép thông dụng:**
+    * **考虑** (kǎolǜ) - (**Khảo lự**) - Suy nghĩ, cân nhắc
+    * **忧虑** (yōulǜ) - (**Ưu lự**) - Lo âu
+    * **顾虑** (gùlǜ) - (**Cố lự**) - E ngại, lo lắng (việc gì đó)
+    * **焦虑** (jiāolǜ) - (**Tiêu lự**) - Lo lắng, bồn chồn (rối loạn lo âu)
+    * **深思熟虑** (shēnsīshúlǜ) - (**Thâm tư thục lự**) - Suy nghĩ kỹ càng
+
+## 1176. 柔
+
+* **Pinyin:** róu
+* **Hán Việt:** Nhu
+* **Nghĩa chính:** Mềm, nhẹ nhàng
+* **Từ ghép thông dụng:**
+    * **温柔** (wēnróu) - (**Ôn nhu**) - Dịu dàng
+    * **柔软** (róuruǎn) - (**Nhu nhuyễn**) - Mềm mại
+    * **柔和** (róuhé) - (**Nhu hòa**) - Êm dịu, nhẹ nhàng (ánh sáng/âm thanh)
+    * **柔顺** (róushùn) - (**Nhu thuận**) - Mềm mượt (tóc)
+    * **柔弱** (róuruò) - (**Nhu nhược**) - Yếu đuối, mỏng manh
+
+## 1177. 缓
+
+* **Pinyin:** huǎn
+* **Hán Việt:** Hoãn
+* **Nghĩa chính:** Chậm, hoãn lại
+* **Từ ghép thông dụng:**
+    * **缓慢** (huǎnmàn) - (**Hoãn mạn**) - Chậm chạp
+    * **缓解** (huǎnjiě) - (**Hoãn giải**) - Làm dịu, giảm bớt (căng thẳng/đau)
+    * **迟缓** (chíhuǎn) - (**Trì hoãn**) - Trì trệ, chậm chạp
+    * **缓和** (huǎnhé) - (**Hoãn hòa**) - Hòa dịu, làm chùng xuống
+    * **延缓** (yánhuǎn) - (**Diên hoãn**) - Kéo dài, làm chậm lại
+
+## 1178. 迟
+
+* **Pinyin:** chí
+* **Hán Việt:** Trì
+* **Nghĩa chính:** Muộn, chậm
+* **Từ ghép thông dụng:**
+    * **迟到** (chídào) - (**Trì đáo**) - Đến muộn
+    * **推迟** (tuīchí) - (**Thôi trì**) - Hoãn lại, lùi lịch
+    * **迟早** (chízǎo) - (**Trì tảo**) - Sớm muộn gì cũng...
+    * **迟钝** (chídùn) - (**Trì độn**) - Chậm chạp (phản ứng/đầu óc)
+    * **迟疑** (chíyí) - (**Trì nghi**) - Do dự, chần chừ
+
+## 1179. 今
+
+* **Pinyin:** jīn
+* **Hán Việt:** Kim
+* **Nghĩa chính:** Nay, hiện tại
+* **Từ ghép thông dụng:**
+    * **今天** (jīntiān) - (**Kim thiên**) - Hôm nay
+    * **今年** (jīnnián) - (**Kim niên**) - Năm nay
+    * **今后** (jīnhòu) - (**Kim hậu**) - Từ nay về sau
+    * **如今** (rújīn) - (**Như kim**) - Ngày nay, hiện giờ
+    * **古今** (gǔjīn) - (**Cổ kim**) - Xưa và nay
+
+## 1180. 未
+
+* **Pinyin:** wèi
+* **Hán Việt:** Vị
+* **Nghĩa chính:** Chưa, tương lai, mùi vị (trong từ ghép cũ)
+* **Từ ghép thông dụng:**
+    * **未来** (wèilái) - (**Vị lai**) - Tương lai
+    * **未必** (wèibì) - (**Vị tất**) - Chưa chắc, không hẳn
+    * **未婚** (wèihūn) - (**Vị hôn**) - Chưa kết hôn, độc thân
+    * **未知** (wèizhī) - (**Vị tri**) - Chưa biết, ẩn số
+    * **从未** (cóngwèi) - (**Tòng vị**) - Chưa từng bao giờ
+
+## 1181. 初
+
+* **Pinyin:** chū
+* **Hán Việt:** Sơ
+* **Nghĩa chính:** Ban đầu, mới, lần đầu
+* **Từ ghép thông dụng:**
+    * **初步** (chūbù) - (**Sơ bộ**) - Sơ bộ, bước đầu
+    * **初级** (chūjí) - (**Sơ cấp**) - Sơ cấp
+    * **初中** (chūzhōng) - (**Sơ trung**) - Trung học cơ sở (Cấp 2)
+    * **当初** (dāngchū) - (**Đương sơ**) - Lúc đầu, hồi đó
+    * **起初** (qǐchū) - (**Khởi sơ**) - Ban đầu, thoạt tiên
+
+## 1182. 末
+
+* **Pinyin:** mò
+* **Hán Việt:** Mạt
+* **Nghĩa chính:** Cuối, ngọn, bột/vụn
+* **Từ ghép thông dụng:**
+    * **周末** (zhōumò) - (**Chu mạt**) - Cuối tuần
+    * **期末** (qīmò) - (**Kỳ mạt**) - Cuối kỳ
+    * **末班车** (mòbānchē) - (**Mạt ban xa**) - Chuyến xe cuối cùng
+    * **粉末** (fěnmò) - (**Phấn mạt**) - Bột, bụi phấn
+    * **本末倒置** (běnmòdàozhì) - (**Bản mạt đảo trí**) - Đảo lộn gốc ngọn (làm ngược đời)
+
+## 1183. 退
+
+* **Pinyin:** tuì
+* **Hán Việt:** Thoái
+* **Nghĩa chính:** Lùi, trả lại, rút lui
+* **Từ ghép thông dụng:**
+    * **后退** (hòutuì) - (**Hậu thoái**) - Lùi lại phía sau
+    * **退步** (tuìbù) - (**Thoái bộ**) - Thụt lùi (kém đi)
+    * **退休** (tuìxiū) - (**Thoái hưu**) - Nghỉ hưu
+    * **退款** (tuìkuǎn) - (**Thoái khoản**) - Hoàn tiền
+    * **退烧** (tuìshāo) - (**Thoái thiêu**) - Hạ sốt
+
+## 1184. 转
+
+* **Pinyin:** zhuǎn (hoặc zhuàn)
+* **Hán Việt:** Chuyển
+* **Nghĩa chính:** Xoay, chuyển, rẽ
+* **Từ ghép thông dụng:**
+    * **转身** (zhuǎnshēn) - (**Chuyển thân**) - Quay người lại
+    * **转变** (zhuǎnbiàn) - (**Chuyển biến**) - Chuyển biến, thay đổi
+    * **转告** (zhuǎngào) - (**Chuyển cáo**) - Chuyển lời, nhắn lại
+    * **转账** (zhuǎnzhàng) - (**Chuyển trướng**) - Chuyển khoản
+    * **旋转** (xuánzhuǎn) - (**Toàn chuyển**) - Xoay tròn
+
+## 1185. 连
+
+* **Pinyin:** lián
+* **Hán Việt:** Liên
+* **Nghĩa chính:** Nối, liên tục, ngay cả (giới từ)
+* **Từ ghép thông dụng:**
+    * **连接** (liánjiē) - (**Liên tiếp**) - Kết nối
+    * **连续** (liánxù) - (**Liên tục**) - Liên tục
+    * **连忙** (liánmáng) - (**Liên mang**) - Vội vàng (làm ngay)
+    * **连锁** (liánsuǒ) - (**Liên tỏa**) - Chuỗi (cửa hàng/phản ứng)
+    * **连...都...** (lián... dōu...) - (**Liên... đô...**) - Ngay cả... cũng...
+
+## 1186. 圆
+
+* **Pinyin:** yuán
+* **Hán Việt:** Viên
+* **Nghĩa chính:** Tròn, trọn vẹn
+* **Từ ghép thông dụng:**
+    * **圆形** (yuánxíng) - (**Viên hình**) - Hình tròn
+    * **圆满** (yuánmǎn) - (**Viên mãn**) - Viên mãn, trọn vẹn
+    * **团圆** (tuányuán) - (**Đoàn viên**) - Đoàn tụ, sum họp
+    * **汤圆** (tāngyuán) - (**Thang viên**) - Bánh trôi nước
+    * **圆珠笔** (yuánzhūbǐ) - (**Viên châu bút**) - Bút bi
+
+## 1187. 弯
+
+* **Pinyin:** wān
+* **Hán Việt:** Loan
+* **Nghĩa chính:** Cong, rẽ (cua)
+* **Từ ghép thông dụng:**
+    * **拐弯** (guǎi wān) - (**Quải loan**) - Rẽ, quẹo
+    * **弯腰** (wān yāo) - (**Loan yêu**) - Cúi người, khom lưng
+    * **弯曲** (wānqū) - (**Loan khúc**) - Cong, ngoằn ngoèo
+    * **弯路** (wānlù) - (**Loan lộ**) - Đường vòng
+
+## 1188. 币
+
+* **Pinyin:** bì
+* **Hán Việt:** Tệ
+* **Nghĩa chính:** Tiền tệ
+* **Từ ghép thông dụng:**
+    * **人民币** (Rénmínbì) - (**Nhân dân tệ**) - Nhân dân tệ (tiền TQ)
+    * **硬币** (yìngbì) - (**Ngạnh tệ**) - Tiền xu
+    * **货币** (huòbì) - (**Hóa tệ**) - Tiền tệ
+    * **纸币** (zhǐbì) - (**Chỉ tệ**) - Tiền giấy
+
+## 1189. 财
+
+* **Pinyin:** cái
+* **Hán Việt:** Tài
+* **Nghĩa chính:** Tiền của, tài sản
+* **Từ ghép thông dụng:**
+    * **发财** (fā cái) - (**Phát tài**) - Phát tài
+    * **财产** (cáichǎn) - (**Tài sản**) - Tài sản
+    * **财务** (cáiwù) - (**Tài vụ**) - Tài chính, kế toán
+    * **财富** (cáifù) - (**Tài phú**) - Của cải, sự giàu có
+    * **理财** (lǐcái) - (**Lý tài**) - Quản lý tài chính
+
+## 1190. 铺
+
+* **Pinyin:** pū (hoặc pù)
+* **Hán Việt:** Phô / Phố
+* **Nghĩa chính:** Trải ra (pū) / Cửa tiệm, giường (pù)
+* **Từ ghép thông dụng:**
+    * **店铺** (diànpù) - (**Điếm phố**) - Cửa hiệu (*đọc là pù*)
+    * **床铺** (chuángpù) - (**Sàng phố**) - Giường chiếu (*đọc là pù*)
+    * **卧铺** (wòpù) - (**Ngọa phố**) - Giường nằm (tàu/xe) (*đọc là pù*)
+    * **铺路** (pū lù) - (**Phô lộ**) - Trải đường (làm đường) (*đọc là pū*)
+    * **铺床** (pū chuáng) - (**Phô sàng**) - Trải giường (*đọc là pū*)
+
+## 1191. 掌
+
+* **Pinyin:** zhǎng
+* **Hán Việt:** Chưởng
+* **Nghĩa chính:** Lòng bàn tay, nắm giữ
+* **Từ ghép thông dụng:**
+    * **掌握** (zhǎngwò) - (**Chưởng ác**) - Nắm vững, làm chủ
+    * **鼓掌** (gǔzhǎng) - (**Cổ chưởng**) - Vỗ tay
+    * **手掌** (shǒuzhǎng) - (**Thủ chưởng**) - Lòng bàn tay
+    * **掌声** (zhǎngshēng) - (**Chưởng thanh**) - Tiếng vỗ tay
+    * **掌管** (zhǎngguǎn) - (**Chưởng quản**) - Quản lý, cai quản
+
+## 1192. 拳
+
+* **Pinyin:** quán
+* **Hán Việt:** Quyền
+* **Nghĩa chính:** Nắm đấm, môn võ (dùng tay)
+* **Từ ghép thông dụng:**
+    * **拳头** (quántou) - (**Quyền đầu**) - Nắm đấm
+    * **太极拳** (tàijíquán) - (**Thái cực quyền**) - Thái cực quyền
+    * **拳击** (quánjī) - (**Quyền kích**) - Boxing, đấm bốc
+    * **握拳** (wò quán) - (**Ác quyền**) - Nắm tay lại
+    * **赤手空拳** (chìshǒukōngquán) - (**Xích thủ không quyền**) - Tay không tấc sắt
+
+## 1193. 拍
+
+* **Pinyin:** pāi
+* **Hán Việt:** Phách
+* **Nghĩa chính:** Vỗ, đập, chụp (ảnh), cái vợt
+* **Từ ghép thông dụng:**
+    * **拍照** (pāi zhào) - (**Phách chiếu**) - Chụp ảnh
+    * **拍手** (pāi shǒu) - (**Phách thủ**) - Vỗ tay
+    * **球拍** (qiúpāi) - (**Cầu phách**) - Cái vợt (bóng bàn/cầu lông)
+    * **拍摄** (pāishè) - (**Phách nhiếp**) - Quay phim, chụp hình
+    * **拍马屁** (pāimǎpì) - (**Phách mã tí**) - Nịnh hót, tâng bốc
+
+## 1194. 踢
+
+* **Pinyin:** tī
+* **Hán Việt:** Thích
+* **Nghĩa chính:** Đá (bằng chân)
+* **Từ ghép thông dụng:**
+    * **踢球** (tī qiú) - (**Thích cầu**) - Đá bóng
+    * **踢足球** (tī zúqiú) - (**Thích túc cầu**) - Đá bóng đá
+    * **踢毽子** (tī jiànzi) - (**Thích kiện tử**) - Đá cầu
+    * **踢开** (tī kāi) - (**Thích khai**) - Đá văng ra, gạt bỏ
+
+## 1195. 踩
+
+* **Pinyin:** cǎi
+* **Hán Việt:** Thái
+* **Nghĩa chính:** Giẫm, đạp lên
+* **Từ ghép thông dụng:**
+    * **踩踏** (cǎità) - (**Thái đạp**) - Giẫm đạp
+    * **踩刹车** (cǎi shāchē) - (**Thái sát xa**) - Đạp phanh (thắng)
+    * **踩雷** (cǎi léi) - (**Thái lôi**) - Đạp phải mìn (nghĩa bóng: gặp xui xẻo/hàng lởm)
+    * **踩死** (cǎi sǐ) - (**Thái tử**) - Giẫm chết
+
+## 1196. 踏
+
+* **Pinyin:** tà
+* **Hán Việt:** Đạp
+* **Nghĩa chính:** Giẫm, bước
+* **Từ ghép thông dụng:**
+    * **脚踏实地** (jiǎotàshídì) - (**Cước đạp thực địa**) - Chân đạp đất thực (thực tế, chắc chắn)
+    * **踏步** (tàbù) - (**Đạp bộ**) - Dậm chân tại chỗ
+    * **踏实** (tāshi) - (**Đạp thực**) - Yên tâm, chắc chắn, thanh thản
+    * **践踏** (jiàntà) - (**Tiễn đạp**) - Chà đạp, giày xéo
+
+## 1197. 踪
+
+* **Pinyin:** zōng
+* **Hán Việt:** Tung
+* **Nghĩa chính:** Dấu vết, vết chân
+* **Từ ghép thông dụng:**
+    * **失踪** (shīzōng) - (**Thất tung**) - Mất tích
+    * **踪迹** (zōngjì) - (**Tung tích**) - Tung tích, dấu vết
+    * **跟踪** (gēnzōng) - (**Cân tung**) - Theo dõi, bám theo
+    * **无影无踪** (wúyǐngwúzōng) - (**Vô ảnh vô tung**) - Biến mất không tăm tích
+
+## 1198. 迹
+
+* **Pinyin:** jì
+* **Hán Việt:** Tích
+* **Nghĩa chính:** Dấu vết, di tích
+* **Từ ghép thông dụng:**
+    * **奇迹** (qíjì) - (**Kỳ tích**) - Kỳ tích, phép màu
+    * **痕迹** (hénjì) - (**Ngân tích**) - Vết tích, dấu vết
+    * **事迹** (shìjì) - (**Sự tích**) - Sự tích, chiến công
+    * **古迹** (gǔjì) - (**Cổ tích**) - Di tích cổ
+    * **笔迹** (bǐjì) - (**Bút tích**) - Nét chữ
+
+## 1199. 跃
+
+* **Pinyin:** yuè
+* **Hán Việt:** Dược
+* **Nghĩa chính:** Nhảy lên
+* **Từ ghép thông dụng:**
+    * **活跃** (huóyuè) - (**Hoạt dược**) - Hoạt bát, sôi nổi
+    * **跳跃** (tiàoyuè) - (**Khiêu dược**) - Nhảy nhót
+    * **飞跃** (fēiyuè) - (**Phi dược**) - Bước nhảy vọt (phát triển nhanh)
+    * **跃跃欲试** (yuèyuèyùshì) - (**Dược dược dục thí**) - Háo hức muốn thử ngay
+
+## 1200. 跨
+
+* **Pinyin:** kuà
+* **Hán Việt:** Khóa
+* **Nghĩa chính:** Bước qua, băng qua
+* **Từ ghép thông dụng:**
+    * **跨越** (kuàyuè) - (**Khóa việt**) - Vượt qua (thời gian/không gian)
+    * **跨国** (kuàguó) - (**Khóa quốc**) - Xuyên quốc gia
+    * **跨年** (kuànián) - (**Khóa niên**) - Đón giao thừa (bước qua năm mới)
+    * **跨步** (kuàbù) - (**Khóa bộ**) - Sải bước
+
+## 1201. 类
+
+* **Pinyin:** lèi
+* **Hán Việt:** Loại
+* **Nghĩa chính:** Chủng loại, giống, kiểu
+* **Từ ghép thông dụng:**
+    * **种类** (zhǒnglèi) - (**Chủng loại**) - Chủng loại
+    * **人类** (rénlèi) - (**Nhân loại**) - Nhân loại, loài người
+    * **类似** (lèisì) - (**Loại tự**) - Tương tự, na ná
+    * **分类** (fēnlèi) - (**Phân loại**) - Phân loại
+    * **另类** (lìnglèi) - (**Lánh loại**) - Cá biệt, khác người ("dị")
+
+## 1202. 型
+
+* **Pinyin:** xíng
+* **Hán Việt:** Hình
+* **Nghĩa chính:** Khuôn mẫu, kiểu dáng
+* **Từ ghép thông dụng:**
+    * **模型** (móxíng) - (**Mô hình**) - Mô hình
+    * **类型** (lèixíng) - (**Loại hình**) - Loại hình, kiểu
+    * **发型** (fàxíng) - (**Phát hình**) - Kiểu tóc
+    * **大型** (dàxíng) - (**Đại hình**) - Quy mô lớn, cỡ lớn
+    * **典型** (diǎnxíng) - (**Điển hình**) - Điển hình, tiêu biểu
+
+## 1203. 模
+
+* **Pinyin:** mó (hoặc mú)
+* **Hán Việt:** Mô
+* **Nghĩa chính:** Khuôn mẫu, bắt chước
+* **Từ ghép thông dụng:**
+    * **模仿** (mófǎng) - (**Mô phỏng**) - Bắt chước
+    * **模特** (mótè) - (**Mô đặc**) - Người mẫu (Model)
+    * **规模** (guīmó) - (**Quy mô**) - Quy mô
+    * **模样** (múyàng) - (**Mô dạng**) - Dáng vẻ, bộ dạng (*đọc là mú*)
+    * **一模一样** (yìmúyíyàng) - (**Nhất mô nhất dạng**) - Giống hệt nhau (*đọc là mú*)
+
+## 1204. 板
+
+* **Pinyin:** bǎn
+* **Hán Việt:** Bản
+* **Nghĩa chính:** Tấm ván, bảng, ông chủ
+* **Từ ghép thông dụng:**
+    * **老板** (lǎobǎn) - (**Lão bản**) - Ông chủ
+    * **黑板** (hēibǎn) - (**Hắc bản**) - Bảng đen
+    * **地板** (dìbǎn) - (**Địa bản**) - Sàn nhà
+    * **平板电脑** (píngbǎn diànnǎo) - (**Bình bản điện não**) - Máy tính bảng
+    * **死板** (sǐbǎn) - (**Tử bản**) - Cứng nhắc, không linh hoạt
+
+## 1205. 棒
+
+* **Pinyin:** bàng
+* **Hán Việt:** Bổng
+* **Nghĩa chính:** Cái gậy, giỏi/tuyệt (khẩu ngữ)
+* **Từ ghép thông dụng:**
+    * **很棒** (hěn bàng) - (**Ngận bổng**) - Rất giỏi, tuyệt vời
+    * **棒球** (bàngqiú) - (**Bổng cầu**) - Bóng chày
+    * **棒冰** (bàngbīng) - (**Bổng băng**) - Kem que
+    * **当头一棒** (dāngtóuyíbàng) - (**Đương đầu nhất bổng**) - Đòn cảnh cáo (đánh một gậy vào đầu)
+
+## 1206. 滑
+
+* **Pinyin:** huá
+* **Hán Việt:** Hoạt
+* **Nghĩa chính:** Trơn, trượt, lém lỉnh
+* **Từ ghép thông dụng:**
+    * **滑冰** (huábīng) - (**Hoạt băng**) - Trượt băng
+    * **光滑** (guānghuá) - (**Quang hoạt**) - Trơn bóng, nhẵn nhụi
+    * **滑稽** (huájī) - (**Hoạt kê**) - Hài hước, buồn cười
+    * **狡猾** (jiǎohuá) - (**Giảo hoạt**) - Gian xảo, láu cá
+    * **滑坡** (huápō) - (**Hoạt ba**) - Sạt lở đất
+
+## 1207. 距
+
+* **Pinyin:** jù
+* **Hán Việt:** Cự
+* **Nghĩa chính:** Khoảng cách, cách (xa)
+* **Từ ghép thông dụng:**
+    * **距离** (jùlí) - (**Cự ly**) - Khoảng cách
+    * **差距** (chājù) - (**Sai cự**) - Sự chênh lệch, khoảng cách (trình độ/thu nhập)
+    * **相距** (xiāngjù) - (**Tương cự**) - Cách nhau (bao xa)
+    * **规矩** (guīju) - (**Quy củ**) - Phép tắc, nề nếp (chữ 矩 cũng đọc là jǔ, nhưng trong từ ghép này đọc nhẹ hoặc ju)
+
+## 1208. 隔
+
+* **Pinyin:** gé
+* **Hán Việt:** Cách
+* **Nghĩa chính:** Ngăn cách, cách (thời gian/không gian)
+* **Từ ghép thông dụng:**
+    * **隔壁** (gébì) - (**Cách bích**) - Nhà bên cạnh (sát vách), hàng xóm
+    * **隔离** (gélí) - (**Cách ly**) - Cách ly, cô lập
+    * **间隔** (jiàngé) - (**Gian cách**) - Khoảng cách, giãn cách (thời gian/không gian)
+    * **隔阂** (géhé) - (**Cách hạch**) - Sự xa cách, rào cản (tình cảm/suy nghĩ)
+
+## 1209. 闭
+
+* **Pinyin:** bì
+* **Hán Việt:** Bế
+* **Nghĩa chính:** Đóng, khép
+* **Từ ghép thông dụng:**
+    * **关闭** (guānbì) - (**Quan bế**) - Đóng lại, tắt (máy)
+    * **闭嘴** (bìzuǐ) - (**Bế chủy**) - Im miệng
+    * **闭幕** (bìmù) - (**Bế mạc**) - Bế mạc
+    * **闭关** (bìguān) - (**Bế quan**) - Bế quan (nhốt mình lại để tu luyện/làm việc)
+    * **倒闭** (dǎobì) - (**Đảo bế**) - Phá sản, đóng cửa tiệm
+
+## 1210. 塞
+
+* **Pinyin:** sāi (hoặc sè)
+* **Hán Việt:** Tắc / Tái
+* **Nghĩa chính:** Nhét, nút, tắc nghẽn / Biên ải (sè)
+* **Từ ghép thông dụng:**
+    * **堵塞** (dǔsè) - (**Đổ tắc**) - Tắc nghẽn (*đọc là sè*)
+    * **塞车** (sāichē) - (**Tắc xa**) - Tắc đường, kẹt xe
+    * **瓶塞** (píngsāi) - (**Bình tắc**) - Nút chai
+    * **塞满** (sāimǎn) - (**Tắc mãn**) - Nhét đầy
+    * **要塞** (yàosài) - (**Yếu tái**) - Pháo đài, chốt hiểm yếu (*đọc là sài*)
+
+## 1211. 堆
+
+* **Pinyin:** duī
+* **Hán Việt:** Đôi
+* **Nghĩa chính:** Đống, chất đống, tích tụ
+* **Từ ghép thông dụng:**
+    * **一堆** (yì duī) - (**Nhất đôi**) - Một đống
+    * **堆积** (duījī) - (**Đôi tích**) - Tích tụ, chất đống
+    * **土堆** (tǔduī) - (**Thổ đôi**) - Đống đất, gò đất
+    * **扎堆** (zhāduī) - (**Trat đôi**) - Tụ tập đông người
+    * **堆满** (duīmǎn) - (**Đôi mãn**) - Chất đầy
+
+## 1212. 墙
+
+* **Pinyin:** qiáng
+* **Hán Việt:** Tường
+* **Nghĩa chính:** Bức tường
+* **Từ ghép thông dụng:**
+    * **墙壁** (qiángbì) - (**Tường bích**) - Vách tường
+    * **城墙** (chéngqiáng) - (**Thành tường**) - Tường thành
+    * **围墙** (wéiqiáng) - (**Vi tường**) - Tường bao
+    * **翻墙** (fān qiáng) - (**Phiên tường**) - Trèo tường (nghĩa bóng: vượt tường lửa Internet)
+    * **挖墙脚** (wā qiángjiǎo) - (**Oa tường cước**) - Nẫng tay trên, phá hoại ngầm
+
+## 1213. 壁
+
+* **Pinyin:** bì
+* **Hán Việt:** Bích
+* **Nghĩa chính:** Tường, vách
+* **Từ ghép thông dụng:**
+    * **隔壁** (gébì) - (**Cách bích**) - Nhà bên cạnh, hàng xóm
+    * **墙壁** (qiángbì) - (**Tường bích**) - Bức tường
+    * **壁画** (bìhuà) - (**Bích họa**) - Tranh vẽ trên tường
+    * **绝壁** (juébì) - (**Tuyệt bích**) - Vách núi dựng đứng
+    * **壁虎** (bìhǔ) - (**Bích hổ**) - Con thạch sùng
+
+## 1214. 砖
+
+* **Pinyin:** zhuān
+* **Hán Việt:** Chuyên
+* **Nghĩa chính:** Gạch
+* **Từ ghép thông dụng:**
+    * **砖头** (zhuāntou) - (**Chuyên đầu**) - Cục gạch
+    * **砖瓦** (zhuānwǎ) - (**Chuyên ngõa**) - Gạch ngói
+    * **金砖** (jīnzhuān) - (**Kim chuyên**) - Thỏi vàng, gạch vàng (khối BRICS)
+    * **抛砖引玉** (pāozhuānyǐnyù) - (**Phao chuyên dẫn ngọc**) - Ném gạch dụ ngọc (lời khiêm tốn: đưa ý kiến thô thiển để người khác đưa ý kiến hay hơn)
+
+## 1215. 塔
+
+* **Pinyin:** tǎ
+* **Hán Việt:** Tháp
+* **Nghĩa chính:** Cái tháp
+* **Từ ghép thông dụng:**
+    * **宝塔** (bǎotǎ) - (**Bảo tháp**) - Tháp báu
+    * **灯塔** (dēngtǎ) - (**Đăng tháp**) - Hải đăng
+    * **金字塔** (jīnzìtǎ) - (**Kim tự tháp**) - Kim tự tháp
+    * **铁塔** (tiětǎ) - (**Thiết tháp**) - Tháp sắt (như Eiffel)
+
+## 1216. 厦
+
+* **Pinyin:** shà
+* **Hán Việt:** Hạ
+* **Nghĩa chính:** Tòa nhà lớn
+* **Từ ghép thông dụng:**
+    * **大厦** (dàshà) - (**Đại hạ**) - Tòa cao ốc, tòa nhà lớn
+    * **商厦** (shāngshà) - (**Thương hạ**) - Trung tâm thương mại lớn
+    * **广厦** (guǎngshà) - (**Quảng hạ**) - Nhà rộng lớn
+
+## 1217. 柱
+
+* **Pinyin:** zhù
+* **Hán Việt:** Trụ
+* **Nghĩa chính:** Cái cột, trụ
+* **Từ ghép thông dụng:**
+    * **柱子** (zhùzi) - (**Trụ tử**) - Cái cột
+    * **支柱** (zhīzhù) - (**Chi trụ**) - Trụ cột, chỗ dựa
+    * **水柱** (shuǐzhù) - (**Thủy trụ**) - Cột nước
+    * **石柱** (shízhù) - (**Thạch trụ**) - Cột đá
+
+## 1218. 梁
+
+* **Pinyin:** liáng
+* **Hán Việt:** Lương
+* **Nghĩa chính:** Cái xà (nhà), cầu, họ Lương
+* **Từ ghép thông dụng:**
+    * **桥梁** (qiáoliáng) - (**Kiều lương**) - Cây cầu, cầu nối
+    * **鼻梁** (bíliáng) - (**Tỵ lương**) - Sống mũi
+    * **脊梁** (jǐliang) - (**Tích lương**) - Cột sống, xương sống
+    * **栋梁** (dòngliáng) - (**Đống lương**) - Rường cột (người tài gánh vác trọng trách)
+
+## 1219. 柜
+
+* **Pinyin:** guì
+* **Hán Việt:** Quỹ / Cự
+* **Nghĩa chính:** Cái tủ, quầy
+* **Từ ghép thông dụng:**
+    * **柜子** (guìzi) - (**Quỹ tử**) - Cái tủ
+    * **衣柜** (yīguì) - (**Y quỹ**) - Tủ quần áo
+    * **柜台** (guìtái) - (**Quỹ đài**) - Quầy (thu ngân/lễ tân)
+    * **掌柜** (zhǎngguì) - (**Chưởng quỹ**) - Chủ tiệm (từ cũ)
+    * **书柜** (shūguì) - (**Thư quỹ**) - Tủ sách
+
+## 1220. 毯
+
+* **Pinyin:** tǎn
+* **Hán Việt:** Thảm
+* **Nghĩa chính:** Cái thảm, chăn (lông)
+* **Từ ghép thông dụng:**
+    * **地毯** (dìtǎn) - (**Địa thảm**) - Thảm trải sàn
+    * **毛毯** (máotǎn) - (**Mao thảm**) - Chăn lông
+    * **电热毯** (diànrètǎn) - (**Điện nhiệt thảm**) - Chăn điện
+    * **红地毯** (hóngdìtǎn) - (**Hồng địa thảm**) - Thảm đỏ
+
+## 1221. 宣
+
+* **Pinyin:** xuān
+* **Hán Việt:** Tuyên
+* **Nghĩa chính:** Bố cáo, nói cho mọi người biết
+* **Từ ghép thông dụng:**
+    * **宣布** (xuānbù) - (**Tuyên bố**) - Tuyên bố
+    * **宣传** (xuānchuán) - (**Tuyên truyền**) - Tuyên truyền
+    * **宣扬** (xuānyáng) - (**Tuyên dương**) - Tuyên dương, rao giảng
+    * **宣誓** (xuānshì) - (**Tuyên thệ**) - Tuyên thệ
+    * **宣战** (xuānzhàn) - (**Tuyên chiến**) - Tuyên chiến
+
+## 1222. 扬
+
+* **Pinyin:** yáng
+* **Hán Việt:** Dương
+* **Nghĩa chính:** Giơ lên, khen ngợi, bay phấp phới
+* **Từ ghép thông dụng:**
+    * **表扬** (biǎoyáng) - (**Biểu dương**) - Biểu dương, khen ngợi
+    * **赞扬** (zànyáng) - (**Tán dương**) - Tán dương, ca ngợi
+    * **发扬** (fāyáng) - (**Phát dương**) - Phát huy (truyền thống)
+    * **飘扬** (piāoyáng) - (**Phiêu dương**) - Bay phấp phới (cờ)
+    * **扬眉吐气** (yángméitǔqì) - (**Dương mi thổ khí**) - Nở mày nở mặt
+
+## 1223. 肃
+
+* **Pinyin:** sù
+* **Hán Việt:** Túc
+* **Nghĩa chính:** Nghiêm nghị, cung kính
+* **Từ ghép thông dụng:**
+    * **严肃** (yánsù) - (**Nghiêm túc**) - Nghiêm túc, nghiêm nghị
+    * **肃静** (sùjìng) - (**Túc tĩnh**) - Im lặng, nghiêm trang
+    * **肃穆** (sùmù) - (**Túc mục**) - Trang nghiêm, kính cẩn
+    * **肃清** (sùqīng) - (**Túc thanh**) - Quét sạch, thanh trừng
+
+## 1224. 敬
+
+* **Pinyin:** jìng
+* **Hán Việt:** Kính
+* **Nghĩa chính:** Kính trọng, mời (rượu/thuốc)
+* **Từ ghép thông dụng:**
+    * **尊敬** (zūnjìng) - (**Tôn kính**) - Tôn kính
+    * **敬爱** (jìng'ài) - (**Kính ái**) - Kính yêu
+    * **敬酒** (jìng jiǔ) - (**Kính tửu**) - Mời rượu, chúc rượu
+    * **敬礼** (jìnglǐ) - (**Kính lễ**) - Chào (kiểu quân đội), hành lễ
+    * **失敬** (shījìng) - (**Thất kính**) - Thất kính (xin lỗi vì không nhận ra/không chu đáo)
+
+## 1225. 尊
+
+* **Pinyin:** zūn
+* **Hán Việt:** Tôn
+* **Nghĩa chính:** Tôn trọng, cao quý, (lượng từ cho tượng/pháo)
+* **Từ ghép thông dụng:**
+    * **尊重** (zūnzhòng) - (**Tôn trọng**) - Tôn trọng
+    * **尊严** (zūnyán) - (**Tôn nghiêm**) - Phẩm giá, tôn nghiêm
+    * **尊贵** (zūnguì) - (**Tôn quý**) - Cao quý, sang trọng
+    * **自尊** (zìzūn) - (**Tự tôn**) - Lòng tự trọng
+    * **一尊佛像** (yì zūn fóxiàng) - (**Nhất tôn phật tượng**) - Một pho tượng Phật
+
+## 1226. 拜
+
+* **Pinyin:** bài
+* **Hán Việt:** Bái
+* **Nghĩa chính:** Lạy, vái, thăm hỏi, chúc
+* **Từ ghép thông dụng:**
+    * **崇拜** (chóngbài) - (**Sùng bái**) - Sùng bái, hâm mộ
+    * **拜年** (bài nián) - (**Bái niên**) - Chúc Tết
+    * **拜访** (bàifǎng) - (**Bái phỏng**) - Đến thăm (trang trọng)
+    * **礼拜** (lǐbài) - (**Lễ bái**) - Tuần, lễ bái
+    * **拜托** (bàituō) - (**Bái thác**) - Nhờ vả, làm ơn
+
+## 1227. 访
+
+* **Pinyin:** fǎng
+* **Hán Việt:** Phỏng
+* **Nghĩa chính:** Thăm hỏi, điều tra
+* **Từ ghép thông dụng:**
+    * **访问** (fǎngwèn) - (**Phỏng vấn**) - Thăm viếng (chuyến thăm), truy cập (web)
+    * **采访** (cǎifǎng) - (**Thái phỏng**) - Phỏng vấn (báo chí)
+    * **拜访** (bàifǎng) - (**Bái phỏng**) - Thăm hỏi
+    * **家访** (jiāfǎng) - (**Gia phỏng**) - Đến thăm nhà (giáo viên đến nhà học sinh)
+
+## 1228. 恒
+
+* **Pinyin:** héng
+* **Hán Việt:** Hằng
+* **Nghĩa chính:** Lâu dài, mãi mãi
+* **Từ ghép thông dụng:**
+    * **永恒** (yǒnghéng) - (**Vĩnh hằng**) - Vĩnh hằng
+    * **恒心** (héngxīn) - (**Hằng tâm**) - Lòng kiên trì
+    * **恒温** (héngwēn) - (**Hằng ôn**) - Nhiệt độ không đổi
+    * **持之以恒** (chízhīyǐhéng) - (**Trì chi dĩ hằng**) - Kiên trì bền bỉ
+
+## 1229. 旦
+
+* **Pinyin:** dàn
+* **Hán Việt:** Đán
+* **Nghĩa chính:** Buổi sáng sớm, ngày mùng 1
+* **Từ ghép thông dụng:**
+    * **元旦** (Yuándàn) - (**Nguyên đán**) - Tết Dương lịch (mùng 1 tháng 1)
+    * **一旦** (yídàn) - (**Nhất đán**) - Một khi (đã...)
+    * **旦夕** (dànxī) - (**Đán tịch**) - Sớm tối (trong thời gian ngắn)
+
+## 1230. 述
+
+* **Pinyin:** shù
+* **Hán Việt:** Thuật
+* **Nghĩa chính:** Kể lại, bày tỏ
+* **Từ ghép thông dụng:**
+    * **描述** (miáoshù) - (**Miêu thuật**) - Miêu tả
+    * **叙述** (xùshù) - (**Tự thuật**) - Tự thuật, kể lại
+    * **上述** (shàngshù) - (**Thượng thuật**) - Kể trên, nói trên
+    * **综述** (zōngshù) - (**Tổng thuật**) - Tổng thuật, tóm lược
+    * **口述** (kǒushù) - (**Khẩu thuật**) - Kể miệng, nói miệng
+## 1231. 营
+
+* **Pinyin:** yíng
+* **Hán Việt:** Doanh
+* **Nghĩa chính:** Kinh doanh, doanh trại, trại
+* **Từ ghép thông dụng:**
+    * **经营** (jīngyíng) - (**Kinh doanh**) - Kinh doanh, quản lý
+    * **营业** (yíngyè) - (**Doanh nghiệp**) - Doanh nghiệp, mở cửa (làm ăn)
+    * **露营** (lùyíng) - (**Lộ doanh**) - Cắm trại ngoài trời
+    * **夏令营** (xiàlìngyíng) - (**Hạ lệnh doanh**) - Trại hè
+    * **军营** (jūnyíng) - (**Quân doanh**) - Doanh trại quân đội
+
+## 1232. 销
+
+* **Pinyin:** xiāo
+* **Hán Việt:** Tiêu
+* **Nghĩa chính:** Bán, tiêu thụ, hủy bỏ
+* **Từ ghép thông dụng:**
+    * **销售** (xiāoshòu) - (**Tiêu thụ**) - Bán hàng, doanh số
+    * **推销** (tuīxiāo) - (**Thôi tiêu**) - Tiếp thị, chào hàng
+    * **报销** (bàoxiāo) - (**Báo tiêu**) - Thanh toán công tác phí (claim tiền)
+    * **注销** (zhùxiāo) - (**Chú tiêu**) - Hủy bỏ, xóa bỏ (tài khoản/đăng ký)
+    * **畅销** (chàngxiāo) - (**Sướng tiêu**) - Bán chạy
+
+## 1233. 亏
+
+* **Pinyin:** kuī
+* **Hán Việt:** Khuy
+* **Nghĩa chính:** Lỗ (vốn), thiếu hụt, may mà
+* **Từ ghép thông dụng:**
+    * **亏本** (kuī běn) - (**Khuy bản**) - Lỗ vốn
+    * **吃亏** (chī kuī) - (**Ngật khuy**) - Chịu thiệt
+    * **幸亏** (xìngkuī) - (**Hạnh khuy**) - May mà, may nhờ có
+    * **亏损** (kuīsǔn) - (**Khuy tổn**) - Thua lỗ, thiệt hại
+    * **亏欠** (kuīqiàn) - (**Khuy khiếm**) - Nợ nần, cảm thấy có lỗi
+
+## 1234. 债
+
+* **Pinyin:** zhài
+* **Hán Việt:** Trái
+* **Nghĩa chính:** Nợ, khoản nợ
+* **Từ ghép thông dụng:**
+    * **欠债** (qiàn zhài) - (**Khiếm trái**) - Mắc nợ
+    * **还债** (huán zhài) - (**Hoàn trái**) - Trả nợ
+    * **债务** (zhàiwù) - (**Trái vụ**) - Khoản nợ, nghĩa vụ nợ
+    * **国债** (guózhài) - (**Quốc trái**) - Trái phiếu chính phủ
+    * **债主** (zhàizhǔ) - (**Trái chủ**) - Chủ nợ
+
+## 1235. 税
+
+* **Pinyin:** shuì
+* **Hán Việt:** Thuế
+* **Nghĩa chính:** Thuế
+* **Từ ghép thông dụng:**
+    * **交税** (jiāo shuì) - (**Giao thuế**) - Nộp thuế
+    * **免税** (miǎnshuì) - (**Miễn thuế**) - Miễn thuế
+    * **税务** (shuìwù) - (**Thuế vụ**) - Công việc thuế vụ
+    * **关税** (guānshuì) - (**Quan thuế**) - Thuế hải quan
+    * **税收** (shuìshōu) - (**Thuế thu**) - Thu nhập từ thuế, thu thuế
+
+## 1236. 贷
+
+* **Pinyin:** dài
+* **Hán Việt:** Thải / Đại
+* **Nghĩa chính:** Vay, cho vay
+* **Từ ghép thông dụng:**
+    * **贷款** (dàikuǎn) - (**Thải khoản**) - Khoản vay (ngân hàng), vay tiền
+    * **房贷** (fángdài) - (**Phòng thải**) - Vay tiền mua nhà
+    * **借贷** (jièdài) - (**Tá thải**) - Vay mượn
+    * **信贷** (xìndài) - (**Tín thải**) - Tín dụng
+
+## 1237. 刑
+
+* **Pinyin:** xíng
+* **Hán Việt:** Hình
+* **Nghĩa chính:** Hình phạt, án
+* **Từ ghép thông dụng:**
+    * **刑法** (xíngfǎ) - (**Hình pháp**) - Luật hình sự
+    * **判刑** (pàn xíng) - (**Phán hình**) - Kết án, tuyên án
+    * **死刑** (sǐxíng) - (**Tử hình**) - Tử hình
+    * **酷刑** (kùxíng) - (**Khốc hình**) - Tra tấn, cực hình
+    * **刑警** (xíngjǐng) - (**Hình cảnh**) - Cảnh sát hình sự
+
+## 1238. 捕
+
+* **Pinyin:** bǔ
+* **Hán Việt:** Bộ
+* **Nghĩa chính:** Bắt, tóm
+* **Từ ghép thông dụng:**
+    * **逮捕** (dàibǔ) - (**Đãi bộ**) - Bắt giữ (tội phạm)
+    * **捕捉** (bǔzhuō) - (**Bộ tróc**) - Bắt, nắm bắt (khoảnh khắc/tin tức)
+    * **抓捕** (zhuābǔ) - (**Trảo bộ**) - Truy bắt
+    * **捕鱼** (bǔ yú) - (**Bộ ngư**) - Đánh cá
+
+## 1239. 狱
+
+* **Pinyin:** yù
+* **Hán Việt:** Ngục
+* **Nghĩa chính:** Nhà tù, ngục, vụ án
+* **Từ ghép thông dụng:**
+    * **监狱** (jiānyù) - (**Giám ngục**) - Nhà tù
+    * **地狱** (dìyù) - (**Địa ngục**) - Địa ngục
+    * **越狱** (yuèyù) - (**Việt ngục**) - Vượt ngục
+    * **入狱** (rù yù) - (**Nhập ngục**) - Vào tù
+
+## 1240. 盗
+
+* **Pinyin:** dào
+* **Hán Việt:** Đạo
+* **Nghĩa chính:** Trộm cướp, kẻ trộm
+* **Từ ghép thông dụng:**
+    * **强盗** (qiángdào) - (**Cường đạo**) - Tên cướp
+    * **海盗** (hǎidào) - (**Hải đạo**) - Cướp biển
+    * **盗窃** (dàoqiè) - (**Đạo thiết**) - Trộm cắp
+    * **盗版** (dàobǎn) - (**Đạo bản**) - Bản lậu, vi phạm bản quyền (sách/phần mềm)
+    * **掩耳盗铃** (yǎn'ěrdàolíng) - (**Yểm nhĩ đạo linh**) - Bịt tai trộm chuông (tự lừa dối mình)
+## 1241. 窃
+
+* **Pinyin:** qiè
+* **Hán Việt:** Thiết
+* **Nghĩa chính:** Trộm cắp (lén lút), riêng tư
+* **Từ ghép thông dụng:**
+    * **盗窃** (dàoqiè) - (**Đạo thiết**) - Trộm cắp
+    * **窃听** (qiètīng) - (**Thiết thính**) - Nghe lén
+    * **行窃** (xíngqiè) - (**Hành thiết**) - Hành nghề trộm cắp
+    * **窃取** (qièqǔ) - (**Thiết thủ**) - Đánh cắp (thông tin/bí mật)
+    * **窃喜** (qièxǐ) - (**Thiết hỷ**) - Mừng thầm
+
+## 1242. 劫
+
+* **Pinyin:** jié
+* **Hán Việt:** Kiếp
+* **Nghĩa chính:** Cướp, kiếp nạn
+* **Từ ghép thông dụng:**
+    * **抢劫** (qiǎngjié) - (**Thảng kiếp**) - Cướp bóc
+    * **劫持** (jiéchí) - (**Kiếp trì**) - Bắt cóc, khống chế (con tin/máy bay)
+    * **浩劫** (hàojié) - (**Hạo kiếp**) - Tai họa lớn, kiếp nạn lớn
+    * **打劫** (dǎjié) - (**Đả kiếp**) - Đi ăn cướp (khẩu ngữ)
+    * **在劫难逃** (zàijiénántáo) - (**Tại kiếp nan đào**) - Chạy trời không khỏi nắng (kiếp nạn khó tránh)
+
+## 1243. 玻
+
+* **Pinyin:** bō
+* **Hán Việt:** Pha
+* **Nghĩa chính:** Thủy tinh (dùng trong từ ghép)
+* **Từ ghép thông dụng:**
+    * **玻璃** (bōli) - (**Pha ly**) - Thủy tinh, kính
+    * **玻璃杯** (bōlibēi) - (**Pha ly bôi**) - Cốc thủy tinh
+    * **玻片** (bōpiàn) - (**Pha phiến**) - Tấm kính (dùng trong kính hiển vi)
+
+## 1244. 璃
+
+* **Pinyin:** lí
+* **Hán Việt:** Ly
+* **Nghĩa chính:** Thủy tinh (dùng trong từ ghép)
+* **Từ ghép thông dụng:**
+    * **玻璃** (bōli) - (**Pha ly**) - Thủy tinh, kính
+    * **琉璃** (liúli) - (**Lưu ly**) - Ngọc lưu ly, men gốm
+    * **琉璃瓦** (liúliwǎ) - (**Lưu ly ngõa**) - Ngói lưu ly (ngói màu)
+
+## 1245. 垃
+
+* **Pinyin:** lā
+* **Hán Việt:** Lạp
+* **Nghĩa chính:** Rác (dùng trong từ ghép)
+* **Từ ghép thông dụng:**
+    * **垃圾** (lājī) - (**Lạp cơ**) - Rác thải
+    * **垃圾桶** (lājītǒng) - (**Lạp cơ thống**) - Thùng rác
+    * **垃圾食品** (lājī shípǐn) - (**Lạp cơ thực phẩm**) - Đồ ăn vặt không tốt cho sức khỏe (Junk food)
+
+## 1246. 圾
+
+* **Pinyin:** jī
+* **Hán Việt:** Cơ
+* **Nghĩa chính:** Rác (dùng trong từ ghép)
+* **Từ ghép thông dụng:**
+    * **垃圾** (lājī) - (**Lạp cơ**) - Rác
+    * **垃圾箱** (lājīxiāng) - (**Lạp cơ tương**) - Thùng rác (lớn/công cộng)
+    * **捡垃圾** (jiǎn lājī) - (**Kiểm lạp cơ**) - Nhặt rác
+
+## 1247. 桶
+
+* **Pinyin:** tǒng
+* **Hán Việt:** Thống / Dũng
+* **Nghĩa chính:** Cái thùng, ống
+* **Từ ghép thông dụng:**
+    * **水桶** (shuǐtǒng) - (**Thủy thống**) - Thùng nước
+    * **垃圾桶** (lājītǒng) - (**Lạp cơ thống**) - Thùng rác
+    * **马桶** (mǎtǒng) - (**Mã thống**) - Bồn cầu
+    * **油桶** (yóutǒng) - (**Du thống**) - Thùng dầu
+    * **一桶水** (yì tǒng shuǐ) - (**Nhất thống thủy**) - Một thùng nước
+
+## 1248. 库
+
+* **Pinyin:** kù
+* **Hán Việt:** Khố
+* **Nghĩa chính:** Kho, nhà kho
+* **Từ ghép thông dụng:**
+    * **仓库** (cāngkù) - (**Thương khố**) - Nhà kho
+    * **水库** (shuǐkù) - (**Thủy khố**) - Hồ chứa nước, đập thủy lợi
+    * **库存** (kùcún) - (**Khố tồn**) - Hàng tồn kho
+    * **车库** (chēkù) - (**Xa khố**) - Gara ô tô, nhà xe
+    * **资料库** (zīliàokù) - (**Tư liệu khố**) - Cơ sở dữ liệu (Database)
+
+## 1249. 仓
+
+* **Pinyin:** cāng
+* **Hán Việt:** Thương
+* **Nghĩa chính:** Kho, vựa
+* **Từ ghép thông dụng:**
+    * **仓库** (cāngkù) - (**Thương khố**) - Nhà kho
+    * **粮仓** (liángcāng) - (**Lương thương**) - Kho lương thực
+    * **仓促** (cāngcù) - (**Thương xúc**) - Vội vàng, gấp rút (không chuẩn bị kịp)
+    * **清仓** (qīngcāng) - (**Thanh thương**) - Xả kho, thanh lý hàng
+
+## 1250. 储
+
+* **Pinyin:** chǔ
+* **Hán Việt:** Trữ
+* **Nghĩa chính:** Cất giữ, tích trữ
+* **Từ ghép thông dụng:**
+    * **储蓄** (chǔxù) - (**Trữ súc**) - Tiết kiệm, để dành (tiền)
+    * **储存** (chǔcún) - (**Trữ tồn**) - Lưu trữ, cất giữ
+    * **储备** (chǔbèi) - (**Trữ bị**) - Dự trữ
+    * **储物柜** (chǔwùguì) - (**Trữ vật quỹ**) - Tủ đồ (gửi đồ)
+    * **存储卡** (cúnchǔkǎ) - (**Tồn trữ tạp**) - Thẻ nhớ (Memory card)
+
+## 1251. 积
+
+* **Pinyin:** jī
+* **Hán Việt:** Tích
+* **Nghĩa chính:** Tích tụ, chứa chất, nhân (phép toán)
+* **Từ ghép thông dụng:**
+    * **积极** (jījí) - (**Tích cực**) - Tích cực, hăng hái
+    * **积累** (jīlěi) - (**Tích lũy**) - Tích lũy
+    * **积木** (jīmù) - (**Tích mộc**) - Đồ chơi xếp hình (khối gỗ)
+    * **体积** (tǐjī) - (**Thể tích**) - Thể tích
+    * **积蓄** (jīxù) - (**Tích súc**) - Tiền tiết kiệm, tích cóp
+
+## 1252. 励
+
+* **Pinyin:** lì
+* **Hán Việt:** Lệ
+* **Nghĩa chính:** Khuyến khích, gắng sức
+* **Từ ghép thông dụng:**
+    * **鼓励** (gǔlì) - (**Cổ lệ**) - Cổ vũ, khích lệ
+    * **奖励** (jiǎnglì) - (**Tưởng lệ**) - Khen thưởng, phần thưởng
+    * **励志** (lìzhì) - (**Lệ chí**) - Truyền cảm hứng, ý chí phấn đấu
+    * **勉励** (miǎnlì) - (**Miễn lệ**) - Động viên, khuyến khích
+
+## 1253. 置
+
+* **Pinyin:** zhì
+* **Hán Việt:** Trí
+* **Nghĩa chính:** Để, đặt, sắp xếp, mua sắm
+* **Từ ghép thông dụng:**
+    * **位置** (wèizhì) - (**Vị trí**) - Vị trí
+    * **布置** (bùzhì) - (**Bố trí**) - Bố trí, sắp xếp (nhà cửa/nhiệm vụ)
+    * **设置** (shèzhì) - (**Thiết trí**) - Cài đặt (Setting), thiết lập
+    * **闲置** (xiánzhì) - (**Nhàn trí**) - Bỏ không, không dùng đến
+    * **处置** (chǔzhì) - (**Xử trí**) - Xử lý, trừng trị
+
+## 1254. 择
+
+* **Pinyin:** zé
+* **Hán Việt:** Trạch
+* **Nghĩa chính:** Chọn lựa
+* **Từ ghép thông dụng:**
+    * **选择** (xuǎnzé) - (**Tuyển trạch**) - Lựa chọn
+    * **择业** (zéyè) - (**Trạch nghiệp**) - Chọn nghề
+    * **择偶** (zé'ǒu) - (**Trạch ngẫu**) - Chọn bạn đời
+    * **抉择** (juézé) - (**Quyết trạch**) - Quyết định lựa chọn (khó khăn)
+
+## 1255. 扩
+
+* **Pinyin:** kuò
+* **Hán Việt:** Khuếch / Khoách
+* **Nghĩa chính:** Mở rộng
+* **Từ ghép thông dụng:**
+    * **扩大** (kuòdà) - (**Khuếch đại**) - Mở rộng (quy mô/phạm vi)
+    * **扩展** (kuòzhǎn) - (**Khuếch triển**) - Mở rộng, phát triển thêm
+    * **扩充** (kuòchōng) - (**Khuếch sung**) - Bổ sung cho rộng thêm (vốn từ/lực lượng)
+    * **扩音器** (kuòyīnqì) - (**Khuếch âm khí**) - Cái loa
+
+## 1256. 懒
+
+* **Pinyin:** lǎn
+* **Hán Việt:** Lãn
+* **Nghĩa chính:** Lười biếng
+* **Từ ghép thông dụng:**
+    * **懒惰** (lǎnduò) - (**Lãn đọa**) - Lười biếng
+    * **偷懒** (tōu lǎn) - (**Thâu lãn**) - Trốn việc, lười nhác
+    * **懒人** (lǎnrén) - (**Lãn nhân**) - Người lười
+    * **懒洋洋** (lǎnyāngyāng) - (**Lãn dương dương**) - Uể oải, lờ đờ
+    * **伸懒腰** (shēn lǎnyāo) - (**Thân lãn yêu**) - Vươn vai
+
+## 1257. 狼
+
+* **Pinyin:** láng
+* **Hán Việt:** Lang
+* **Nghĩa chính:** Con sói
+* **Từ ghép thông dụng:**
+    * **大灰狼** (dàhuīláng) - (**Đại khôi lang**) - Chó sói xám (trong truyện cổ tích)
+    * **色狼** (sèláng) - (**Sắc lang**) - Dê xồm, kẻ háo sắc
+    * **狼吞虎咽** (lángtūnhǔyàn) - (**Lang thôn hổ yết**) - Ăn ngấu nghiến (như sói nuốt hổ trôi)
+    * **白眼狼** (báiyǎnláng) - (**Bạch nhãn lang**) - Kẻ vô ơn, ăn cháo đá bát
+
+## 1258. 劳
+
+* **Pinyin:** láo
+* **Hán Việt:** Lao
+* **Nghĩa chính:** Lao động, vất vả, công lao
+* **Từ ghép thông dụng:**
+    * **劳动** (láodòng) - (**Lao động**) - Lao động
+    * **疲劳** (píláo) - (**Bì lao**) - Mệt mỏi
+    * **功劳** (gōngláo) - (**Công lao**) - Công lao
+    * **劳驾** (láojià) - (**Lao giá**) - Làm phiền (câu khách sáo khi nhờ vả)
+    * **勤劳** (qínláo) - (**Cần lao**) - Cần cù, chăm chỉ
+
+## 1259. 姥
+
+* **Pinyin:** lǎo
+* **Hán Việt:** Mỗ / Lão
+* **Nghĩa chính:** Bà (già)
+* **Từ ghép thông dụng:**
+    * **姥姥** (lǎolao) - (**Lão lão**) - Bà ngoại (khẩu ngữ phương Bắc)
+    * **刘姥姥** (Liú lǎolao) - (**Lưu lão lão**) - Bà Lưu (nhân vật trong Hồng Lâu Mộng, chỉ người nhà quê ra tỉnh)
+
+## 1260. 李
+
+* **Pinyin:** lǐ
+* **Hán Việt:** Lý
+* **Nghĩa chính:** Cây mận, họ Lý
+* **Từ ghép thông dụng:**
+    * **李子** (lǐzi) - (**Lý tử**) - Quả mận
+    * **行李** (xíngli) - (**Hành lý**) - Hành lý
+    * **桃李** (táolǐ) - (**Đào lý**) - Đào và mận (nghĩa bóng: học trò khắp nơi)
+    * **张三李四** (Zhāngsān Lǐsì) - (**Trương Tam Lý Tứ**) - Người nào đó, người bất kỳ
+
+## 1261. 扰
+
+* **Pinyin:** rǎo
+* **Hán Việt:** Nhiễu
+* **Nghĩa chính:** Quấy rầy, làm loạn
+* **Từ ghép thông dụng:**
+    * **打扰** (dǎrǎo) - (**Đả nhiễu**) - Làm phiền, quấy rầy
+    * **干扰** (gānrǎo) - (**Can nhiễu**) - Can thiệp, quấy nhiễu
+    * **扰乱** (rǎoluàn) - (**Nhiễu loạn**) - Làm rối loạn, phá rối
+    * **困扰** (kùnrǎo) - (**Khốn nhiễu**) - Vấn đề nan giải, làm đau đầu
+    * **骚扰** (sāorǎo) - (**Tao nhiễu**) - Quấy rối
+
+## 1262. 摔
+
+* **Pinyin:** shuāi
+* **Hán Việt:** Suất
+* **Nghĩa chính:** Ngã (té), ném mạnh, vỡ
+* **Từ ghép thông dụng:**
+    * **摔倒** (shuāidǎo) - (**Suất đảo**) - Té ngã
+    * **摔跤** (shuāijiāo) - (**Suất giao**) - Đấu vật, trượt chân
+    * **摔坏** (shuāihuài) - (**Suất hoại**) - Đánh rơi làm hỏng
+    * **摔打** (shuāida) - (**Suất đả**) - Va đập, tôi luyện (gian khổ)
+    * **摔门** (shuāi mén) - (**Suất môn**) - Sập cửa (mạnh)
+
+## 1263. 甩
+
+* **Pinyin:** shuǎi
+* **Hán Việt:** Súy
+* **Nghĩa chính:** Vung, ném, bỏ rơi (đá người yêu)
+* **Từ ghép thông dụng:**
+    * **甩掉** (shuǎidiào) - (**Súy điệu**) - Vứt bỏ, cắt đuôi
+    * **甩卖** (shuǎimài) - (**Súy mại**) - Bán đại hạ giá (bán tống bán tháo)
+    * **甩开** (shuǎikāi) - (**Súy khai**) - Vung ra, bỏ lại phía sau
+    * **甩手** (shuǎishǒu) - (**Súy thủ**) - Phủi tay (không chịu trách nhiệm)
+    * **被甩** (bèi shuǎi) - (**Bị súy**) - Bị đá (trong tình yêu)
+
+## 1264. 挡
+
+* **Pinyin:** dǎng
+* **Hán Việt:** Đáng / Đảng
+* **Nghĩa chính:** Chắn, che, ngăn cản
+* **Từ ghép thông dụng:**
+    * **挡住** (dǎngzhù) - (**Đáng trú**) - Chắn lại, che khuất
+    * **阻挡** (zǔdǎng) - (**Trở đáng**) - Ngăn cản
+    * **挡路** (dǎng lù) - (**Đáng lộ**) - Chắn đường, cản lối
+    * **挡风玻璃** (dǎngfēngbōli) - (**Đáng phong pha ly**) - Kính chắn gió (ô tô)
+    * **抵挡** (dǐdǎng) - (**Để đáng**) - Chống đỡ
+
+## 1265. 挨
+
+* **Pinyin:** āi (hoặc ái)
+* **Hán Việt:** Ai
+* **Nghĩa chính:** Kề bên (āi) / Chịu đựng, bị (ái)
+* **Từ ghép thông dụng:**
+    * **挨打** (ái dǎ) - (**Ai đả**) - Bị đánh (*đọc là ái*)
+    * **挨骂** (ái mà) - (**Ai mạ**) - Bị mắng (*đọc là ái*)
+    * **挨近** (āijìn) - (**Ai cận**) - Đến gần, kề cận (*đọc là āi*)
+    * **挨家挨户** (āijiā'āihù) - (**Ai gia ai hộ**) - Lần lượt từng nhà (*đọc là āi*)
+    * **挨饿** (ái'è) - (**Ai ngạ**) - Chịu đói (*đọc là ái*)
+
+## 1266. 昆
+
+* **Pinyin:** kūn
+* **Hán Việt:** Côn
+* **Nghĩa chính:** Côn trùng, anh trai, cùng nhau
+* **Từ ghép thông dụng:**
+    * **昆虫** (kūnchóng) - (**Côn trùng**) - Côn trùng
+    * **昆明** (Kūnmíng) - (**Côn Minh**) - Thành phố Côn Minh
+    * **昆曲** (kūnqǔ) - (**Côn khúc**) - Côn khúc (một loại kịch hát cổ)
+    * **昆仲** (kūnzhòng) - (**Côn trọng**) - Anh em (văn viết)
+
+## 1267. 蜜
+
+* **Pinyin:** mì
+* **Hán Việt:** Mật
+* **Nghĩa chính:** Mật ong, ngọt ngào
+* **Từ ghép thông dụng:**
+    * **蜂蜜** (fēngmì) - (**Phong mật**) - Mật ong
+    * **蜜蜂** (mìfēng) - (**Mật phong**) - Con ong mật
+    * **甜蜜** (tiánmì) - (**Điềm mật**) - Ngọt ngào, hạnh phúc
+    * **蜜月** (mìyuè) - (**Mật nguyệt**) - Tuần trăng mật
+    * **闺蜜** (guīmì) - (**Khuê mật**) - Bạn thân (nữ), bạn gái thân thiết
+
+## 1268. 蜂
+
+* **Pinyin:** fēng
+* **Hán Việt:** Phong
+* **Nghĩa chính:** Con ong
+* **Từ ghép thông dụng:**
+    * **蜜蜂** (mìfēng) - (**Mật phong**) - Con ong
+    * **蜂拥** (fēngyōng) - (**Phong ủng**) - Ùa tới, xúm lại (như ong vỡ tổ)
+    * **蜂窝** (fēngwō) - (**Phong oa**) - Tổ ong
+    * **马蜂** (mǎfēng) - (**Mã phong**) - Ong bắp cày
+
+## 1269. 肚
+
+* **Pinyin:** dù (hoặc dǔ)
+* **Hán Việt:** Đỗ
+* **Nghĩa chính:** Bụng (dù) / Bao tử động vật (dǔ)
+* **Từ ghép thông dụng:**
+    * **肚子** (dùzi) - (**Đỗ tử**) - Cái bụng
+    * **肚皮** (dùpí) - (**Đỗ bì**) - Da bụng
+    * **肚脐** (dùqí) - (**Đỗ tề**) - Rốn
+    * **牵肠挂肚** (qiānchángguàdù) - (**Khiên trường quải đỗ**) - Lo lắng khôn nguôi (nhớ nhung)
+    * **猪肚** (zhūdǔ) - (**Trư đỗ**) - Dạ dày lợn (*đọc là dǔ*)
+
+## 1270. 脖
+
+* **Pinyin:** bó
+* **Hán Việt:** Bột
+* **Nghĩa chính:** Cái cổ
+* **Từ ghép thông dụng:**
+    * **脖子** (bózi) - (**Bột tử**) - Cái cổ
+    * **围脖** (wéibó) - (**Vi bột**) - Khăn quàng cổ (loại ống/len)
+    * **缩脖子** (suō bózi) - (**Súc bột tử**) - Rụt cổ
+
+## 1271. 肝
+
+* **Pinyin:** gān
+* **Hán Việt:** Can
+* **Nghĩa chính:** Gan
+* **Từ ghép thông dụng:**
+    * **肝脏** (gānzàng) - (**Can tạng**) - Gan (bộ phận cơ thể)
+    * **肝炎** (gānyán) - (**Can viêm**) - Viêm gan
+    * **心肝** (xīngān) - (**Tâm can**) - Tâm can, cục cưng (con/người yêu)
+    * **肝胆** (gāndǎn) - (**Can đảm**) - Gan và mật, lòng dạ chân thành
+    * **猪肝** (zhūgān) - (**Trư can**) - Gan lợn
+
+## 1272. 肾
+
+* **Pinyin:** shèn
+* **Hán Việt:** Thận
+* **Nghĩa chính:** Thận (cật)
+* **Từ ghép thông dụng:**
+    * **肾脏** (shènzàng) - (**Thận tạng**) - Quả thận
+    * **肾虚** (shènxū) - (**Thận hư**) - Thận yếu
+    * **补肾** (bǔshèn) - (**Bổ thận**) - Bổ thận
+    * **肾炎** (shènyán) - (**Thận viêm**) - Viêm thận
+    * **卖肾** (mài shèn) - (**Mại thận**) - Bán thận (từ lóng: bán thận mua iPhone)
+
+## 1273. 肌
+
+* **Pinyin:** jī
+* **Hán Việt:** Cơ
+* **Nghĩa chính:** Thịt, cơ bắp
+* **Từ ghép thông dụng:**
+    * **肌肉** (jīròu) - (**Cơ nhục**) - Cơ bắp
+    * **肌肤** (jīfū) - (**Cơ phu**) - Da thịt, làn da
+    * **腹肌** (fùjī) - (**Phúc cơ**) - Cơ bụng
+    * **胸肌** (xiōngjī) - (**Hung cơ**) - Cơ ngực
+    * **心肌** (xīnjī) - (**Tâm cơ**) - Cơ tim
+
+## 1274. 脂
+
+* **Pinyin:** zhī
+* **Hán Việt:** Chi
+* **Nghĩa chính:** Mỡ
+* **Từ ghép thông dụng:**
+    * **脂肪** (zhīfáng) - (**Chi phương**) - Mỡ, chất béo
+    * **油脂** (yóuzhī) - (**Du chi**) - Dầu mỡ
+    * **脱脂** (tuōzhī) - (**Thoát chi**) - Tách béo (sữa tách béo)
+    * **胭脂** (yānzhi) - (**Yên chi**) - Phấn má hồng (thời xưa)
+    * **脂粉** (zhīfěn) - (**Chi phấn**) - Son phấn
+
+## 1275. 眉
+
+* **Pinyin:** méi
+* **Hán Việt:** Mi
+* **Nghĩa chính:** Lông mày
+* **Từ ghép thông dụng:**
+    * **眉毛** (méimao) - (**Mi mao**) - Lông mày
+    * **眉头** (méitóu) - (**Mi đầu**) - Đầu lông mày
+    * **眉笔** (méibǐ) - (**Mi bút**) - Bút kẻ lông mày
+    * **眉开眼笑** (méikāiyǎnxiào) - (**Mi khai nhãn tiếu**) - Mặt mày hớn hở
+    * **眉清目秀** (méiqīngmùxiù) - (**Mi thanh mục tú**) - Mày thanh mắt tú (xinh đẹp)
+
+## 1276. 额
+
+* **Pinyin:** é
+* **Hán Việt:** Ngạch
+* **Nghĩa chính:** Trán, hạn mức, số lượng
+* **Từ ghép thông dụng:**
+    * **额头** (étóu) - (**Ngạch đầu**) - Cái trán
+    * **名额** (míng'é) - (**Danh ngạch**) - Chỉ tiêu, suất (số lượng người được nhận)
+    * **金额** (jīn'é) - (**Kim ngạch**) - Số tiền
+    * **额外** (éwài) - (**Ngạch ngoại**) - Ngoài định mức, thêm vào (extra)
+    * **定额** (dìng'é) - (**Định ngạch**) - Định mức
+
+## 1277. 喷
+
+* **Pinyin:** pēn
+* **Hán Việt:** Phún
+* **Nghĩa chính:** Phun, xịt
+* **Từ ghép thông dụng:**
+    * **喷水** (pēn shuǐ) - (**Phún thủy**) - Phun nước
+    * **喷泉** (pēnquán) - (**Phún tuyền**) - Đài phun nước
+    * **喷嚏** (pēntì) - (**Phún đế**) - Hắt xì hơi (thường dùng: 打喷嚏)
+    * **喷射** (pēnshè) - (**Phún xạ**) - Phun ra, phóng ra (tia)
+    * **香喷喷** (xiāngpēnpēn) - (**Hương phún phún**) - Thơm phức
+
+## 1278. 吐
+
+* **Pinyin:** tǔ (hoặc tù)
+* **Hán Việt:** Thổ
+* **Nghĩa chính:** Nhổ ra (tǔ), nôn mửa (tù)
+* **Từ ghép thông dụng:**
+    * **吐痰** (tǔ tán) - (**Thổ đàm**) - Khạc nhổ đờm (*đọc là tǔ*)
+    * **吞吐** (tūntǔ) - (**Thôn thổ**) - Ấp úng, ngập ngừng (*đọc là tǔ*)
+    * **呕吐** (ǒutù) - (**Âu thổ**) - Nôn mửa (*đọc là tù*)
+    * **吐血** (tù xiě) - (**Thổ huyết**) - Thổ huyết (tức hộc máu) (*đọc là tù*)
+    * **吐槽** (tùcáo) - (**Thổ tào**) - Than phiền, "ném đá", chê bai (từ lóng mạng)
+
+## 1279. 泉
+
+* **Pinyin:** quán
+* **Hán Việt:** Tuyền
+* **Nghĩa chính:** Suối, nguồn
+* **Từ ghép thông dụng:**
+    * **温泉** (wēnquán) - (**Ôn tuyền**) - Suối nước nóng
+    * **矿泉水** (kuàngquánshuǐ) - (**Khoáng tuyền thủy**) - Nước khoáng
+    * **泉水** (quánshuǐ) - (**Tuyền thủy**) - Nước suối
+    * **源泉** (yuánquán) - (**Nguyên tuyền**) - Nguồn, cội nguồn (sức mạnh/cảm hứng)
+    * **黄泉** (huángquán) - (**Hoàng tuyền**) - Suối vàng (âm phủ)
+
+## 1280. 池
+
+* **Pinyin:** chí
+* **Hán Việt:** Trì
+* **Nghĩa chính:** Ao, hồ, bể
+* **Từ ghép thông dụng:**
+    * **电池** (diànchí) - (**Điện trì**) - Pin
+    * **游泳池** (yóuyǒngchí) - (**Du vịnh trì**) - Bể bơi
+    * **水池** (shuǐchí) - (**Thủy trì**) - Hồ nước, bể nước
+    * **池塘** (chítáng) - (**Trì đường**) - Cái ao
+    * **城池** (chéngchí) - (**Thành trì**) - Thành trì (thành và hào nước bao quanh)
+
+## 1281. 洞
+
+* **Pinyin:** dòng
+* **Hán Việt:** Động
+* **Nghĩa chính:** Cái hang, cái lỗ
+* **Từ ghép thông dụng:**
+    * **山洞** (shāndòng) - (**Sơn động**) - Hang núi
+    * **漏洞** (lòudòng) - (**Lậu động**) - Lỗ hổng (nghĩa đen/bóng), sơ hở
+    * **洞穴** (dòngxué) - (**Động huyệt**) - Hang động
+    * **空洞** (kōngdòng) - (**Không động**) - Trống rỗng, sáo rỗng (lời nói)
+    * **别有洞天** (biéyǒudòngtiān) - (**Biệt hữu động thiên**) - Cảnh sắc tuyệt đẹp (lạ lẫm)
+
+## 1282. 沟
+
+* **Pinyin:** gōu
+* **Hán Việt:** Câu
+* **Nghĩa chính:** Mương, rãnh, khe
+* **Từ ghép thông dụng:**
+    * **沟通** (gōutōng) - (**Câu thông**) - Giao tiếp, trao đổi (khơi thông rãnh nước)
+    * **代沟** (dàigōu) - (**Đại câu**) - Khoảng cách thế hệ (generation gap)
+    * **水沟** (shuǐgōu) - (**Thủy câu**) - Cống, rãnh nước
+    * **山沟** (shāngōu) - (**Sơn câu**) - Khe núi, hẻm núi
+    * **鸿沟** (hónggōu) - (**Hồng câu**) - Ngăn cách lớn, hố sâu ngăn cách
+
+## 1283. 潮
+
+* **Pinyin:** cháo
+* **Hán Việt:** Triều
+* **Nghĩa chính:** Thủy triều, ẩm ướt, trào lưu ("mốt")
+* **Từ ghép thông dụng:**
+    * **潮湿** (cháoshī) - (**Triều thấp**) - Ẩm ướt
+    * **高潮** (gāocháo) - (**Cao triều**) - Cao trào
+    * **潮流** (cháoliú) - (**Triều lưu**) - Trào lưu, xu hướng
+    * **潮水** (cháoshuǐ) - (**Triều thủy**) - Nước triều
+    * **新潮** (xīncháo) - (**Tân triều**) - Mới mẻ, hợp thời trang
+
+## 1284. 染
+
+* **Pinyin:** rǎn
+* **Hán Việt:** Nhiễm
+* **Nghĩa chính:** Nhuộm, lây nhiễm, ô nhiễm
+* **Từ ghép thông dụng:**
+    * **污染** (wūrǎn) - (**Ô nhiễm**) - Ô nhiễm
+    * **传染** (chuánrǎn) - (**Truyền nhiễm**) - Lây truyền, truyền nhiễm
+    * **染发** (rǎnfà) - (**Nhiễm phát**) - Nhuộm tóc
+    * **感染** (gǎnrǎn) - (**Cảm nhiễm**) - Nhiễm trùng, lây nhiễm
+    * **一尘不染** (yìchénbùrǎn) - (**Nhất trần bất nhiễm**) - Không dính một hạt bụi (sạch sẽ/trong sạch)
+
+## 1285. 污
+
+* **Pinyin:** wū
+* **Hán Việt:** Ô
+* **Nghĩa chính:** Bẩn, nhơ bẩn
+* **Từ ghép thông dụng:**
+    * **污染** (wūrǎn) - (**Ô nhiễm**) - Ô nhiễm
+    * **污点** (wūdiǎn) - (**Ô điểm**) - Vết nhơ, điểm ố
+    * **贪污** (tānwū) - (**Tham ô**) - Tham ô, tham nhũng
+    * **污泥** (wūní) - (**Ô nê**) - Bùn bẩn
+    * **污辱** (wūrǔ) - (**Ô nhục**) - Sỉ nhục, làm nhục
+
+## 1286. 废
+
+* **Pinyin:** fèi
+* **Hán Việt:** Phế
+* **Nghĩa chính:** Bỏ đi, tàn phế, vô dụng
+* **Từ ghép thông dụng:**
+    * **浪费** (làngfèi) - (**Lãng phí**) - Lãng phí
+    * **废话** (fèihuà) - (**Phế thoại**) - Lời thừa, nói nhảm
+    * **废物** (fèiwù) - (**Phế vật**) - Đồ bỏ đi, kẻ vô dụng
+    * **作废** (zuòfèi) - (**Tác phế**) - Hủy bỏ, không còn giá trị
+    * **半途而废** (bàntú'érfèi) - (**Bán đồ nhi phế**) - Bỏ cuộc giữa chừng
+
+## 1287. 嫩
+
+* **Pinyin:** nèn
+* **Hán Việt:** Nộn
+* **Nghĩa chính:** Non, mềm, nhạt (màu)
+* **Từ ghép thông dụng:**
+    * **鲜嫩** (xiānnèn) - (**Tiên nộn**) - Tươi non
+    * **嫩绿** (nènlǜ) - (**Nộn lục**) - Xanh non
+    * **稚嫩** (zhìnèn) - (**Trĩ nộn**) - Non nớt, ngây thơ
+    * **装嫩** (zhuāngnèn) - (**Trang nộn**) - Cưa sừng làm nghé (tỏ ra trẻ trung)
+    * **肉很嫩** (ròu hěn nèn) - (**Nhục ngận nộn**) - Thịt rất mềm
+
+## 1288. 脆
+
+* **Pinyin:** cuì
+* **Hán Việt:** Thúy
+* **Nghĩa chính:** Giòn, dễ vỡ, lanh lảnh
+* **Từ ghép thông dụng:**
+    * **脆弱** (cuìruò) - (**Thúy nhược**) - Yếu ớt, mong manh (tâm hồn/sức khỏe)
+    * **干脆** (gāncuì) - (**Can thúy**) - Dứt khoát, thẳng thắn (hoặc: hay là... đi)
+    * **清脆** (qīngcuì) - (**Thanh thúy**) - Trong trẻo (âm thanh)
+    * **酥脆** (sūcuì) - (**Tô thúy**) - Giòn tan (bánh)
+
+## 1289. 壮
+
+* **Pinyin:** zhuàng
+* **Hán Việt:** Tráng
+* **Nghĩa chính:** Mạnh, khỏe, to lớn
+* **Từ ghép thông dụng:**
+    * **强壮** (qiángzhuàng) - (**Cường tráng**) - Cường tráng, khỏe mạnh
+    * **壮观** (zhuàngguān) - (**Tráng quan**) - Tráng lệ, hùng vĩ (cảnh tượng)
+    * **壮丽** (zhuànglì) - (**Tráng lệ**) - Tráng lệ
+    * **壮胆** (zhuàngdǎn) - (**Tráng đảm**) - Lấy can đảm
+    * **健壮** (jiànzhuàng) - (**Kiện tráng**) - Khỏe mạnh
+
+## 1290. 豪
+
+* **Pinyin:** háo
+* **Hán Việt:** Hào
+* **Nghĩa chính:** Tài giỏi, phóng khoáng, (lông dài)
+* **Từ ghép thông dụng:**
+    * **自豪** (zìháo) - (**Tự hào**) - Tự hào
+    * **豪华** (háohuá) - (**Hào hoa**) - Sang trọng, xa hoa
+    * **土豪** (tǔháo) - (**Thổ hào**) - Trọc phú, đại gia (lắm tiền nhưng quê mùa)
+    * **豪爽** (háoshuǎng) - (**Hào sảng**) - Hào sảng, thẳng thắn
+    * **英雄豪杰** (yīngxióngháojié) - (**Anh hùng hào kiệt**) - Anh hùng hào kiệt
+
+## 1291. 托
+
+* **Pinyin:** tuō
+* **Hán Việt:** Thác
+* **Nghĩa chính:** Nhờ, ủy thác, nâng/đỡ (bằng lòng bàn tay)
+* **Từ ghép thông dụng:**
+    * **拜托** (bàituō) - (**Bái thác**) - Nhờ vả, làm ơn
+    * **托运** (tuōyùn) - (**Thác vận**) - Gửi hành lý (ký gửi)
+    * **寄托** (jìtuō) - (**Ký thác**) - Gửi gắm (tình cảm/hy vọng)
+    * **衬托** (chèntuō) - (**Sấn thác**) - Làm nền, tôn lên
+    * **托盘** (tuōpán) - (**Thác bàn**) - Cái khay
+
+## 1292. 拖
+
+* **Pinyin:** tuō
+* **Hán Việt:** Tha
+* **Nghĩa chính:** Kéo, lôi, lau (nhà), trì hoãn
+* **Từ ghép thông dụng:**
+    * **拖延** (tuōyán) - (**Tha diên**) - Trì hoãn, kéo dài
+    * **拖鞋** (tuōxié) - (**Tha hài**) - Dép lê
+    * **拖地** (tuō dì) - (**Tha địa**) - Lau nhà
+    * **拖累** (tuōlěi) - (**Tha lụy**) - Làm liên lụy, gánh nặng
+    * **拖拉** (tuōlā) - (**Tha lạp**) - Lề mề, chậm chạp
+
+## 1293. 赖
+
+* **Pinyin:** lài
+* **Hán Việt:** Lại
+* **Nghĩa chính:** Dựa vào, ỷ lại, ăn vạ, chối (nợ)
+* **Từ ghép thông dụng:**
+    * **依赖** (yīlài) - (**Y lại**) - Phụ thuộc, ỷ lại
+    * **赖皮** (làipí) - (**Lại bì**) - Ăn vạ, lì lợm (vô lại)
+    * **信赖** (xìnlài) - (**Tín lại**) - Tin cậy
+    * **耍赖** (shuǎlài) - (**Xoa lại**) - Giở trò ăn vạ, chối bỏ
+    * **赖床** (lài chuáng) - (**Lại sàng**) - Ngủ nướng (nằm lì trên giường)
+
+## 1294. 凭
+
+* **Pinyin:** píng
+* **Hán Việt:** Bằng
+* **Nghĩa chính:** Dựa vào, căn cứ vào, bằng chứng
+* **Từ ghép thông dụng:**
+    * **凭据** (píngjù) - (**Bằng cứ**) - Bằng chứng, chứng cứ
+    * **凭借** (píngjiè) - (**Bằng tá**) - Nhờ vào, dựa vào
+    * **文凭** (wénpíng) - (**Văn bằng**) - Bằng cấp
+    * **任凭** (rènpíng) - (**Nhiệm bằng**) - Mặc cho, tùy ý
+    * **空口无凭** (kōngkǒuwúpíng) - (**Không khẩu vô bằng**) - Nói miệng không có bằng chứng
+
+## 1295. 赏
+
+* **Pinyin:** shǎng
+* **Hán Việt:** Thưởng
+* **Nghĩa chính:** Ban thưởng, ngắm (thưởng thức)
+* **Từ ghép thông dụng:**
+    * **欣赏** (xīnshǎng) - (**Hân thưởng**) - Thưởng thức, đánh giá cao (tài năng)
+    * **奖赏** (jiǎngshǎng) - (**Tưởng thưởng**) - Khen thưởng
+    * **观赏** (guānshǎng) - (**Quan thưởng**) - Ngắm nhìn, thưởng ngoạn
+    * **赏罚** (shǎngfá) - (**Thưởng phạt**) - Thưởng và phạt
+    * **鉴赏** (jiànshǎng) - (**Giám thưởng**) - Thẩm định và thưởng thức (nghệ thuật)
+
+## 1296. 朗
+
+* **Pinyin:** lǎng
+* **Hán Việt:** Lãng
+* **Nghĩa chính:** Sáng sủa, to (tiếng)
+* **Từ ghép thông dụng:**
+    * **开朗** (kāilǎng) - (**Khai lãng**) - Cởi mở, hoạt bát (tính cách)
+    * **朗读** (lǎngdú) - (**Lãng độc**) - Đọc to (thành tiếng)
+    * **晴朗** (qínglǎng) - (**Tình lãng**) - Quang đãng, đẹp trời
+    * **朗诵** (lǎngsòng) - (**Lãng tụng**) - Ngâm thơ, đọc diễn cảm
+    * **硬朗** (yìnglǎng) - (**Ngạnh lãng**) - Khỏe mạnh, rắn rỏi (người già)
+
+## 1297. 诵
+
+* **Pinyin:** sòng
+* **Hán Việt:** Tụng
+* **Nghĩa chính:** Đọc thuộc lòng, ngâm (thơ)
+* **Từ ghép thông dụng:**
+    * **背诵** (bèisòng) - (**Bối tụng**) - Học thuộc lòng
+    * **朗诵** (lǎngsòng) - (**Lãng tụng**) - Ngâm, đọc diễn cảm
+    * **传诵** (chuánsòng) - (**Truyền tụng**) - Truyền tụng (khen ngợi lan truyền)
+
+## 1298. 抄
+
+* **Pinyin:** chāo
+* **Hán Việt:** Sao
+* **Nghĩa chính:** Chép, copy, tịch thu, đi đường tắt
+* **Từ ghép thông dụng:**
+    * **抄写** (chāoxiě) - (**Sao tả**) - Sao chép, chép lại
+    * **抄袭** (chāoxí) - (**Sao tập**) - Đạo văn, copy bài
+    * **查抄** (cháchāo) - (**Tra sao**) - Tịch thu tài sản (khám nhà)
+    * **抄近路** (chāo jìnlù) - (**Sao cận lộ**) - Đi đường tắt
+
+## 1299. 袭
+
+* **Pinyin:** xí
+* **Hán Việt:** Tập
+* **Nghĩa chính:** Đánh lén, tập kích, kế thừa
+* **Từ ghép thông dụng:**
+    * **袭击** (xíjī) - (**Tập kích**) - Tấn công bất ngờ
+    * **抄袭** (chāoxí) - (**Sao tập**) - Đạo văn, sao chép y nguyên
+    * **世袭** (shìxí) - (**Thế tập**) - Cha truyền con nối (tước vị)
+    * **偷袭** (tōuxí) - (**Thâu tập**) - Đánh lén
+
+## 1300. 趁
+
+* **Pinyin:** chèn
+* **Hán Việt:** Thấn
+* **Nghĩa chính:** Nhân lúc, tranh thủ
+* **Từ ghép thông dụng:**
+    * **趁机** (chènjī) - (**Thấn cơ**) - Nhân cơ hội
+    * **趁早** (chènzǎo) - (**Thấn tảo**) - Tranh thủ lúc còn sớm
+    * **趁热** (chèn rè) - (**Thấn nhiệt**) - Tranh thủ lúc còn nóng (ăn/uống)
+    * **趁火打劫** (chènhuǒdǎjié) - (**Thấn hỏa đả kiếp**) - Thừa nước đục thả câu (nhân lúc cháy nhà đi hôi của)
+
+## 1301. 赶
+
+* **Pinyin:** gǎn
+* **Hán Việt:** Cảm / Cản
+* **Nghĩa chính:** Đuổi theo, vội vàng, đánh xe
+* **Từ ghép thông dụng:**
+    * **赶快** (gǎnkuài) - (**Cản khoái**) - Mau lên, khẩn trương
+    * **赶上** (gǎnshàng) - (**Cản thượng**) - Đuổi kịp, kịp
+    * **赶走** (gǎnzǒu) - (**Cản tẩu**) - Đuổi đi
+    * **赶路** (gǎn lù) - (**Cản lộ**) - Gấp rút đi đường
+    * **赶时髦** (gǎn shímáo) - (**Cản thời mao**) - Chạy theo mốt
+
+## 1302. 逼
+
+* **Pinyin:** bī
+* **Hán Việt:** Bức
+* **Nghĩa chính:** Ép buộc, sát gần
+* **Từ ghép thông dụng:**
+    * **逼迫** (bīpò) - (**Bức bách**) - Ép buộc
+    * **逼真** (bīzhēn) - (**Bức chân**) - Sống động, y như thật
+    * **逼近** (bījìn) - (**Bức cận**) - Đến gần, sát nút
+    * **傻逼** (shǎbī) - (**Sỏa bức**) - Đồ ngu (từ chửi thề rất phổ biến)
+    * **牛逼** (niúbī) - (**Ngưu bức**) - Cực siêu, "ngầu" (từ lóng khen ngợi)
+
+## 1303. 迫
+
+* **Pinyin:** pò
+* **Hán Việt:** Bách
+* **Nghĩa chính:** Gấp, ép
+* **Từ ghép thông dụng:**
+    * **被迫** (bèipò) - (**Bị bách**) - Bị ép buộc
+    * **迫切** (pòqiè) - (**Bách thiết**) - Bức thiết, cấp bách
+    * **紧迫** (jǐnpò) - (**Khẩn bách**) - Khẩn cấp
+    * **迫不及待** (pòbùjídài) - (**Bách bất cập đãi**) - Vội vã, không thể chờ đợi thêm
+
+## 1304. 促
+
+* **Pinyin:** cù
+* **Hán Việt:** Xúc
+* **Nghĩa chính:** Thúc đẩy, gấp
+* **Từ ghép thông dụng:**
+    * **促进** (cùjìn) - (**Xúc tiến**) - Thúc đẩy, xúc tiến
+    * **促销** (cùxiāo) - (**Xúc tiêu**) - Khuyến mãi (thúc đẩy tiêu thụ)
+    * **督促** (dūcù) - (**Đốc xúc**) - Đốc thúc, nhắc nhở
+    * **急促** (jícù) - (**Cấp xúc**) - Dồn dập, gấp gáp (tiếng thở/bước chân)
+
+## 1305. 催
+
+* **Pinyin:** cuī
+* **Hán Việt:** Thôi
+* **Nghĩa chính:** Giục, thúc
+* **Từ ghép thông dụng:**
+    * **催促** (cuīcù) - (**Thôi xúc**) - Hối thúc, giục giã
+    * **催眠** (cuīmián) - (**Thôi miên**) - Thôi miên, gây buồn ngủ
+    * **催泪** (cuīlèi) - (**Thôi lệ**) - Gây khóc (cảm động/hơi cay)
+    * **催命** (cuīmìng) - (**Thôi mệnh**) - Đòi mạng (giục liên tục gây khó chịu)
+
+## 1306. 拦
+
+* **Pinyin:** lán
+* **Hán Việt:** Lan
+* **Nghĩa chính:** Chặn, ngăn cản
+* **Từ ghép thông dụng:**
+    * **拦截** (lánjié) - (**Lan tiệt**) - Chặn đứng, đánh chặn
+    * **阻拦** (zǔlán) - (**Trở lan**) - Ngăn cản, cản trở
+    * **拦住** (lánzhù) - (**Lan trú**) - Chặn lại
+    * **拦路虎** (lánlùhǔ) - (**Lan lộ hổ**) - Chướng ngại vật lớn (hổ chắn đường)
+
+## 1307. 遮
+
+* **Pinyin:** zhē
+* **Hán Việt:** Già
+* **Nghĩa chính:** Che, đậy
+* **Từ ghép thông dụng:**
+    * **遮挡** (zhēdǎng) - (**Già đáng**) - Che chắn
+    * **遮掩** (zhēyǎn) - (**Già yểm**) - Che đậy, giấu giếm
+    * **遮阳** (zhēyáng) - (**Già dương**) - Che nắng
+    * **遮遮掩掩** (zhēzhēyǎnyǎn) - (**Già già yểm yểm**) - Ấp a ấp úng, giấu giếm
+
+## 1308. 掩
+
+* **Pinyin:** yǎn
+* **Hán Việt:** Yểm
+* **Nghĩa chính:** Che, lấp, đóng (cửa khép hờ)
+* **Từ ghép thông dụng:**
+    * **掩盖** (yǎngài) - (**Yểm cái**) - Che đậy, lấp liếm (sự thật/lỗi lầm)
+    * **掩护** (yǎnhù) - (**Yểm hộ**) - Yểm trợ, che chở
+    * **掩饰** (yǎnshì) - (**Yểm sức**) - Che giấu (cảm xúc/khuyết điểm)
+    * **掩耳盗铃** (yǎn'ěrdàolíng) - (**Yểm nhĩ đạo linh**) - Bịt tai trộm chuông (tự lừa mình)
+
+## 1309. 揭
+
+* **Pinyin:** jiē
+* **Hán Việt:** Yết / Khết
+* **Nghĩa chính:** Bóc, lột, vạch trần, giở (trang sách)
+* **Từ ghép thông dụng:**
+    * **揭开** (jiēkāi) - (**Yết khai**) - Mở ra, vén màn (bí mật)
+    * **揭露** (jiēlù) - (**Yết lộ**) - Vạch trần, phơi bày
+    * **揭发** (jiēfā) - (**Yết phát**) - Tố giác
+    * **揭晓** (jiēxiǎo) - (**Yết hiểu**) - Công bố (kết quả)
+
+## 1310. 填
+
+* **Pinyin:** tián
+* **Hán Việt:** Điền
+* **Nghĩa chính:** Lấp đầy, viết vào
+* **Từ ghép thông dụng:**
+    * **填空** (tiánkòng) - (**Điền không**) - Điền vào chỗ trống
+    * **填写** (tiánxiě) - (**Điền tả**) - Điền viết
+    * **填表** (tián biǎo) - (**Điền biểu**) - Điền bảng biểu
+    * **填补** (tiánbǔ) - (**Điền bổ**) - Bù đắp, lấp đầy (chỗ trống/thiếu hụt)
+
+## 1311. 孔
+
+* **Pinyin:** kǒng
+* **Hán Việt:** Khổng
+* **Nghĩa chính:** Cái lỗ, hang, họ Khổng
+* **Từ ghép thông dụng:**
+    * **孔子** (Kǒngzǐ) - (**Khổng Tử**) - Khổng Tử
+    * **面孔** (miànkǒng) - (**Diện khổng**) - Khuôn mặt, diện mạo
+    * **毛孔** (máokǒng) - (**Mao khổng**) - Lỗ chân lông
+    * **鼻孔** (bíkǒng) - (**Tỵ khổng**) - Lỗ mũi
+    * **钻孔** (zuān kǒng) - (**Toàn khổng**) - Khoan lỗ
+
+## 1312. 裂
+
+* **Pinyin:** liè
+* **Hán Việt:** Liệt
+* **Nghĩa chính:** Nứt, rách, tách ra
+* **Từ ghép thông dụng:**
+    * **分裂** (fēnliè) - (**Phân liệt**) - Chia cắt, phân liệt
+    * **破裂** (pòliè) - (**Phá liệt**) - Tan vỡ (quan hệ/đồ vật)
+    * **裂缝** (lièfèng) - (**Liệt phùng**) - Khe nứt, vết nứt
+    * **四分五裂** (sìfēnwǔliè) - (**Tứ phân ngũ liệt**) - Tan tác, chia năm xẻ bảy
+    * **决裂** (juéliè) - (**Quyết liệt**) - Cắt đứt quan hệ (tuyệt giao)
+
+## 1313. 缝
+
+* **Pinyin:** féng (hoặc fèng)
+* **Hán Việt:** Phùng
+* **Nghĩa chính:** May vá (féng) / Khe hở, đường chỉ (fèng)
+* **Từ ghép thông dụng:**
+    * **缝补** (féngbǔ) - (**Phùng bổ**) - Khâu vá (*đọc là féng*)
+    * **缝隙** (fèngxì) - (**Phùng khích**) - Khe hở (*đọc là fèng*)
+    * **裂缝** (lièfèng) - (**Liệt phùng**) - Vết nứt (*đọc là fèng*)
+    * **见缝插针** (jiànfèngchāzhēn) - (**Kiến phùng sáp châm**) - Thấy khe hở là cắm kim vào (tận dụng mọi thời cơ)
+    * **门缝** (ménfèng) - (**Môn phùng**) - Khe cửa
+
+## 1314. 扎
+
+* **Pinyin:** zhā (hoặc zhá, zā)
+* **Hán Việt:** Trát
+* **Nghĩa chính:** Đâm, chích (zhā) / Buộc, bó (zā) / Giãy (zhá)
+* **Từ ghép thông dụng:**
+    * **扎实** (zhāshi) - (**Trát thực**) - Chắc chắn, vững chắc (kiến thức/nền tảng)
+    * **挣扎** (zhēngzhá) - (**Tranh trát**) - Giãy giụa (*đọc là zhá*)
+    * **包扎** (bāozā) - (**Bao trát**) - Băng bó (vết thương) (*đọc là zā*)
+    * **扎针** (zhā zhēn) - (**Trát châm**) - Châm kim, tiêm
+    * **驻扎** (zhùzhā) - (**Trú trát**) - Đóng quân
+
+## 1315. 乏
+
+* **Pinyin:** fá
+* **Hán Việt:** Phạ / Phạt
+* **Nghĩa chính:** Thiếu, mệt
+* **Từ ghép thông dụng:**
+    * **缺乏** (quēfá) - (**Khuyết phạ**) - Thiếu hụt
+    * **乏味** (fáwèi) - (**Phạ vị**) - Nhạt nhẽo, vô vị
+    * **疲乏** (pífá) - (**Bì phạ**) - Mệt mỏi, kiệt sức
+    * **贫乏** (pínfá) - (**Bần phạ**) - Nghèo nàn (vốn từ/tài nguyên)
+    * **不乏** (bùfá) - (**Bất phạ**) - Không thiếu (những người như thế)
+
+## 1316. 伤
+
+* **Pinyin:** shāng
+* **Hán Việt:** Thương
+* **Nghĩa chính:** Vết thương, làm hại, đau buồn
+* **Từ ghép thông dụng:**
+    * **受伤** (shòushāng) - (**Thụ thương**) - Bị thương
+    * **伤心** (shāngxīn) - (**Thương tâm**) - Đau lòng, buồn bã
+    * **伤害** (shānghài) - (**Thương hại**) - Làm tổn thương, gây hại
+    * **悲伤** (bēishāng) - (**Bi thương**) - Bi thương
+    * **伤口** (shāngkǒu) - (**Thương khẩu**) - Miệng vết thương
+
+## 1317. 亡
+
+* **Pinyin:** wáng
+* **Hán Việt:** Vong
+* **Nghĩa chính:** Chết, mất, trốn
+* **Từ ghép thông dụng:**
+    * **死亡** (sǐwáng) - (**Tử vong**) - Cái chết
+    * **灭亡** (mièwáng) - (**Diệt vong**) - Diệt vong
+    * **亡羊补牢** (wángyángbǔláo) - (**Vong dương bổ lao**) - Mất bò mới lo làm chuồng
+    * **流亡** (liúwáng) - (**Lưu vong**) - Lưu vong
+    * **逃亡** (táowáng) - (**Đào vong**) - Chạy trốn, lưu vong
+
+## 1318. 灭
+
+* **Pinyin:** miè
+* **Hán Việt:** Diệt
+* **Nghĩa chính:** Tắt (lửa), tiêu diệt
+* **Từ ghép thông dụng:**
+    * **消灭** (xiāomiè) - (**Tiêu diệt**) - Tiêu diệt, trừ khử
+    * **灭火** (miè huǒ) - (**Diệt hỏa**) - Dập lửa, chữa cháy
+    * **毁灭** (huǐmiè) - (**Hủy diệt**) - Hủy diệt
+    * **灭绝** (mièjué) - (**Diệt tuyệt**) - Tuyệt chủng
+    * **自生自灭** (zìshēngzìmiè) - (**Tự sinh tự diệt**) - Sống chết mặc bay, tự sinh tự diệt
+
+## 1319. 承
+
+* **Pinyin:** chéng
+* **Hán Việt:** Thừa
+* **Nghĩa chính:** Chịu đựng, đảm nhận, tiếp nối
+* **Từ ghép thông dụng:**
+    * **承认** (chéngrèn) - (**Thừa nhận**) - Thừa nhận
+    * **承担** (chéngdān) - (**Thừa đảm**) - Gánh vác, chịu (trách nhiệm/chi phí)
+    * **承受** (chéngshòu) - (**Thừa thụ**) - Chịu đựng (áp lực/đau đớn)
+    * **继承** (jìchéng) - (**Kế thừa**) - Kế thừa
+    * **承诺** (chéngnuò) - (**Thừa nặc**) - Cam kết, hứa hẹn
+
+## 1320. 失
+
+* **Pinyin:** shī
+* **Hán Việt:** Thất
+* **Nghĩa chính:** Mất, sai, lỡ
+* **Từ ghép thông dụng:**
+    * **失败** (shībài) - (**Thất bại**) - Thất bại
+    * **失望** (shīwàng) - (**Thất vọng**) - Thất vọng
+    * **失去** (shīqù) - (**Thất khứ**) - Mất đi (người thân/cơ hội)
+    * **失眠** (shīmián) - (**Thất miên**) - Mất ngủ
+    * **消失** (xiāoshī) - (**Tiêu thất**) - Biến mất
+
+## 1321. 装
+
+* **Pinyin:** zhuāng
+* **Hán Việt:** Trang
+* **Nghĩa chính:** Hóa trang, đóng giả, lắp đặt, đựng
+* **Từ ghép thông dụng:**
+    * **服装** (fúzhuāng) - (**Phục trang**) - Trang phục, quần áo
+    * **假装** (jiǎzhuāng) - (**Giả trang**) - Giả vờ
+    * **装修** (zhuāngxiū) - (**Trang tu**) - Trang trí nội thất, sửa nhà
+    * **安装** (ānzhuāng) - (**An trang**) - Lắp đặt (phần mềm/thiết bị)
+    * **包装** (bāozhuāng) - (**Bao trang**) - Bao bì, đóng gói
+
+## 1322. 载
+
+* **Pinyin:** zài (hoặc zǎi)
+* **Hán Việt:** Tải
+* **Nghĩa chính:** Chở, mang, ghi chép
+* **Từ ghép thông dụng:**
+    * **下载** (xiàzài) - (**Hạ tải**) - Tải xuống (Download)
+    * **载重** (zàizhòng) - (**Tải trọng**) - Tải trọng
+    * **记载** (jìzǎi) - (**Ký tải**) - Ghi chép lại (*đọc là zǎi*)
+    * **千载难逢** (qiānzǎinánféng) - (**Thiên tải nan phùng**) - Nghìn năm có một (cơ hội hiếm) (*đọc là zǎi*)
+
+## 1323. 运
+
+* **Pinyin:** yùn
+* **Hán Việt:** Vận
+* **Nghĩa chính:** Vận chuyển, vận mệnh, vận động
+* **Từ ghép thông dụng:**
+    * **运动** (yùndòng) - (**Vận động**) - Thể thao, vận động
+    * **幸运** (xìngyùn) - (**Hạnh vận**) - May mắn
+    * **运气** (yùnqi) - (**Vận khí**) - Vận may
+    * **运输** (yùnshū) - (**Vận thâu**) - Vận chuyển
+    * **命运** (mìngyùn) - (**Mệnh vận**) - Số phận
+
+## 1324. 稳
+
+* **Pinyin:** wěn
+* **Hán Việt:** Ổn
+* **Nghĩa chính:** Ổn định, vững chắc
+* **Từ ghép thông dụng:**
+    * **稳定** (wěndìng) - (**Ổn định**) - Ổn định
+    * **平稳** (píngwěn) - (**Bình ổn**) - Êm ả, vững vàng (xe chạy/giá cả)
+    * **稳重** (wěnzhòng) - (**Ổn trọng**) - Điềm đạm, chín chắn (tính cách)
+    * **拿不准** (nábuzhǔn) - (**Ná bất chuẩn**) - Không nắm chắc (Lưu ý: *wěn* thường đi với *dìng*, còn *zhǔn* là chuẩn xác. Nhưng *wěn* cũng có nghĩa là chắc chắn).
+    * **安稳** (ānwěn) - (**An ổn**) - An ổn, yên ổn
+
+## 1325. 宁
+
+* **Pinyin:** níng (hoặc nìng)
+* **Hán Việt:** Ninh
+* **Nghĩa chính:** Yên bình (níng) / Thà rằng (nìng)
+* **Từ ghép thông dụng:**
+    * **安宁** (ānníng) - (**An ninh**) - Yên bình, an ninh
+    * **宁静** (níngjìng) - (**Ninh tĩnh**) - Yên tĩnh, thanh bình
+    * **宁可** (nìngkě) - (**Ninh khả**) - Thà rằng (*đọc là nìng*)
+    * **宁愿** (nìngyuàn) - (**Ninh nguyện**) - Thà muốn (*đọc là nìng*)
+    * **鸡犬不宁** (jīquǎnbùníng) - (**Kê khuyển bất ninh**) - Gà chó không yên (náo loạn)
+
+## 1326. 骄
+
+* **Pinyin:** jiāo
+* **Hán Việt:** Kiêu
+* **Nghĩa chính:** Kiêu ngạo, tự hào
+* **Từ ghép thông dụng:**
+    * **骄傲** (jiāo'ào) - (**Kiêu ngạo**) - Kiêu ngạo, tự hào (tùy ngữ cảnh)
+    * **骄阳** (jiāoyáng) - (**Kiêu dương**) - Nắng gắt (mặt trời kiêu ngạo)
+    * **骄纵** (jiāozòng) - (**Kiêu túng**) - Kiêu căng và phóng túng
+    * **天之骄子** (tiānzhījiāozǐ) - (**Thiên chi kiêu tử**) - Con cưng của trời (người tài giỏi/may mắn)
+
+## 1327. 傲
+
+* **Pinyin:** ào
+* **Hán Việt:** Ngạo
+* **Nghĩa chính:** Ngạo mạn, kiêu
+* **Từ ghép thông dụng:**
+    * **骄傲** (jiāo'ào) - (**Kiêu ngạo**) - Kiêu ngạo
+    * **傲慢** (àomàn) - (**Ngạo mạn**) - Ngạo mạn, coi thường người khác
+    * **傲骨** (àogǔ) - (**Ngạo cốt**) - Khí phách, cốt cách thanh cao
+    * **笑傲江湖** (xiào'àojiānghú) - (**Tiếu ngạo giang hồ**) - Tiếu ngạo giang hồ
+
+## 1328. 谦
+
+* **Pinyin:** qiān
+* **Hán Việt:** Khiêm
+* **Nghĩa chính:** Khiêm tốn
+* **Từ ghép thông dụng:**
+    * **谦虚** (qiānxū) - (**Khiêm hư**) - Khiêm tốn
+    * **谦让** (qiānràng) - (**Khiêm nhượng**) - Nhường nhịn
+    * **谦逊** (qiānxùn) - (**Khiêm tốn**) - Khiêm tốn, nhún nhường
+
+## 1329. 恭
+
+* **Pinyin:** gōng
+* **Hán Việt:** Cung
+* **Nghĩa chính:** Cung kính
+* **Từ ghép thông dụng:**
+    * **恭喜** (gōngxǐ) - (**Cung hỷ**) - Chúc mừng
+    * **恭敬** (gōngjìng) - (**Cung kính**) - Cung kính, tôn trọng
+    * **恭维** (gōngwei) - (**Cung duy**) - Tâng bốc, nịnh nọt
+    * **洗耳恭听** (xǐ'ěrgōngtīng) - (**Tẩy nhĩ cung thính**) - Rửa tai lắng nghe (thể hiện sự tôn trọng)
+
+## 1330. 谅
+
+* **Pinyin:** liàng
+* **Hán Việt:** Lượng
+* **Nghĩa chính:** Tha thứ, tin chắc
+* **Từ ghép thông dụng:**
+    * **原谅** (yuánliàng) - (**Nguyên lượng**) - Tha thứ, lượng thứ
+    * **体谅** (tǐliàng) - (**Thể lượng**) - Thông cảm, thấu hiểu cho hoàn cảnh
+    * **谅解** (liàngjiě) - (**Lượng giải**) - Hiểu và bỏ qua
