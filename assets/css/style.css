@@ -117,13 +117,16 @@ a:hover {
    ========================================================================== */
 .app-container {
   display: flex;
+  flex-direction: column;
   min-height: 100vh;
+  width: 100%;
 }
 
 /* --- Top Header (Sticky) --- */
 .top-header {
   position: sticky;
   top: 0;
+  width: 100%;
   height: var(--header-height);
   background-color: var(--bg-surface);
   border-bottom: 1px solid var(--border-color);
@@ -215,13 +218,15 @@ a:hover {
 /* --- Left Sidebar --- */
 .sidebar {
   width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  flex-shrink: 0;
   background-color: var(--bg-surface);
   border-right: 1px solid var(--border-color);
   display: flex;
   flex-direction: column;
   position: sticky;
-  top: 0;
-  height: 100vh;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
   z-index: 90;
   transition: var(--transition);
 }
@@ -403,7 +408,10 @@ a:hover {
 .main-wrapper {
   flex: 1;
   display: flex;
+  flex-direction: row;
+  width: 100%;
   min-width: 0;
+  position: relative;
 }
 
 .content-container {
@@ -412,6 +420,7 @@ a:hover {
   max-width: 920px;
   margin: 0 auto;
   min-width: 0;
+  width: 100%;
 }
 
 /* --- Quick Reading Toolbar (Under Header) --- */
@@ -490,6 +499,8 @@ a:hover {
 /* --- Right Table of Contents (Desktop Sticky) --- */
 .toc-sidebar {
   width: var(--toc-width);
+  min-width: var(--toc-width);
+  flex-shrink: 0;
   position: sticky;
   top: var(--header-height);
   height: calc(100vh - var(--header-height));
@@ -886,13 +897,13 @@ body.hide-hanviet td:nth-child(4) {
 /* ==========================================================================
    Responsive Breakpoints
    ========================================================================== */
-@media (max-width: 1200px) {
+@media (max-width: 1300px) {
   .toc-sidebar {
     display: none;
   }
   .content-container {
     max-width: 860px;
-    padding: 2rem 2rem 4rem 2rem;
+    padding: 2rem 2.5rem 4rem 2.5rem;
   }
 }
 
