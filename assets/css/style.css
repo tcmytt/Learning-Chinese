@@ -1,0 +1,950 @@
+/* ==========================================================================
+   Learning Chinese Web Reader — Master Stylesheet
+   Designed for High-Legibility Chinese Typography, Dual Theme & Interactive Study
+   ========================================================================== */
+
+:root {
+  /* Light Theme (Rice Paper & Vermilion Ink) */
+  --bg-primary: #fbf9f5;
+  --bg-surface: #ffffff;
+  --bg-secondary: #f4efe6;
+  --bg-hover: #ece5d8;
+  --bg-code: #f1ede4;
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --text-muted: #6b7280;
+  --border-color: #e5dfd5;
+  --border-light: #ece7de;
+
+  /* Chinese Cultural Accent Palette */
+  --brand-red: #c0392b;
+  --brand-red-light: #fbeae8;
+  --brand-red-hover: #a93226;
+  --brand-gold: #d97706;
+  --brand-gold-light: #fef3c7;
+  --brand-jade: #0d9488;
+  --brand-jade-light: #ccfbf1;
+  --brand-blue: #2563eb;
+  --brand-blue-light: #eff6ff;
+
+  /* Typography */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-hanzi: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", "SimSun", serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
+  /* Layout */
+  --sidebar-width: 320px;
+  --toc-width: 260px;
+  --header-height: 64px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+  --content-font-size: 16px;
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme="dark"] {
+  /* Dark Theme (Ink Stone & Night Scholar) */
+  --bg-primary: #0f141c;
+  --bg-surface: #171f2b;
+  --bg-secondary: #1f2937;
+  --bg-hover: #2d3748;
+  --bg-code: #1a2332;
+  --text-primary: #f3f4f6;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --border-color: #2b374a;
+  --border-light: #1f2937;
+
+  --brand-red: #ef4444;
+  --brand-red-light: rgba(239, 68, 68, 0.15);
+  --brand-red-hover: #dc2626;
+  --brand-gold: #f59e0b;
+  --brand-gold-light: rgba(245, 158, 11, 0.15);
+  --brand-jade: #14b8a6;
+  --brand-jade-light: rgba(20, 184, 166, 0.15);
+  --brand-blue: #3b82f6;
+  --brand-blue-light: rgba(59, 130, 246, 0.15);
+
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+}
+
+/* ==========================================================================
+   Base & Reset
+   ========================================================================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--content-font-size);
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--brand-red);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--brand-red-hover);
+}
+
+/* ==========================================================================
+   App Layout
+   ========================================================================== */
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* --- Top Header (Sticky) --- */
+.top-header {
+  position: sticky;
+  top: 0;
+  height: var(--header-height);
+  background-color: var(--bg-surface);
+  border-bottom: 1px solid var(--border-color);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  backdrop-filter: blur(8px);
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.brand-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.brand-icon {
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, var(--brand-red), #e74c3c);
+  color: white;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-hanzi);
+  font-size: 1.2rem;
+  box-shadow: 0 2px 4px rgba(192, 57, 43, 0.3);
+}
+
+.menu-toggle-btn {
+  display: none;
+  background: none;
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  width: 38px;
+  height: 38px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.action-btn {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  height: 36px;
+  padding: 0 0.85rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 0.88rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: var(--transition);
+  font-weight: 500;
+}
+
+.action-btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--brand-red);
+}
+
+.action-btn.active {
+  background: var(--brand-red-light);
+  color: var(--brand-red);
+  border-color: var(--brand-red);
+}
+
+/* --- Left Sidebar --- */
+.sidebar {
+  width: var(--sidebar-width);
+  background-color: var(--bg-surface);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  z-index: 90;
+  transition: var(--transition);
+}
+
+.sidebar-search-box {
+  padding: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.search-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 10px;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.55rem 0.75rem 0.55rem 2rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-size: 0.88rem;
+  outline: none;
+  transition: var(--transition);
+}
+
+.search-input:focus {
+  border-color: var(--brand-red);
+  background: var(--bg-surface);
+  box-shadow: 0 0 0 3px var(--brand-red-light);
+}
+
+.progress-widget {
+  padding: 0.75rem 1rem;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.progress-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.progress-bar-container {
+  height: 6px;
+  background: var(--border-color);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--brand-jade), var(--brand-gold));
+  border-radius: 999px;
+  transition: width 0.4s ease;
+  width: 0%;
+}
+
+.sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.75rem 0.5rem;
+}
+
+.nav-group {
+  margin-bottom: 1rem;
+}
+
+.nav-group-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.45rem 0.75rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  user-select: none;
+  transition: var(--transition);
+}
+
+.nav-group-header:hover {
+  color: var(--text-primary);
+  background: var(--bg-hover);
+}
+
+.nav-group-arrow {
+  font-size: 0.7rem;
+  transition: transform 0.2s ease;
+}
+
+.nav-group.collapsed .nav-group-arrow {
+  transform: rotate(-90deg);
+}
+
+.nav-group.collapsed .nav-items {
+  display: none;
+}
+
+.nav-items {
+  list-style: none;
+  margin-top: 0.25rem;
+}
+
+.nav-item {
+  margin-bottom: 2px;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.75rem;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  transition: var(--transition);
+  position: relative;
+}
+
+.nav-link:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.nav-link.active {
+  background: var(--brand-red-light);
+  color: var(--brand-red);
+  font-weight: 600;
+}
+
+.nav-link.active::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 4px;
+  bottom: 4px;
+  width: 3px;
+  background: var(--brand-red);
+  border-radius: 0 4px 4px 0;
+}
+
+.nav-link-badge {
+  margin-left: auto;
+  font-size: 0.7rem;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: var(--bg-secondary);
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.nav-link.completed .nav-check-icon {
+  color: var(--brand-jade);
+  font-size: 0.85rem;
+}
+
+/* --- Main Reading Area --- */
+.main-wrapper {
+  flex: 1;
+  display: flex;
+  min-width: 0;
+}
+
+.content-container {
+  flex: 1;
+  padding: 2.5rem 3rem 5rem 3rem;
+  max-width: 920px;
+  margin: 0 auto;
+  min-width: 0;
+}
+
+/* --- Quick Reading Toolbar (Under Header) --- */
+.reading-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  margin-bottom: 2rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.controls-left, .controls-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.switch-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  user-select: none;
+  padding: 0.3rem 0.6rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  transition: var(--transition);
+}
+
+.switch-label:hover {
+  border-color: var(--brand-red);
+}
+
+.switch-label input {
+  cursor: pointer;
+  accent-color: var(--brand-red);
+}
+
+.btn-mark-completed {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: var(--transition);
+}
+
+.btn-mark-completed:hover {
+  background: var(--brand-jade-light);
+  border-color: var(--brand-jade);
+  color: var(--brand-jade);
+}
+
+.btn-mark-completed.is-done {
+  background: var(--brand-jade);
+  color: white;
+  border-color: var(--brand-jade);
+}
+
+/* --- Right Table of Contents (Desktop Sticky) --- */
+.toc-sidebar {
+  width: var(--toc-width);
+  position: sticky;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+  padding: 2.5rem 1.25rem 2rem 0.75rem;
+  border-left: 1px solid var(--border-color);
+}
+
+.toc-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+  margin-bottom: 0.75rem;
+}
+
+.toc-list {
+  list-style: none;
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.toc-item a {
+  color: var(--text-muted);
+  text-decoration: none;
+  display: block;
+  padding: 0.2rem 0;
+  line-height: 1.4;
+  border-left: 2px solid transparent;
+  padding-left: 0.6rem;
+  transition: var(--transition);
+}
+
+.toc-item a:hover, .toc-item a.active {
+  color: var(--brand-red);
+  border-left-color: var(--brand-red);
+  font-weight: 600;
+}
+
+.toc-item.depth-3 a {
+  padding-left: 1.2rem;
+  font-size: 0.8rem;
+}
+
+/* ==========================================================================
+   Article & Markdown Typography Styling (Chinese 4-Layer Standard)
+   ========================================================================== */
+.markdown-body {
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+  line-height: 1.85;
+}
+
+.markdown-body h1 {
+  font-size: 2.1rem;
+  font-weight: 800;
+  line-height: 1.3;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--border-color);
+  color: var(--brand-red);
+  font-family: var(--font-hanzi);
+}
+
+.markdown-body h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.markdown-body h2::before {
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 1.2rem;
+  background: var(--brand-red);
+  border-radius: 2px;
+}
+
+.markdown-body h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  color: var(--text-primary);
+}
+
+.markdown-body h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-body p {
+  margin-bottom: 1.25rem;
+}
+
+.markdown-body ul, .markdown-body ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.6rem;
+}
+
+.markdown-body li {
+  margin-bottom: 0.4rem;
+}
+
+/* Blockquotes (Cultural notes & callouts) */
+.markdown-body blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--bg-secondary);
+  border-left: 4px solid var(--brand-red);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}
+
+.markdown-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Inline Code & Code Blocks */
+.markdown-body code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  padding: 0.2em 0.4em;
+  background-color: var(--bg-code);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: var(--brand-red);
+}
+
+.markdown-body pre {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.markdown-body pre code {
+  padding: 0;
+  background: none;
+  border: none;
+  color: inherit;
+}
+
+/* ==========================================================================
+   Table Styling (Optimized for 7-Column Chinese Vocabulary)
+   ========================================================================== */
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  background: var(--bg-surface);
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  text-align: left;
+}
+
+.markdown-body th {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  font-weight: 700;
+  padding: 0.85rem 1rem;
+  border-bottom: 2px solid var(--border-color);
+  white-space: nowrap;
+}
+
+.markdown-body td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--border-light);
+  vertical-align: top;
+}
+
+.markdown-body tr:last-child td {
+  border-bottom: none;
+}
+
+.markdown-body tr:hover td {
+  background-color: var(--bg-hover);
+}
+
+/* Hanzi in tables: Extra large, clear strokes, clickable for audio */
+.markdown-body td:nth-child(2) {
+  font-family: var(--font-hanzi);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--brand-red);
+  white-space: nowrap;
+}
+
+/* Pinyin column */
+.markdown-body td:nth-child(3) {
+  font-weight: 500;
+  color: var(--brand-blue);
+  white-space: nowrap;
+}
+
+/* Hán Việt column */
+.markdown-body td:nth-child(4) {
+  font-weight: 600;
+  color: var(--brand-jade);
+}
+
+/* ==========================================================================
+   Interactive Learning Components (Quiz, TTS, Toggles)
+   ========================================================================== */
+
+/* Clickable Hanzi Audio Pronounce */
+.hanzi-speakable {
+  cursor: pointer;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  border-bottom: 1px dashed var(--brand-red);
+  transition: var(--transition);
+}
+
+.hanzi-speakable:hover {
+  color: var(--brand-red-hover);
+  background-color: var(--brand-red-light);
+  border-radius: 2px;
+}
+
+.tts-speaker-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: none;
+  background: var(--bg-secondary);
+  color: var(--brand-red);
+  cursor: pointer;
+  font-size: 0.85rem;
+  margin-left: 6px;
+  vertical-align: middle;
+  transition: var(--transition);
+}
+
+.tts-speaker-btn:hover {
+  background: var(--brand-red);
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Hidden Pinyin / Hán Việt classes based on user toggle */
+body.hide-pinyin .pinyin-text,
+body.hide-pinyin td:nth-child(3) {
+  visibility: hidden;
+  opacity: 0;
+  user-select: none;
+}
+
+body.hide-hanviet .hanviet-text,
+body.hide-hanviet td:nth-child(4) {
+  visibility: hidden;
+  opacity: 0;
+  user-select: none;
+}
+
+/* Interactive Quiz Accordion */
+.quiz-section {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: var(--shadow-sm);
+}
+
+.quiz-answer-card {
+  margin-top: 1.5rem;
+  border: 1px solid var(--brand-jade);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--bg-surface);
+}
+
+.quiz-answer-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1.25rem;
+  background: var(--brand-jade-light);
+  color: var(--brand-jade);
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+  text-align: left;
+  transition: var(--transition);
+}
+
+.quiz-answer-toggle:hover {
+  filter: brightness(0.95);
+}
+
+.quiz-answer-body {
+  padding: 1.25rem;
+  display: none;
+  border-top: 1px solid var(--border-color);
+}
+
+.quiz-answer-card.open .quiz-answer-body {
+  display: block;
+}
+
+.quiz-answer-card.open .quiz-toggle-arrow {
+  transform: rotate(180deg);
+}
+
+/* --- Next / Previous Navigation Bar --- */
+.lesson-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.nav-pager-btn {
+  display: flex;
+  flex-direction: column;
+  padding: 0.85rem 1.25rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: var(--text-primary);
+  max-width: 48%;
+  transition: var(--transition);
+}
+
+.nav-pager-btn:hover {
+  border-color: var(--brand-red);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.nav-pager-btn.prev {
+  align-items: flex-start;
+}
+
+.nav-pager-btn.next {
+  align-items: flex-end;
+  margin-left: auto;
+}
+
+.pager-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.pager-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--brand-red);
+  line-height: 1.3;
+}
+
+/* ==========================================================================
+   Responsive Breakpoints
+   ========================================================================== */
+@media (max-width: 1200px) {
+  .toc-sidebar {
+    display: none;
+  }
+  .content-container {
+    max-width: 860px;
+    padding: 2rem 2rem 4rem 2rem;
+  }
+}
+
+@media (max-width: 860px) {
+  .menu-toggle-btn {
+    display: flex;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    transform: translateX(-100%);
+    box-shadow: var(--shadow-lg);
+    z-index: 1000;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .sidebar-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+  }
+
+  .sidebar-backdrop.active {
+    display: block;
+  }
+
+  .content-container {
+    padding: 1.5rem 1rem 3rem 1rem;
+  }
+
+  .reading-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .controls-left, .controls-right {
+    justify-content: space-between;
+  }
+
+  .markdown-body h1 {
+    font-size: 1.6rem;
+  }
+
+  .markdown-body h2 {
+    font-size: 1.3rem;
+  }
+}
