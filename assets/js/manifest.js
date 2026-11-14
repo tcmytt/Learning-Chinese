@@ -5,13 +5,13 @@
 
 const COURSE_MANIFEST = {
   title: "Giáo Trình Học Tiếng Trung Toàn Diện",
-  description: "Kho tàng tri thức tiếng Trung: 214 Bộ thủ, 2500 Chữ Hán, Ngữ pháp chuyên sâu và Trọn bộ 60 Chủ đề chuẩn 4 tầng ngôn ngữ.",
+  description: "Kho tàng tri thức tiếng Trung: Pinyin, Bút thuận, 214 Bộ thủ, 2500 Chữ Hán, Ngữ pháp chuyên sâu, HSK 3.0, Tiếng Trung Thương mại & 60 Chủ đề chuẩn 4 tầng ngôn ngữ.",
   groups: [
     {
       id: "lotrinh",
-      title: "🧭 1. Lộ Trình & Phương Pháp",
+      title: "🧭 1. Lộ Trình & Ngữ Âm Pinyin",
       folder: "01-LoTrinh-PhuongPhap",
-      description: "Định hướng tư duy, lộ trình checklist và phương pháp học phản xạ tự nhiên.",
+      description: "Định hướng tư duy, lộ trình checklist, bảng Pinyin chuẩn và quy tắc biến điệu thực chiến.",
       items: [
         {
           id: "huong-dan",
@@ -19,6 +19,20 @@ const COURSE_MANIFEST = {
           file: "01-LoTrinh-PhuongPhap/HuongDan.md",
           icon: "🗺️",
           badge: "Cốt lõi"
+        },
+        {
+          id: "bang-pinyin",
+          title: "Bảng Pinyin & Cẩm Nang Phát Âm",
+          file: "01-LoTrinh-PhuongPhap/BangPinyinVaPhatAm.md",
+          icon: "🎙️",
+          badge: "Mới"
+        },
+        {
+          id: "quy-tac-bien-dieu",
+          title: "Quy Tắc Biến Điệu Thực Chiến",
+          file: "01-LoTrinh-PhuongPhap/QuyTacBienDieu.md",
+          icon: "🎵",
+          badge: "Mới"
         },
         {
           id: "hoc-nhu-nao",
@@ -33,8 +47,15 @@ const COURSE_MANIFEST = {
       id: "chuhan-bothu",
       title: "🈴 2. Chữ Hán & 214 Bộ Thủ",
       folder: "02-ChuHan-BoThu",
-      description: "Gốc rễ chữ Hán: Chiết tự 214 bộ thủ, 2500 chữ thông dụng, phân biệt chữ dễ nhầm & đồng âm.",
+      description: "Gốc rễ chữ Hán: Quy tắc bút thuận, chiết tự 214 bộ thủ, 2500 chữ thông dụng, phân biệt chữ dễ nhầm & đồng âm.",
       items: [
+        {
+          id: "quy-tac-but-thuan",
+          title: "Quy Tắc Bút Thuận & Kết Cấu Chữ",
+          file: "02-ChuHan-BoThu/QuyTacButThuan.md",
+          icon: "✍️",
+          badge: "Mới"
+        },
         {
           id: "214-bo-thu",
           title: "Tổng Hợp 214 Bộ Thủ Tiếng Trung",
@@ -96,10 +117,31 @@ const COURSE_MANIFEST = {
     },
     {
       id: "thanh-ngu-dienco",
-      title: "🏮 4. Thành Ngữ & Điển Tích",
+      title: "🏮 4. Tiếng Trung Thực Chiến & Đời Sống",
       folder: "04-ThanhNgu-DienCo",
-      description: "Kho tàng văn hóa: Thành ngữ bốn chữ, điển tích ngàn năm và cụm từ khẩu ngữ thực tế.",
+      description: "Kho tàng thực chiến: Tiếng lóng Internet, đàm phán Taobao/1688, Email & CV công sở, thành ngữ & điển cố.",
       items: [
+        {
+          id: "tieng-long-mang",
+          title: "Tiếng Lóng, Khẩu Ngữ & Ngôn Ngữ Mạng",
+          file: "04-ThanhNgu-DienCo/TiengLongVaKhauNguMang.md",
+          icon: "🔥",
+          badge: "Hot Trend"
+        },
+        {
+          id: "kinh-doanh-taobao",
+          title: "Đánh Hàng & Đàm Phán Taobao, 1688",
+          file: "04-ThanhNgu-DienCo/TiengTrungKinhDoanhTaobao.md",
+          icon: "🛒",
+          badge: "Thương mại"
+        },
+        {
+          id: "cong-so-email-cv",
+          title: "Tiếng Trung Công Sở: Mẫu CV & Soạn Email",
+          file: "04-ThanhNgu-DienCo/TiengTrungVanPhongEmailCV.md",
+          icon: "💼",
+          badge: "Công sở"
+        },
         {
           id: "cum-tu-thanh-ngu",
           title: "Cụm Từ & Thành Ngữ Thông Dụng",
@@ -131,109 +173,124 @@ const COURSE_MANIFEST = {
       ]
     },
     {
-      id: "chu-de-tong-quan",
-      title: "🏛️ 5. Khung 60 Chủ Đề Master",
-      folder: "TiengTrungTheoChuDe",
-      description: "Bản thiết kế Master Blueprint, tiêu chuẩn 4 tầng ngôn ngữ và bố cục 8 mục bắt buộc.",
+      id: "chung-chi-hsk",
+      title: "🎯 5. Luyện Thi HSK 3.0 & HSKK",
+      folder: "05-ChungChi-HSK",
+      description: "Hệ thống tiêu chuẩn 3 Đẳng 9 Cấp, cấu trúc đề thi và chiến thuật săn điểm Nghe - Đọc - Viết - Nói.",
       items: [
         {
-          id: "topic-0",
-          title: "0. Khung Chương Trình & Quy Chuẩn (Master Blueprint)",
+          id: "tong-quan-hsk",
+          title: "Tổng Quan HSK 3.0 & Chiến Thuật Thi Đạt Điểm Cao",
+          file: "05-ChungChi-HSK/TongQuanHSK3.0VaChienLuocOnThi.md",
+          icon: "🎯",
+          badge: "HSK 3.0"
+        }
+      ]
+    },
+    {
+      id: "chu-de-tong-quan",
+      title: "🌐 60 Chủ Đề: Tổng Quan & Định Hướng",
+      folder: "TiengTrungTheoChuDe",
+      description: "Bản đồ 60 chủ đề phân chia theo 10 đại lĩnh vực cuộc sống.",
+      items: [
+        {
+          id: "topic-00",
+          title: "0. Tổng Quan Hệ Thống 60 Chủ Đề",
           file: "TiengTrungTheoChuDe/0-tong-quan.md",
-          icon: "🏛️",
-          badge: "Master"
+          icon: "🌟",
+          badge: "Tổng quan"
         }
       ]
     },
     {
       id: "chu-de-mang-1",
-      title: "👤 Mảng 1: Con Người, Gia Đình & Cảm Xúc (1 - 6)",
+      title: "👤 Mảng 1: Con Người, Ngoại Hình & Cảm Xúc (01 - 06)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-1", title: "1. Cơ thể người & Cử chỉ hoạt động", file: "TiengTrungTheoChuDe/1-co-the-nguoi-va-cu-chi-hoat-dong.md", icon: "🧍" },
-        { id: "topic-2", title: "2. Ngoại hình, Khí chất & Diện mạo", file: "TiengTrungTheoChuDe/2-ngoai-hinh-khi-chat-va-dien-mao.md", icon: "✨" },
-        { id: "topic-3", title: "3. Tính cách, Phẩm chất & Thái độ sống", file: "TiengTrungTheoChuDe/3-tinh-cach-pham-chat-va-thai-do-song.md", icon: "🧠" },
-        { id: "topic-4", title: "4. Cảm xúc, Tâm trạng & Tinh thần", file: "TiengTrungTheoChuDe/4-cam-xuc-tam-trang-va-trang-thai-tinh-than.md", icon: "🎭" },
-        { id: "topic-5", title: "5. Gia đình, Họ hàng & Xưng hô", file: "TiengTrungTheoChuDe/5-gia-dinh-ho-hang-va-xung-ho-truyen-thong.md", icon: "👨‍👩‍👧‍👦" },
-        { id: "topic-6", title: "6. Tình yêu, Hôn nhân & Cuộc đời", file: "TiengTrungTheoChuDe/6-tinh-yeu-hon-nhan-va-cac-giai-doan-cuoc-doi.md", icon: "💍" }
+        { id: "topic-01", title: "01. Cơ Thể Người & Cử Chỉ Hoạt Động", file: "TiengTrungTheoChuDe/1-co-the-nguoi-va-cu-chi-hoat-dong.md", icon: "🧍" },
+        { id: "topic-02", title: "02. Ngoại Hình, Khí Chất & Diện Mạo", file: "TiengTrungTheoChuDe/2-ngoai-hinh-khi-chat-va-dien-mao.md", icon: "✨" },
+        { id: "topic-03", title: "03. Tính Cách, Phẩm Chất & Thái Độ Sống", file: "TiengTrungTheoChuDe/3-tinh-cach-pham-chat-va-thai-do-song.md", icon: "🧠" },
+        { id: "topic-04", title: "04. Cảm Xúc, Tâm Trạng & Trạng Thái Tinh Thần", file: "TiengTrungTheoChuDe/4-cam-xuc-tam-trang-va-trang-thai-tinh-than.md", icon: "❤️" },
+        { id: "topic-05", title: "05. Gia Đình, Họ Hàng & Xưng Hô Truyền Thống", file: "TiengTrungTheoChuDe/5-gia-dinh-ho-hang-va-xung-ho-truyen-thong.md", icon: "👨‍👩‍👧‍👦" },
+        { id: "topic-06", title: "06. Tình Yêu, Hôn Nhân & Các Giai Đoạn Cuộc Đời", file: "TiengTrungTheoChuDe/6-tinh-yeu-hon-nhan-va-cac-giai-doan-cuoc-doi.md", icon: "💍" }
       ]
     },
     {
       id: "chu-de-mang-2",
-      title: "🏡 Mảng 2: Đời Sống Hằng Ngày & Nhà Cửa (7 - 12)",
+      title: "🏠 Mảng 2: Đời Sống Hàng Ngày & Không Gian Sống (07 - 12)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-7", title: "7. Nhà cửa, Kiến trúc & Không gian sống", file: "TiengTrungTheoChuDe/7-nha-cua-kien-truc-va-khong-gian-song.md", icon: "🏠" },
-        { id: "topic-8", title: "8. Nội thất, Đồ gia dụng & Thiết bị", file: "TiengTrungTheoChuDe/8-noi-that-do-gia-dung-va-thiet-bi-trong-nha.md", icon: "🛋️" },
-        { id: "topic-9", title: "9. Lịch trình Sinh hoạt & Thói quen", file: "TiengTrungTheoChuDe/9-lich-trinh-sinh-hoat-va-thoi-quen-hang-ngay.md", icon: "⏰" },
-        { id: "topic-10", title: "10. Trang phục, Thời trang & Phụ kiện", file: "TiengTrungTheoChuDe/10-trang-phuc-thoi-trang-va-phu-kien.md", icon: "👗" },
-        { id: "topic-11", title: "11. Chăm sóc Cá nhân, Làm đẹp & Thẩm mỹ", file: "TiengTrungTheoChuDe/11-cham-soc-ca-nhan-lam-dep-va-tham-my.md", icon: "💄" },
-        { id: "topic-12", title: "12. Vật nuôi, Thú cưng & Chăm sóc", file: "TiengTrungTheoChuDe/12-vat-nuoi-thu-cung-va-cham-soc-thu-cung.md", icon: "🐾" }
+        { id: "topic-07", title: "07. Nhà Cửa, Kiến Trúc & Không Gian Sống", file: "TiengTrungTheoChuDe/7-nha-cua-kien-truc-va-khong-gian-song.md", icon: "🏡" },
+        { id: "topic-08", title: "08. Nội Thất, Đồ Gia Dụng & Thiết Bị Trong Nhà", file: "TiengTrungTheoChuDe/8-noi-that-do-gia-dung-va-thiet-bi-trong-nha.md", icon: "🛋️" },
+        { id: "topic-09", title: "09. Lịch Trình Sinh Hoạt & Thói Quen Hàng Ngày", file: "TiengTrungTheoChuDe/9-lich-trinh-sinh-hoat-va-thoi-quen-hang-ngay.md", icon: "⏰" },
+        { id: "topic-10", title: "10. Trang Phục, Thời Trang & Phụ Kiện", file: "TiengTrungTheoChuDe/10-trang-phuc-thoi-trang-va-phu-kien.md", icon: "👗" },
+        { id: "topic-11", title: "11. Chăm Sóc Cá Nhân, Làm Đẹp & Thẩm Mỹ", file: "TiengTrungTheoChuDe/11-cham-soc-ca-nhan-lam-dep-va-tham-my.md", icon: "💄" },
+        { id: "topic-12", title: "12. Vật Nuôi, Thú Cưng & Chăm Sóc Thú Cưng", file: "TiengTrungTheoChuDe/12-vat-nuoi-thu-cung-va-cham-soc-thu-cung.md", icon: "🐾" }
       ]
     },
     {
       id: "chu-de-mang-3",
-      title: "🍲 Mảng 3: Ẩm Thực, Nấu Nướng & Mua Sắm (13 - 18)",
+      title: "🍲 Mảng 3: Ẩm Thực, Nấu Nướng & Ăn Uống (13 - 18)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-13", title: "13. Nguyên liệu: Rau củ, Trái cây & Thịt cá", file: "TiengTrungTheoChuDe/13-nguyen-lieu-thuc-pham-rau-cu-trai-cay-thit-ca.md", icon: "🥦" },
-        { id: "topic-14", title: "14. Gia vị & Phương pháp Chế biến", file: "TiengTrungTheoChuDe/14-gia-vi-che-bien-va-nau-nuong.md", icon: "🧂" },
-        { id: "topic-15", title: "15. Món ăn Trung Hoa & Ẩm thực Đường phố", file: "TiengTrungTheoChuDe/15-mon-an-trung-hoa-va-am-thuc-duong-pho.md", icon: "🥟" },
-        { id: "topic-16", title: "16. Nhà hàng, Gọi món & Văn hóa Bàn tiệc", file: "TiengTrungTheoChuDe/16-nha-hang-goi-mon-va-van-hoa-ban-tiec.md", icon: "🥢" },
-        { id: "topic-17", title: "17. Trà đạo, Cà phê & Đồ uống", file: "TiengTrungTheoChuDe/17-tra-dao-ca-phe-va-do-uong-giai-khat.md", icon: "🍵" },
-        { id: "topic-18", title: "18. Mua sắm, Siêu thị & Thương mại Điện tử", file: "TiengTrungTheoChuDe/18-mua-sam-sieu-thi-va-thuong-mai-dien-tu.md", icon: "🛒" }
+        { id: "topic-13", title: "13. Nguyên Liệu Thực Phẩm, Rau Củ, Trái Cây & Thịt Cá", file: "TiengTrungTheoChuDe/13-nguyen-lieu-thuc-pham-rau-cu-trai-cay-thit-ca.md", icon: "🥦" },
+        { id: "topic-14", title: "14. Gia Vị, Chế Biến & Nghệ Thuật Nấu Nướng", file: "TiengTrungTheoChuDe/14-gia-vi-che-bien-va-nau-nuong.md", icon: "🍳" },
+        { id: "topic-15", title: "15. Món Ăn Trung Hoa & Ẩm Thực Đường Phố", file: "TiengTrungTheoChuDe/15-mon-an-trung-hoa-va-am-thuc-duong-pho.md", icon: "🥟" },
+        { id: "topic-16", title: "16. Nhà Hàng, Gọi Món & Văn Hóa Bàn Tiệc", file: "TiengTrungTheoChuDe/16-nha-hang-goi-mon-va-van-hoa-ban-tiec.md", icon: "🥢" },
+        { id: "topic-17", title: "17. Trà Đạo, Cà Phê & Đồ Uống Giải Khát", file: "TiengTrungTheoChuDe/17-tra-dao-ca-phe-va-do-uong-giai-khat.md", icon: "🍵" },
+        { id: "topic-18", title: "18. Mua Sắm, Siêu Thị & Thương Mại Điện Tử", file: "TiengTrungTheoChuDe/18-mua-sam-sieu-thi-va-thuong-mai-dien-tu.md", icon: "🛒" }
       ]
     },
     {
       id: "chu-de-mang-4",
-      title: "🌿 Mảng 4: Thiên Nhiên, Động Thực Vật & Phong Cảnh (19 - 24)",
+      title: "🌿 Mảng 4: Tự Nhiên, Động Thực Vật & Thời Tiết (19 - 24)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-19", title: "19. Thú rừng, Gia súc & Côn trùng", file: "TiengTrungTheoChuDe/19-the-gioi-dong-vat-thu-rung-gia-suc-con-trung.md", icon: "🐅" },
-        { id: "topic-20", title: "20. Loài chim, Sinh vật biển & Bò sát", file: "TiengTrungTheoChuDe/20-loai-chim-sinh-vat-bien-va-bo-sat.md", icon: "🦅" },
-        { id: "topic-21", title: "21. Thực vật, Hoa cỏ & Cây cối", file: "TiengTrungTheoChuDe/21-thuc-vat-hoa-co-va-cay-coi.md", icon: "🌸" },
-        { id: "topic-22", title: "22. Phong cảnh Thiên nhiên & Sơn thủy", file: "TiengTrungTheoChuDe/22-phong-canh-thien-nhien-son-thuy-dia-hinh.md", icon: "🏞️" },
-        { id: "topic-23", title: "23. Thời tiết, Khí hậu & Bốn mùa", file: "TiengTrungTheoChuDe/23-thoi-tiet-khi-hau-va-bon-mua.md", icon: "⛅" },
-        { id: "topic-24", title: "24. Vũ trụ, Bầu trời & Môi trường", file: "TiengTrungTheoChuDe/24-vu-tru-bau-troi-va-bao-ve-moi-truong.md", icon: "🌌" }
+        { id: "topic-19", title: "19. Thế Giới Động Vật: Thú Rừng, Gia Súc & Côn Trùng", file: "TiengTrungTheoChuDe/19-the-gioi-dong-vat-thu-rung-gia-suc-con-trung.md", icon: "🐯" },
+        { id: "topic-20", title: "20. Loài Chim, Sinh Vật Biển & Bò Sát", file: "TiengTrungTheoChuDe/20-loai-chim-sinh-vat-bien-va-bo-sat.md", icon: "🐬" },
+        { id: "topic-21", title: "21. Thực Vật, Hoa Cỏ & Cây Cối", file: "TiengTrungTheoChuDe/21-thuc-vat-hoa-co-va-cay-coi.md", icon: "🌸" },
+        { id: "topic-22", title: "22. Phong Cảnh Thiên Nhiên, Sơn Thủy & Địa Hình", file: "TiengTrungTheoChuDe/22-phong-canh-thien-nhien-son-thuy-dia-hinh.md", icon: "🏔️" },
+        { id: "topic-23", title: "23. Thời Tiết, Khí Hậu & Bốn Mùa", file: "TiengTrungTheoChuDe/23-thoi-tiet-khi-hau-va-bon-mua.md", icon: "☀️" },
+        { id: "topic-24", title: "24. Vũ Trụ, Bầu Trời & Bảo Vệ Môi Trường", file: "TiengTrungTheoChuDe/24-vu-tru-bau-troi-va-bao-ve-moi-truong.md", icon: "🌍" }
       ]
     },
     {
       id: "chu-de-mang-5",
-      title: "🎓 Mảng 5: Trường Học, Giáo Dục & Học Thuật (25 - 30)",
+      title: "🎓 Mảng 5: Giáo Dục, Học Thuật & Trí Thức (25 - 30)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-25", title: "25. Trường học & Đời sống Học đường", file: "TiengTrungTheoChuDe/25-truong-hoc-va-doi-song-hoc-duong.md", icon: "🏫" },
-        { id: "topic-26", title: "26. Môn học, Chuyên ngành & Đồ dùng", file: "TiengTrungTheoChuDe/26-mon-hoc-chuyen-nganh-va-do-dung-hoc-tap.md", icon: "📐" },
-        { id: "topic-27", title: "27. Phương pháp Học tập, Thi cử & Điểm số", file: "TiengTrungTheoChuDe/27-phuong-phap-hoc-tap-thi-cu-va-diem-so.md", icon: "💯" },
-        { id: "topic-28", title: "28. Ngôn ngữ học & Chinh phục Tiếng Trung", file: "TiengTrungTheoChuDe/28-ngon-ngu-hoc-va-chinh-phuc-tieng-trung.md", icon: "📖" },
-        { id: "topic-29", title: "29. Đọc sách, Văn học & Tri thức", file: "TiengTrungTheoChuDe/29-doc-sach-van-hoc-va-tri-thuc.md", icon: "📑" },
-        { id: "topic-30", title: "30. Khoa học Tự nhiên, Toán học & Logic", file: "TiengTrungTheoChuDe/30-khoa-hoc-tu-nhien-toan-hoc-va-tu-duy-logic.md", icon: "🔬" }
+        { id: "topic-25", title: "25. Trường Học & Đời Sống Học Đường", file: "TiengTrungTheoChuDe/25-truong-hoc-va-doi-song-hoc-duong.md", icon: "🏫" },
+        { id: "topic-26", title: "26. Môn Học, Chuyên Ngành & Đồ Dùng Học Tập", file: "TiengTrungTheoChuDe/26-mon-hoc-chuyen-nganh-va-do-dung-hoc-tap.md", icon: "📐" },
+        { id: "topic-27", title: "27. Phương Pháp Học Tập, Thi Cử & Điểm Số", file: "TiengTrungTheoChuDe/27-phuong-phap-hoc-tap-thi-cu-va-diem-so.md", icon: "📝" },
+        { id: "topic-28", title: "28. Ngôn Ngữ Học & Chinh Phục Tiếng Trung", file: "TiengTrungTheoChuDe/28-ngon-ngu-hoc-va-chinh-phuc-tieng-trung.md", icon: "🗣️" },
+        { id: "topic-29", title: "29. Đọc Sách, Văn Học & Khát Vọng Tri Thức", file: "TiengTrungTheoChuDe/29-doc-sach-van-hoc-va-tri-thuc.md", icon: "📖" },
+        { id: "topic-30", title: "30. Khoa Học Tự Nhiên, Toán Học & Tư Duy Logic", file: "TiengTrungTheoChuDe/30-khoa-hoc-tu-nhien-toan-hoc-va-tu-duy-logic.md", icon: "🔬" }
       ]
     },
     {
       id: "chu-de-mang-6",
-      title: "🚄 Mảng 6: Giao Thông, Đô Thị & Du Lịch (31 - 36)",
+      title: "🚀 Mảng 6: Giao Thông, Đi Lại & Du Lịch (31 - 36)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-31", title: "31. Phương tiện Giao thông & Di chuyển", file: "TiengTrungTheoChuDe/31-phuong-tien-giao-thong-va-di-chuyen-do-thi.md", icon: "🚇" },
-        { id: "topic-32", title: "32. Phương hướng, Vị trí & Hỏi đường", file: "TiengTrungTheoChuDe/32-phuong-huong-vi-tri-va-hoi-duong.md", icon: "🧭" },
-        { id: "topic-33", title: "33. Không gian Đô thị & Công trình", file: "TiengTrungTheoChuDe/33-khong-gian-do-thi-va-cong-trinh-cong-cong.md", icon: "🏙️" },
-        { id: "topic-34", title: "34. Du lịch & Danh lam Thắng cảnh", file: "TiengTrungTheoChuDe/34-du-lich-va-danh-lam-thang-canh.md", icon: "🏯" },
-        { id: "topic-35", title: "35. Khách sạn, Lưu trú & Nghỉ dưỡng", file: "TiengTrungTheoChuDe/35-khach-san-luu-tru-va-nghi-duong.md", icon: "🏨" },
-        { id: "topic-36", title: "36. Sân bay, Hàng không & Xuất nhập cảnh", file: "TiengTrungTheoChuDe/36-san-bay-hang-khong-va-xuat-nhap-canh.md", icon: "✈️" }
+        { id: "topic-31", title: "31. Phương Tiện Giao Thông & Di Chuyển Đô Thị", file: "TiengTrungTheoChuDe/31-phuong-tien-giao-thong-va-di-chuyen-do-thi.md", icon: "🚇" },
+        { id: "topic-32", title: "32. Phương Hướng, Vị Trí & Hỏi Đường", file: "TiengTrungTheoChuDe/32-phuong-huong-vi-tri-va-hoi-duong.md", icon: "🧭" },
+        { id: "topic-33", title: "33. Không Gian Đô Thị & Công Trình Công Cộng", file: "TiengTrungTheoChuDe/33-khong-gian-do-thi-va-cong-trinh-cong-cong.md", icon: "🏙️" },
+        { id: "topic-34", title: "34. Du Lịch, Danh Lam Thắng Cảnh & Khám Phá", file: "TiengTrungTheoChuDe/34-du-lich-va-danh-lam-thang-canh.md", icon: "✈️" },
+        { id: "topic-35", title: "35. Khách Sạn, Lưu Trú & Nghỉ Dưỡng", file: "TiengTrungTheoChuDe/35-khach-san-luu-tru-va-nghi-duong.md", icon: "🏨" },
+        { id: "topic-36", title: "36. Sân Bay, Hàng Không & Xuất Nhập Cảnh", file: "TiengTrungTheoChuDe/36-san-bay-hang-khong-va-xuat-nhap-canh.md", icon: "🛂" }
       ]
     },
     {
       id: "chu-de-mang-7",
-      title: "💼 Mảng 7: Công Việc, Sự Nghiệp & Tài Chính (37 - 42)",
+      title: "💼 Mảng 7: Nghề Nghiệp, Công Sở & Kinh Doanh (37 - 42)",
       folder: "TiengTrungTheoChuDe",
       items: [
-        { id: "topic-37", title: "37. Nghề nghiệp & Định hướng Sự nghiệp", file: "TiengTrungTheoChuDe/37-nghe-nghiep-va-dinh-huong-su-nghiep.md", icon: "👔" },
-        { id: "topic-38", title: "38. Tuyển dụng, Hồ sơ CV & Phỏng vấn", file: "TiengTrungTheoChuDe/38-tuyen-dung-cv-va-phong-van.md", icon: "📄" },
-        { id: "topic-39", title: "39. Văn phòng, Họp hành & Giao tiếp Công sở", file: "TiengTrungTheoChuDe/39-van-phong-hop-hanh-va-giao-tiep-cong-so.md", icon: "💻" },
-        { id: "topic-40", title: "40. Thương mại, Đàm phán & Hợp tác", file: "TiengTrungTheoChuDe/40-thuong-mai-dam-phan-va-hop-tac-kinh-doanh.md", icon: "🤝" },
-        { id: "topic-41", title: "41. Tài chính Cá nhân, Ngân hàng & Đầu tư", file: "TiengTrungTheoChuDe/41-tai-chinh-ca-nhan-ngan-hang-va-dau-tu.md", icon: "💳" },
-        { id: "topic-42", title: "42. Nhà máy, Sản xuất & Xuất nhập khẩu", file: "TiengTrungTheoChuDe/42-nha-may-san-xuat-va-xuat-nhap-khau.md", icon: "🏭" }
+        { id: "topic-37", title: "37. Nghề Nghiệp & Định Hướng Sự Nghiệp", file: "TiengTrungTheoChuDe/37-nghe-nghiep-va-dinh-huong-su-nghiep.md", icon: "👔" },
+        { id: "topic-38", title: "38. Tuyển Dụng, Viết CV & Phỏng Vấn", file: "TiengTrungTheoChuDe/38-tuyen-dung-cv-va-phong-van.md", icon: "📋" },
+        { id: "topic-39", title: "39. Văn Phòng, Họp Hành & Giao Tiếp Công Sở", file: "TiengTrungTheoChuDe/39-van-phong-hop-hanh-va-giao-tiep-cong-so.md", icon: "💼" },
+        { id: "topic-40", title: "40. Thương Mại, Đàm Phán & Hợp Tác Kinh Doanh", file: "TiengTrungTheoChuDe/40-thuong-mai-dam-phan-va-hop-tac-kinh-doanh.md", icon: "🤝" },
+        { id: "topic-41", title: "41. Tài Chính Cá Nhân, Ngân Hàng & Đầu Tư", file: "TiengTrungTheoChuDe/41-tai-chinh-ca-nhan-ngan-hang-va-dau-tu.md", icon: "💰" },
+        { id: "topic-42", title: "42. Nhà Máy Sản Xuất & Xuất Nhập Khẩu", file: "TiengTrungTheoChuDe/42-nha-may-san-xuat-va-xuat-nhap-khau.md", icon: "🏭" }
       ]
     },
     {

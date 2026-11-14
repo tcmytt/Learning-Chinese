@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Chủ_Đề-60_Topics_Hoàn_Chỉnh-0d9488?style=for-the-badge" alt="60 Topics" />
   <img src="https://img.shields.io/badge/Quy_Chuẩn-4_Tầng_Ngôn_Ngữ-d97706?style=for-the-badge" alt="4-Layer Linguistic Standard" />
   <img src="https://img.shields.io/badge/Bộ_Thủ-214_Radicals-2563eb?style=for-the-badge" alt="214 Radicals" />
+  <img src="https://img.shields.io/badge/Chuẩn_Mới-HSK_3.0-7c3aed?style=for-the-badge" alt="HSK 3.0" />
+  <img src="https://img.shields.io/badge/Thực_Chiến-Taobao_&_Công_Sở-ea580c?style=for-the-badge" alt="Practical Chinese" />
 </p>
 
 ---
@@ -44,11 +46,14 @@ Learning-Chinese/
 │   ├── js/app.js                        # Bộ máy xử lý Markdown, TTS, Quiz, Bộ đếm tiến độ
 │   └── vendor/marked.min.js             # Bộ phân giải Markdown offline
 │
-├── 01-LoTrinh-PhuongPhap/               # Lộ trình học & Phương pháp tư duy
-│   ├── HuongDan.md                      # Lộ trình học tiếng Trung toàn diện (Checklist)
+├── 01-LoTrinh-PhuongPhap/               # Lộ trình học, Ngữ âm Pinyin & Phương pháp
+│   ├── HuongDan.md                      # Lộ trình học tiếng Trung toàn diện (Master Checklist)
+│   ├── BangPinyinVaPhatAm.md             # Bảng Pinyin, Thanh mẫu, Vận mẫu & Quy tắc phát âm
+│   ├── QuyTacBienDieu.md                # Quy tắc biến điệu thực chiến (2 thanh 3, 一, 不, 儿 hóa)
 │   └── HocNhuNao.md                     # Phương pháp học & Chiến lược 2500 chữ Hán
 │
-├── 02-ChuHan-BoThu/                     # Nền tảng Chữ Hán & Bộ thủ
+├── 02-ChuHan-BoThu/                     # Nền tảng Chữ Hán, Bút thuận & Bộ thủ
+│   ├── QuyTacButThuan.md                # 8 Nét cơ bản & 7 Quy tắc bút thuận viết chữ Hán
 │   ├── 214BoThu.md                      # Chiết tự 214 Bộ thủ Hán tự & Ví dụ chi tiết
 │   ├── 2500ChuPhoBien.md                # 2500 Chữ Hán thông dụng nhất (98% ngữ liệu)
 │   ├── ChuHanDeNham.md                  # Chữ Hán có hình thể dễ gây nhầm lẫn
@@ -59,11 +64,17 @@ Learning-Chinese/
 │   ├── ThanhPhanCau.md                  # Phân tích chuyên sâu 6 Thành phần câu (Chủ, Vị, Tân, Định, Trạng, Bổ)
 │   └── NguPhap.md                       # Sổ tay ghi chú ngữ pháp
 │
-├── 04-ThanhNgu-DienCo/                  # Thành ngữ, Điển tích & Khẩu ngữ
+├── 04-ThanhNgu-DienCo/                  # Tiếng Trung Thực Chiến, Đời Sống & Thành Ngữ
+│   ├── TiengLongVaKhauNguMang.md        # Tiếng lóng Internet, hot trend Douyin/Weibo & Mật mã số
+│   ├── TiengTrungKinhDoanhTaobao.md     # Cẩm nang đàm phán, chat shop Taobao, 1688 & Logistics
+│   ├── TiengTrungVanPhongEmailCV.md     # Mẫu viết CV, soạn thảo Email & Khẩu ngữ công sở
 │   ├── CumTuVaThanhNgu.md               # Cụm từ cố định & Thành ngữ bốn chữ
 │   ├── DienTichDienCo.md                # Điển tích điển cố và văn hóa lịch sử Trung Hoa
 │   ├── topic_购物.md                     # Tình huống giao tiếp thực chiến: Mua sắm
 │   └── TuVung.md                        # Sổ tay từ vựng mở rộng
+│
+├── 05-ChungChi-HSK/                     # Luyện Thi Chứng Chỉ Quốc Tế
+│   └── TongQuanHSK3.0VaChienLuocOnThi.md # Khung chuẩn 3 Đẳng 9 Cấp HSK 3.0 & Chiến lược thi HSK/HSKK
 │
 └── TiengTrungTheoChuDe/                 # Hệ thống 60 Chủ đề Master (Chuẩn 4 tầng & 8 mục)
     ├── 0-tong-quan.md                   # Master Blueprint & Quy chuẩn khung chương trình
