@@ -5,7 +5,7 @@
 
 const COURSE_MANIFEST = {
   title: "Giáo Trình Học Tiếng Trung Toàn Diện",
-  description: "Kho tàng tri thức tiếng Trung: Pinyin, Bút thuận, 214 Bộ thủ, 2500 Chữ Hán, Ngữ pháp chuyên sâu, HSK 3.0, Tiếng Trung Thương mại & 60 Chủ đề chuẩn 4 tầng ngôn ngữ.",
+  description: "Kho tàng tri thức tiếng Trung: Pinyin, Bút thuận, 214 Bộ thủ, 2500 Chữ Hán, Ngữ pháp, HSK 4, IT MES Nhà máy thông minh & 60 Chủ đề chuẩn 4 tầng ngôn ngữ.",
   groups: [
     {
       id: "lotrinh",
@@ -15,7 +15,7 @@ const COURSE_MANIFEST = {
       items: [
         {
           id: "huong-dan",
-          title: "Lộ Trình Học Toàn Diện (Checklist)",
+          title: "Lộ Trình Học Toàn Diện (Master Checklist)",
           file: "01-LoTrinh-PhuongPhap/HuongDan.md",
           icon: "🗺️",
           badge: "Cốt lõi"
@@ -25,14 +25,14 @@ const COURSE_MANIFEST = {
           title: "Bảng Pinyin & Cẩm Nang Phát Âm",
           file: "01-LoTrinh-PhuongPhap/BangPinyinVaPhatAm.md",
           icon: "🎙️",
-          badge: "Mới"
+          badge: "Phát âm"
         },
         {
           id: "quy-tac-bien-dieu",
           title: "Quy Tắc Biến Điệu Thực Chiến",
           file: "01-LoTrinh-PhuongPhap/QuyTacBienDieu.md",
           icon: "🎵",
-          badge: "Mới"
+          badge: "Ngữ âm"
         },
         {
           id: "hoc-nhu-nao",
@@ -54,7 +54,7 @@ const COURSE_MANIFEST = {
           title: "Quy Tắc Bút Thuận & Kết Cấu Chữ",
           file: "02-ChuHan-BoThu/QuyTacButThuan.md",
           icon: "✍️",
-          badge: "Mới"
+          badge: "Tập viết"
         },
         {
           id: "214-bo-thu",
@@ -117,9 +117,9 @@ const COURSE_MANIFEST = {
     },
     {
       id: "thanh-ngu-dienco",
-      title: "🏮 4. Tiếng Trung Thực Chiến & Đời Sống",
+      title: "🏮 4. Thành Ngữ, Điển Cố & Tiếng Lóng",
       folder: "04-ThanhNgu-DienCo",
-      description: "Kho tàng thực chiến: Tiếng lóng Internet, đàm phán Taobao/1688, Email & CV công sở, thành ngữ & điển cố.",
+      description: "Kho tàng văn hóa: Thành ngữ bốn chữ, điển tích ngàn năm và ngôn ngữ mạng thịnh hành.",
       items: [
         {
           id: "tieng-long-mang",
@@ -127,20 +127,6 @@ const COURSE_MANIFEST = {
           file: "04-ThanhNgu-DienCo/TiengLongVaKhauNguMang.md",
           icon: "🔥",
           badge: "Hot Trend"
-        },
-        {
-          id: "kinh-doanh-taobao",
-          title: "Đánh Hàng & Đàm Phán Taobao, 1688",
-          file: "04-ThanhNgu-DienCo/TiengTrungKinhDoanhTaobao.md",
-          icon: "🛒",
-          badge: "Thương mại"
-        },
-        {
-          id: "cong-so-email-cv",
-          title: "Tiếng Trung Công Sở: Mẫu CV & Soạn Email",
-          file: "04-ThanhNgu-DienCo/TiengTrungVanPhongEmailCV.md",
-          icon: "💼",
-          badge: "Công sở"
         },
         {
           id: "cum-tu-thanh-ngu",
@@ -157,13 +143,6 @@ const COURSE_MANIFEST = {
           badge: "Điển tích"
         },
         {
-          id: "topic-mua-sam",
-          title: "Chủ Đề Khẩu Ngữ: Mua Sắm (购物)",
-          file: "04-ThanhNgu-DienCo/topic_购物.md",
-          icon: "🛍️",
-          badge: "Thực hành"
-        },
-        {
           id: "tu-vung-so-tay",
           title: "Sổ Tay Từ Vựng Tổng Hợp",
           file: "04-ThanhNgu-DienCo/TuVung.md",
@@ -174,16 +153,74 @@ const COURSE_MANIFEST = {
     },
     {
       id: "chung-chi-hsk",
-      title: "🎯 5. Luyện Thi HSK 3.0 & HSKK",
+      title: "🎯 5. Luyện Thi Chứng Chỉ HSK 3.0 & HSK 4",
       folder: "05-ChungChi-HSK",
-      description: "Hệ thống tiêu chuẩn 3 Đẳng 9 Cấp, cấu trúc đề thi và chiến thuật săn điểm Nghe - Đọc - Viết - Nói.",
+      description: "Lộ trình chinh phục Trung cấp HSK 4 (1200 từ), hệ thống 3 Đẳng 9 Cấp và kỹ năng thi HSK/HSKK.",
       items: [
+        {
+          id: "lo-trinh-hsk4",
+          title: "Lộ Trình & Từ Vựng Trọng Tâm HSK 4 (Trung Cấp)",
+          file: "05-ChungChi-HSK/LoTrinhVaTuVungTrongTamHSK4.md",
+          icon: "⭐",
+          badge: "HSK 4 Mục tiêu"
+        },
         {
           id: "tong-quan-hsk",
           title: "Tổng Quan HSK 3.0 & Chiến Thuật Thi Đạt Điểm Cao",
           file: "05-ChungChi-HSK/TongQuanHSK3.0VaChienLuocOnThi.md",
           icon: "🎯",
           badge: "HSK 3.0"
+        }
+      ]
+    },
+    {
+      id: "it-mes-nhamay",
+      title: "🏭 6. Tiếng Trung IT MES & Khu Công Nghiệp",
+      folder: "06-TiengTrung-IT-MES-NhaMay",
+      description: "Chuyên ngành IT MES: Nhà máy thông minh, lệnh sản xuất, truy xuất S/N, xử lý sự cố dừng chuyền.",
+      items: [
+        {
+          id: "thuat-ngu-mes",
+          title: "Thuật Ngữ IT MES & Sản Xuất Thông Minh",
+          file: "06-TiengTrung-IT-MES-NhaMay/ThuatNguMESVaSanXuatThongMinh.md",
+          icon: "💻",
+          badge: "IT MES"
+        },
+        {
+          id: "su-co-mes-chuyen",
+          title: "Xử Lý Sự Cố Chuyền & Giao Tiếp Hiện Trường",
+          file: "06-TiengTrung-IT-MES-NhaMay/GiaoTiepXuLySuCoChuyenSanXuat.md",
+          icon: "🚨",
+          badge: "Thực chiến"
+        }
+      ]
+    },
+    {
+      id: "thuong-mai-cong-so",
+      title: "💼 7. Tiếng Trung Thương Mại & Công Sở",
+      folder: "07-ThuongMai-CongSo",
+      description: "Kỹ năng làm việc thực tế: Đánh hàng Taobao/1688, soạn thảo Email, viết CV và phỏng vấn.",
+      items: [
+        {
+          id: "kinh-doanh-taobao",
+          title: "Đánh Hàng & Đàm Phán Taobao, 1688",
+          file: "07-ThuongMai-CongSo/TiengTrungKinhDoanhTaobao.md",
+          icon: "🛒",
+          badge: "Thương mại"
+        },
+        {
+          id: "cong-so-email-cv",
+          title: "Tiếng Trung Công Sở: Mẫu CV & Soạn Email",
+          file: "07-ThuongMai-CongSo/TiengTrungVanPhongEmailCV.md",
+          icon: "💼",
+          badge: "Công sở"
+        },
+        {
+          id: "topic-mua-sam",
+          title: "Chủ Đề Khẩu Ngữ: Mua Sắm (购物)",
+          file: "07-ThuongMai-CongSo/topic_购物.md",
+          icon: "🛍️",
+          badge: "Thực hành"
         }
       ]
     },

@@ -140,9 +140,20 @@ Bước 5: Tiếng Trung Thực chiến (Thương mại + Tiếng lóng + HSK 3.
 
 ---
 
-## Giai Đoạn 5: Tiếng Trung Thực Chiến & Chinh Phục Kỳ Thi
+## Giai Đoạn 5: Chinh Phục Chứng Chỉ HSK 4 (Trung Cấp) & HSK 3.0
+- [ ] **Mục tiêu HSK 4 (1200 từ vựng):** Nắm vững 20 điểm ngữ pháp trọng tâm & cặp từ cận nghĩa ([LoTrinhVaTuVungTrongTamHSK4.md](file:///d:/HocThem/Learning-Chinese/05-ChungChi-HSK/LoTrinhVaTuVungTrongTamHSK4.md))
+- [ ] **Tổng quan HSK 3.0 & Chiến lược thi:** Bí kíp săn điểm Nghe, Đọc, Viết và Khẩu ngữ HSKK ([TongQuanHSK3.0VaChienLuocOnThi.md](file:///d:/HocThem/Learning-Chinese/05-ChungChi-HSK/TongQuanHSK3.0VaChienLuocOnThi.md))
+- [ ] **Đạt mốc chứng chỉ mục tiêu:** Thi đỗ HSK 4 $\ge$ 210 điểm và HSKK Trung cấp.
+
+---
+
+## Giai Đoạn 6: Tiếng Trung Chuyên Ngành IT MES & Nhà Máy Thông Minh
+- [ ] **Thuật ngữ IT MES:** Lệnh sản xuất (工单), Part Number (料号), Truy xuất nguồn gốc S/N, Chống sai sót Poka-Yoke (防呆), Trạm SMT, Lắp ráp, Đóng gói ([ThuatNguMESVaSanXuatThongMinh.md](file:///d:/HocThem/Learning-Chinese/06-TiengTrung-IT-MES-NhaMay/ThuatNguMESVaSanXuatThongMinh.md))
+- [ ] **Giao tiếp hiện trường & Xử lý dừng chuyền:** Mẫu câu khẩn cấp xử lý dừng chuyền (停线), quét mã báo lỗi, kẹt lệnh, nhật ký giao ca & báo cáo sự cố RCA ([GiaoTiepXuLySuCoChuyenSanXuat.md](file:///d:/HocThem/Learning-Chinese/06-TiengTrung-IT-MES-NhaMay/GiaoTiepXuLySuCoChuyenSanXuat.md))
+
+---
+
+## Giai Đoạn 7: Tiếng Trung Thương Mại, Đánh Hàng & Đời Sống
 - [ ] **Tiếng lóng & Khẩu ngữ mạng:** Thuộc các hot trend Douyin, Weibo, mật mã số ([TiengLongVaKhauNguMang.md](file:///d:/HocThem/Learning-Chinese/04-ThanhNgu-DienCo/TiengLongVaKhauNguMang.md))
-- [ ] **Đánh hàng Taobao & 1688:** Mẫu câu chat shop, mặc cả, khiếu nại, logistics ([TiengTrungKinhDoanhTaobao.md](file:///d:/HocThem/Learning-Chinese/04-ThanhNgu-DienCo/TiengTrungKinhDoanhTaobao.md))
-- [ ] **Tiếng Trung công sở & Email CV:** Mẫu CV chuyên nghiệp và chuẩn mực viết email ([TiengTrungVanPhongEmailCV.md](file:///d:/HocThem/Learning-Chinese/04-ThanhNgu-DienCo/TiengTrungVanPhongEmailCV.md))
-- [ ] **Chiến thuật HSK 3.0 & HSKK:** Bí kíp săn điểm Nghe, Đọc, Viết và Khẩu ngữ ([TongQuanHSK3.0VaChienLuocOnThi.md](file:///d:/HocThem/Learning-Chinese/05-ChungChi-HSK/TongQuanHSK3.0VaChienLuocOnThi.md))
-- [ ] **Đạt mục tiêu chứng chỉ:** HSK 4 (210+) hoặc HSK 5 (220+) và HSKK tương ứng.
+- [ ] **Đánh hàng Taobao & 1688:** Mẫu câu chat shop, mặc cả, khiếu nại, logistics ([TiengTrungKinhDoanhTaobao.md](file:///d:/HocThem/Learning-Chinese/07-ThuongMai-CongSo/TiengTrungKinhDoanhTaobao.md))
+- [ ] **Tiếng Trung công sở & Email CV:** Mẫu CV chuyên nghiệp và chuẩn mực viết email ([TiengTrungVanPhongEmailCV.md](file:///d:/HocThem/Learning-Chinese/07-ThuongMai-CongSo/TiengTrungVanPhongEmailCV.md))

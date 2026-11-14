@@ -64,17 +64,24 @@ Learning-Chinese/
 │   ├── ThanhPhanCau.md                  # Phân tích chuyên sâu 6 Thành phần câu (Chủ, Vị, Tân, Định, Trạng, Bổ)
 │   └── NguPhap.md                       # Sổ tay ghi chú ngữ pháp
 │
-├── 04-ThanhNgu-DienCo/                  # Tiếng Trung Thực Chiến, Đời Sống & Thành Ngữ
+├── 04-ThanhNgu-DienCo/                  # Thành Ngữ, Điển Cố & Ngôn Ngữ Mạng
 │   ├── TiengLongVaKhauNguMang.md        # Tiếng lóng Internet, hot trend Douyin/Weibo & Mật mã số
-│   ├── TiengTrungKinhDoanhTaobao.md     # Cẩm nang đàm phán, chat shop Taobao, 1688 & Logistics
-│   ├── TiengTrungVanPhongEmailCV.md     # Mẫu viết CV, soạn thảo Email & Khẩu ngữ công sở
 │   ├── CumTuVaThanhNgu.md               # Cụm từ cố định & Thành ngữ bốn chữ
 │   ├── DienTichDienCo.md                # Điển tích điển cố và văn hóa lịch sử Trung Hoa
-│   ├── topic_购物.md                     # Tình huống giao tiếp thực chiến: Mua sắm
 │   └── TuVung.md                        # Sổ tay từ vựng mở rộng
 │
-├── 05-ChungChi-HSK/                     # Luyện Thi Chứng Chỉ Quốc Tế
+├── 05-ChungChi-HSK/                     # Luyện Thi Chứng Chỉ Quốc Tế & Mục Tiêu HSK 4
+│   ├── LoTrinhVaTuVungTrongTamHSK4.md   # Lộ trình, ngữ pháp & 1200 từ vựng cốt lõi HSK 4 (Trung cấp)
 │   └── TongQuanHSK3.0VaChienLuocOnThi.md # Khung chuẩn 3 Đẳng 9 Cấp HSK 3.0 & Chiến lược thi HSK/HSKK
+│
+├── 06-TiengTrung-IT-MES-NhaMay/         # Chuyên Ngành IT MES & Nhà Máy Thông Minh
+│   ├── ThuatNguMESVaSanXuatThongMinh.md # Thuật ngữ hệ thống MES, Work Order, S/N, Barcode, SMT, Jig
+│   └── GiaoTiepXuLySuCoChuyenSanXuat.md # Mẫu câu khẩn cấp xử lý dừng chuyền (停线), báo lỗi quét mã, giao ca
+│
+├── 07-ThuongMai-CongSo/                 # Tiếng Trung Thương Mại & Môi Trường Công Sở
+│   ├── TiengTrungKinhDoanhTaobao.md     # Cẩm nang đàm phán, chat shop Taobao, 1688 & Logistics
+│   ├── TiengTrungVanPhongEmailCV.md     # Mẫu viết CV, soạn thảo Email & Khẩu ngữ công sở
+│   └── topic_购物.md                     # Tình huống giao tiếp thực chiến: Mua sắm (购物)
 │
 └── TiengTrungTheoChuDe/                 # Hệ thống 60 Chủ đề Master (Chuẩn 4 tầng & 8 mục)
     ├── 0-tong-quan.md                   # Master Blueprint & Quy chuẩn khung chương trình
